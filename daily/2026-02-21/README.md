@@ -30,8 +30,41 @@
 | 9 | スーダンのナイル川でフェリー転覆、15人死亡 | リバーナイル州シェンディ地区でナイル川を航行するフェリーが転覆し、少なくとも15人が死亡、6人が行方不明。 | [Wikipedia: Current Events](https://en.wikipedia.org/wiki/Portal:Current_events/February_2026) |
 | 10 | MIT、装着型乳がん超音波検出デバイスを開発 | MITの研究者が組織15cmの深さまで撮像できるウェアラブル乳がん超音波検出デバイスを開発。従来より早期の発見が可能に。 | [MIT News](https://news.mit.edu/) |
 
+## Japan Tech News
+
+| # | トピック | 概要 | ソース |
+|---|---------|------|--------|
+| 1 | アドバンテスト、ランサムウェア攻撃被害 | 半導体試験装置大手のアドバンテストが2月15日にIT環境で異常を検知。ランサムウェアを伴うサイバーセキュリティインシデントが発生し、情報漏洩の有無は調査中。株価も続落。 | [アドバンテスト](https://www.advantest.com/ja/news/2026/20260219.html) |
+| 2 | トヨタ、カナダ工場にヒューマノイドロボット「Digit」7台を本番導入 | トヨタ・カナダがAgility Roboticsと商業契約を締結。ウッドストック工場のRAV4生産ラインにDigit 7台を配備し、部品搬送の自動化を推進。1年間のパイロットを経て本格展開。 | [Agility Robotics](https://www.agilityrobotics.com/content/agility-robotics-announces-commercial-agreement-with-toyota-motor-manufacturing-canada) |
+| 3 | ICT総研調査：生成AI利用率が54.7%に急増 | 生成AI利用経験率が前回比+25.7ポイントの54.7%に上昇。ChatGPTが36.2%で首位、Geminiが25.0%、Copilotが13.3%。2026年末に国内利用者3,553万人を予測。 | [PR TIMES](https://prtimes.jp/main/html/rd/p/000000027.000019182.html) |
+| 4 | 経産省、FY2026半導体・AI予算を約4倍の1.23兆円に拡大 | METIがFY2026予算で半導体・AI分野に約1.23兆円を配分（前年の約4倍）。全体予算も約50%増の約3.07兆円に。国内半導体産業の強化を加速。 | [EE News Europe](https://www.eenewseurope.com/en/meti-budget-hike-japan-chip-ai-fy-2026/) |
+| 5 | アサヒGHD、ランサムウェア攻撃の調査完了を発表 | 2025年9月のサイバー攻撃について調査完了。取引先・従業員の個人情報約11.5万件の漏洩を確認。再発防止策とガバナンス体制強化を公表。物流は2026年2月までに正常化。 | [アサヒGHD](https://www.asahigroup-holdings.com/newsroom/detail/20260218-0101.html) |
+| 6 | IPA「情報セキュリティ10大脅威2026」発表 | 「AIの利用をめぐるサイバーリスク」が組織向け脅威に初ランクイン。個人向けでは「インターネットバンキングの不正利用」が4年ぶりに再登場。 | [IPA](https://www.ipa.go.jp/security/10threats/10threats2026.html) |
+| 7 | KPMGジャパン、サイバー被害「10億円以上」企業を初確認 | 「サイバーセキュリティサーベイ2026」で、過去1年間のサイバーインシデント合計被害額が「10億円以上」と回答した企業が初めて確認。企業のセキュリティ投資の重要性が鮮明に。 | [KPMGジャパン](https://kpmg.com/jp/ja/media/press-releases/2026/02/cyber-security-survey2026.html) |
+| 8 | 日本医科大学武蔵小杉病院、サイバー攻撃で患者約1万人分の情報流出 | 医療情報システムへのサイバー攻撃で患者の個人情報が漏洩。医療機関へのサイバー攻撃の深刻化が浮き彫りに。 | [アクト](https://act1.co.jp/2026-02-15/) |
+| 9 | JST・NVIDIAのMunshotロボットプログラムが進展 | 科学技術振興機構（JST）のムーンショット研究プログラムがNVIDIAのAI・ロボティクス技術で加速。2050年までにAI自律学習ロボットを日常生活に統合することを目指す。高齢者介護への応用が中心。 | [NVIDIA Blog](https://blogs.nvidia.com/blog/japan-science-technology-agency-develops-moonshot-robot/) |
+| 10 | ガートナージャパン、2026年サイバーセキュリティ・トップトレンドを発表 | AIの混乱を伴う急拡大、地政学的緊張、不安定な規制環境、脅威の加速がトレンドを牽引。企業のセキュリティ戦略の再構築を提言。 | [Yahoo!ニュース](https://news.yahoo.co.jp/articles/54896d3a8b45ecd5fa2c63d097edc63b4610b39e) |
+
+## Japan General News
+
+| # | トピック | 概要 | ソース |
+|---|---------|------|--------|
+| 1 | 第2次高市内閣が発足、施政方針演説で「責任ある積極財政」を表明 | 2月8日の衆院選で自民党が圧勝。18日に第2次高市内閣が発足し、全閣僚を再任。20日の施政方針演説で「大胆な投資」と「責任ある積極財政」を打ち出した。 | [The Japan Times](https://www.japantimes.co.jp/news/2026/02/20/japan/politics/takaichi-policy-speech/) |
+| 2 | 日経平均5日続落、5万2,774円に | 米欧間のグリーンランドを巡る対立懸念から海外投資家がリスク回避姿勢を強め、日経平均が216円安の5万2,774円に。約1年ぶりの5日続落。 | [日本経済新聞](https://www.nikkei.com/article/DGXZQOFL215JU0R20C26A1000000/) |
+| 3 | 日本のCPIが1.5%に低下、約4年ぶりに日銀目標2%を下回る | 1月のCPIが前年同月比1.5%に鈍化し、2022年3月以来初めて日銀の2%目標を下回った。コアCPIは2.0%。食品価格の落ち着きと政府の物価対策が主因。 | [CNBC](https://www.cnbc.com/2026/02/20/japan-core-inflation-january-boj-target-gdp-growth.html) |
+| 4 | Q4 GDP 0.1%成長、景気後退回避も予想を下回る | 2025年10-12月期GDPが前期比0.1%増で、エコノミスト予想の0.4%増を下回った。テクニカルリセッションは回避。個人消費が小幅ながらプラスに寄与。 | [CNBC](https://www.cnbc.com/2026/02/16/japan-fourth-quarter-gdp-reverses-into-growth-but-misses-expectations-as-rebound-underwhelms.html) |
+| 5 | 北海道で猛吹雪、札幌で台風並みの暴風・341校臨時休校 | 2月19日、発達した低気圧の影響で北海道が猛吹雪に。札幌では風速26m/sを観測しホワイトアウト状態に。新千歳空港発着便が欠航、JR373本運休、約13万人に影響。 | [北海道新聞](https://www.hokkaido-np.co.jp/article/1277263/) |
+| 6 | 福岡市総合図書館で3人刺傷事件 | 2月19日夜、福岡市早良区の総合図書館で61歳の男が男女3人を包丁で襲い、殺人未遂容疑で現行犯逮捕。被害者は全員命に別条なし。容疑者は「面識はない」と供述。 | [日本経済新聞](https://www.nikkei.com/article/DGXZQOUD19BK50Z10C26A2000000/) |
+| 7 | 日本郵便、全国6割の局で軽バン停止処分 | 点呼不備問題で国交省が47都道府県1,862局に軽貨物車の使用停止処分を通知完了。3,333台に影響。追加費用は「100億円に収まる」見通し。6月に全局で使用再開予定。 | [日本経済新聞](https://www.nikkei.com/article/DGXZQOUD102AO0Q6A210C2000000/) |
+| 8 | JLPT、観光客の日本国内受験を2026年から禁止 | 日本語能力試験（JLPT）が短期滞在の外国人の国内受験を禁止。中長期在留資格または特別永住者のみ受験可能に。不正な住所利用や無効な電話番号の問題が背景。 | [The Japan Times](https://www.japantimes.co.jp/news/2026/02/18/japan/jlpt-tourist-ban/) |
+| 9 | 高市首相、中国の「威圧」を警告し安全保障の大幅見直しを表明 | 施政方針演説で防衛戦略の見直し、武器輸出規制の緩和、重要サプライチェーンの強化を宣言。首相直轄の国家情報会議の設置や、日本版CFIUS（対日外国投資委員会）の創設も発表。 | [NBC News](https://www.nbcnews.com/world/asia/japanese-leader-takaichi-warns-china-coercion-vows-security-overhaul-rcna259857) |
+| 10 | 1月の貿易統計：輸出16.8%増、AI半導体需要が牽引 | 財務省発表の1月の貿易統計で輸出が前年同月比16.8%増。中国向け半導体関連は51.7%急増。AI「ギガサイクル」による設備投資が追い風に。 | [CNBC](https://www.cnbc.com/2026/02/18/japan-trade-data-january-exports-imports.html) |
+
 ## Deep Dive
 
 - [米最高裁IEEPA関税違憲判決 — 貿易政策への影響と今後の展開](./scotus-tariff-ruling.md)
 - [OpenAI 1,000億ドル資金調達 — AI業界の投資バブルか成長の必然か](./openai-100b-funding.md)
 - [Seedance 2.0とAI動画生成の著作権問題](./seedance-copyright-battle.md)
+- [アドバンテストへのランサムウェア攻撃 — 半導体産業とサイバーセキュリティの現在地](./jp-advantest-ransomware.md)
+- [第2次高市内閣の施政方針 — 「責任ある積極財政」と安全保障の転換点](./jp-takaichi-policy-speech.md)
+- [日本のインフレ率が日銀目標を下回る — 金融政策への影響](./jp-inflation-below-boj-target.md)
