@@ -30,8 +30,41 @@
 | 9 | 米Q4 2025 GDP成長率が予想を大幅に下回る | GDP成長率1.4%（コンセンサス予想2.9%）で景気減速懸念が強まる。関税不確実性との相乗効果で市場心理が悪化。 | [Yahoo Finance](https://finance.yahoo.com/news/stock-market-news-feb-23-111800081.html) |
 | 10 | ハンガリーがEU対ロシア制裁・ウクライナ融資を阻止 | ウクライナ侵攻4周年を前に、ハンガリーがEUの対ロシア追加制裁と900億ユーロのキーウ向け融資を拒否する姿勢を表明。EU内の結束に亀裂。 | [US News](https://www.usnews.com/news/world/articles/2026-02-23/hungary-vows-to-block-eu-sanctions-on-russia-on-eve-of-ukraine-war-anniversary) |
 
+## Japan Tech News
+
+| # | トピック | 概要 | ソース |
+|---|---------|------|--------|
+| 1 | 楽天市場×YouTube ショッピング開始 | GoogleとRakutenが「YouTubeショッピング アフィリエイト プログラム」で提携。YouTube動画から楽天市場の商品をシームレスに購入可能に。日本は同プログラム導入12番目の地域。 | [楽天グループ](https://corp.rakuten.co.jp/news/press/2026/0219_01.html) |
+| 2 | Rapidus 2nm試作ライン本格稼働 | 北海道千歳市のIIM-1クリーンルームで2nmプロセスの試作ラインが本格稼働。2nm PDKリリース、GAAトランジスタ動作実証を達成。2027年後半の量産開始を目指す。 | [日本経済新聞](https://www.nikkei.com/topics/23053002) |
+| 3 | アドバンテストにランサムウェア攻撃 | 半導体試験装置大手アドバンテストが2月15日にIT環境内で異常を検知。ランサムウェアによるサイバーセキュリティインシデントが発生し、情報漏洩の有無を調査中。株価も続落。 | [アドバンテスト](https://www.advantest.com/ja/news/2026/20260219.html) |
+| 4 | 経産省がAI・半導体予算を4倍増の1.23兆円に | FY2026予算でAI・半導体関連に約1.23兆円を計上。Rapidusに1500億円、国内AI開発に3873億円を配分し、基盤モデルやデータインフラ整備を推進。 | [EE News Europe](https://www.eenewseurope.com/en/meti-budget-hike-japan-chip-ai-fy-2026/) |
+| 5 | アサヒグループHD、サイバー攻撃の調査完了・再発防止策を発表 | 2025年9月のランサムウェア攻撃による約11万5000件の情報漏洩を確認。サイバーセキュリティを経営上の最重要リスクと位置付け、独立組織を設置して体制を強化。 | [アサヒグループHD](https://www.asahigroup-holdings.com/newsroom/detail/20260218-0101.html) |
+| 6 | IPA「情報セキュリティ10大脅威 2026」発表 | 組織向け脅威で「AIの利用をめぐるサイバーリスク」が初ランクイン。ランサムウェアやサプライチェーン攻撃に加え、AI悪用の新たな脅威が顕在化。 | [IPA](https://www.ipa.go.jp/security/10threats/10threats2026.html) |
+| 7 | KPMGサイバーセキュリティサーベイ2026 | 国内企業調査で、過去1年のサイバーインシデント合計被害額が「10億円以上」と回答した企業が初めて確認された。企業のサイバーリスクが深刻化。 | [KPMGジャパン](https://kpmg.com/jp/ja/media/press-releases/2026/02/cyber-security-survey2026.html) |
+| 8 | 日本の生成AIサービス利用者が3553万人に到達見込み | 2026年末の国内生成AI利用者数が約3553万人に達する予測。ChatGPT（36.2%）、Google Gemini（25.0%）、Microsoft Copilot（13.3%）が主要サービス。 | [日本経済新聞](https://www.nikkei.com/article/DGXZRSP703329_Q6A220C2000000/) |
+| 9 | Rapidus AI設計ツール「Raads」を2026年提供開始 | 2nm製造プロセス向けの半導体設計支援ツール群「Raads」を発表。AIによる自動設計で設計期間50%短縮・設計コスト30%削減を実現予定。 | [EE Times Japan](https://eetimes.itmedia.co.jp/ee/articles/2512/18/news046.html) |
+| 10 | AppGuard OT、重要インフラ向け新セキュリティ製品を投入 | Blue Planet-worksが2026年4月より製品体系を刷新。工場・製造現場のOT環境を保護する「AppGuard OT」で旧型OSを要塞化し、サイバー攻撃から保護。 | [PR TIMES](https://prtimes.jp/main/html/rd/p/000000036.000040798.html) |
+
+## Japan General News
+
+| # | トピック | 概要 | ソース |
+|---|---------|------|--------|
+| 1 | 高市首相が施政方針演説、食料品消費税ゼロを明言 | 第221回国会で施政方針演説。食料品の消費税率を2年間ゼロにする方針を示し、夏前の中間まとめを目指す。「野放図な財政政策はとらない」と市場の信頼確保を強調。 | [首相官邸](https://www.kantei.go.jp/jp/105/statement/2026/0220shiseihoshin.html) |
+| 2 | ウクライナ侵攻4年、両軍死傷・不明者180万人 | 2月24日でロシアの全面侵攻から丸4年。両軍の死傷者・行方不明者は推計約180万人。和平交渉に実質的進展なく、JICAは日本企業の技術による復興支援を推進。 | [時事通信](https://www.jiji.com/jc/article?k=2026022200229&g=int) |
+| 3 | 訪日外国人が4年ぶりマイナス、中国人客60%減 | 2026年1月の訪日外国人は359.7万人で前年同月比4.9%減。中国からの訪日客は60.7%減の38.5万人。渡航自粛要請と旧正月時期のずれが影響。 | [JNTO](https://www.jnto.go.jp/statistics/data/visitors-statistics/) |
+| 4 | 三重県鳥羽沖で貨物船と遊漁船が衝突、2人死亡 | 20日午後、鳥羽市沖で貨物船が停泊中の遊漁船に衝突。釣り客2人が死亡、10人が負傷。21歳の2等航海士が業務上過失致死容疑で逮捕された。 | [NHK](https://news.web.nhk/newsweb/na/na-k10015057701000) |
+| 5 | 東京スカイツリーで20人が6時間閉じ込め | 22日夜、展望台エレベーターが地上約30mで停止し20人が約6時間閉じ込め。けが人なし。23-24日は臨時休業し総点検を実施。原因調査中。 | [日本経済新聞](https://www.nikkei.com/article/DGXZQOUD221X70S6A220C2000000/) |
+| 6 | 九州北部に春一番、熊本で22年ぶり2月の夏日 | 22日に九州北部・中国・四国で春一番を観測。熊本県八代市で25.8℃を記録し、2月の夏日は2004年以来22年ぶり。全国53地点で2月の観測史上最高気温を更新。 | [日本気象協会](https://tenki.jp/forecaster/deskpart/2026/02/22/37904.html) |
+| 7 | 日経平均、金利上昇と円高懸念で不安定 | 日経平均は56,825円（前日比-642円）。NYダウ一時850ドル安の影響もあり、米関税政策への不透明感が重しに。2026年末の市場予想平均は58,040円。 | [日本経済新聞](https://www.nikkei.com/markets/worldidx/chart/nk225/) |
+| 8 | コメ価格高騰が継続、令和のコメ騒動常態化の懸念 | 店頭価格は5kg約4,700円で推移。生産コスト高止まりにより以前の安値への回復は困難。最大手卸の神明HDが価格見通しと安定供給策を提示。 | [日本経済新聞](https://www.nikkei.com/article/DGXZQOCD0556X0V01C25A1000000/) |
+| 9 | 「ミヤネ屋」9月末で放送終了を発表 | 宮根誠司が2月12日の生放送で発表。番組20周年の節目で終了を決断。関西での視聴率低迷が背景。東京・大阪を往復する15年間の過酷な生活にも区切り。 | [共同通信](https://www.sakigake.jp/news/article/20260212FN0046/) |
+| 10 | 2026年春闘、5%程度の高い賃上げ率維持の見通し | 26年春闘では前年に続き5%程度の高い賃上げ率が見込まれ、実質賃金が前年比プラス基調に転じる見通し。日本経済は緩やかな拡大傾向。 | [三菱総合研究所](https://www.mri.co.jp/knowledge/insight/ecooutlook/2026/20250217.html) |
+
 ## Deep Dive
 
 - [米最高裁IEEPA関税判決とトランプ政権の対応](./scotus-tariff-ruling.md)
 - [Anthropic Claude CodeのCOBOL参入とソフトウェア業界への衝撃](./anthropic-cobol-impact.md)
 - [メキシコ「エル・メンチョ」殺害の背景と影響](./el-mencho-killing.md)
+- [アドバンテストへのランサムウェア攻撃と日本半導体産業のサイバーリスク](./jp-advantest-ransomware.md)
+- [訪日外国人4年ぶり減少と中国渡航自粛の影響](./jp-inbound-tourism-decline.md)
+- [高市政権の食料品消費税ゼロ政策と財政運営](./jp-takaichi-tax-policy.md)
