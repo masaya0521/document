@@ -2,7 +2,7 @@
 
 - **日付**: 2026-02-27
 - **カテゴリ**: Language / Runtime / Concurrency
-- **関連**: [TypeScript 6.0/7.0 深掘り — Go 書き直しと言語ランタイムの並行性モデル](../../daily/2026-02-20/tu-typescript-6-0-beta-deep-dive.md)
+- **前編**: [TypeScript 6.0/7.0 深掘り — Go 書き直しと言語ランタイムの並行性モデル](./typescript-7-go-rewrite-and-concurrency-models.md)
 
 ## 1. 概要
 
