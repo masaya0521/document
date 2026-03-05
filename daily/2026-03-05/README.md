@@ -30,8 +30,40 @@
 | 9 | ビットコインが73,000ドル回復 — Coinbase14%急騰 | ビットコインが73,000ドルを回復。Coinbase株は14%急騰。中東不安の中でデジタル資産への資金流入が続く。 | [The Motley Fool](https://www.fool.com/coverage/stock-market-today/2026/03/04/stock-market-today-march-4-nio-rises-after-deliveries-surpass-1-million-vehicles/) |
 | 10 | 世界経済成長率2.7%に減速見通し | 国連貿易開発会議（UNCTAD）が2026年の世界経済成長率を2.7%と予測。2025年実績およびパンデミック前の平均を下回る水準。 | [UNCTAD](https://unctad.org/publication/world-economic-situation-and-prospects-2026) |
 
+## Japan Tech News
+
+| # | トピック | 概要 | ソース |
+|---|---------|------|--------|
+| 1 | 東京メトロ・東芝、Bluetoothタッチレス改札の実証実験を国内初実施 | 東京メトロ南北線白金台駅で3月2日〜10日、スマホのBluetooth通信で改札を通過できるタッチレス改札機の社員向け実証試験を実施。生体情報の事前登録不要で、専用アプリのみで利用可能。 | [東京メトロ](https://www.tokyometro.jp/news/2026/223646.html) |
+| 2 | Apple M5搭載 新型MacBook Air発表 — 日本価格18.5万円から | Appleが最新M5チップ搭載の新型MacBook Airを発表。13インチが18万4,800円〜、15インチが21万9,800円〜で、前世代比約2万円の値上げ。AI処理性能はM4比最大4倍に向上。3月11日発売。 | [日本経済新聞](https://www.nikkei.com/article/DGXZQOGN03C3B0T00C26A3000000/) |
+| 3 | 政府AI官民投資ロードマップ、2026年春策定へ | 2025年12月閣議決定の「人工知能基本計画」に基づき、政府は2026年春をめどにAI官民投資ロードマップを取りまとめる方針。「世界で最もAIを開発・活用しやすい国」を目指す。 | [大和総研](https://www.dir.co.jp/report/research/economics/japan/20260303_025610.html) |
+| 4 | 能動的サイバー防御法、2026年施行に向け準備本格化 | 2025年5月成立のサイバー対処能力強化法の具体的運用ルールが定まり、2026年中の施行に向けた準備が本格化。攻撃の兆候を事前に検知し未然に排除する防御体制を構築。 | [Innovatopia](https://innovatopia.jp/cyber-security/cyber-security-news/75573/) |
+| 5 | 高市首相「国家情報局」設置法案を今国会提出へ | 内閣情報調査室を改組し「国家情報局」を新設する法案を今国会に提出、成立を目指す。外務省・防衛省・警察庁等の情報を一元化するインテリジェンス改革の第1弾。 | [NHK](https://news.web.nhk.newsweb/na/na-k10015065441000) |
+| 6 | Astroscale・JAXA、宇宙デブリ除去実証フェーズII 2026年度実施へ | JAXA商業デブリ除去実証（CRD2）のフェーズIIとしてAstroscale Japanが選定。フェーズIの非協力物体への接近・映像取得に続き、2026年度以降に実際のデブリ除去を実証予定。 | [JAXA](https://www.kenkai.jaxa.jp/crd2/project/) |
+| 7 | ファナック・NVIDIA協業強化 — フィジカルAIでロボット導入コスト大幅削減 | ファナックがNVIDIAとの協業を強化し、仮想空間上でロボットに学習させ現実の工場に展開する手法を推進。導入時間・コストの大幅削減を実現し、フィジカルAIの社会実装を加速。 | [東洋経済](https://toyokeizai.net/articles/-/926251?display=b) |
+| 8 | IPA「情報セキュリティ10大脅威 2026」公開 | 独立行政法人情報処理推進機構（IPA）が2026年版の情報セキュリティ10大脅威を公開。ランサムウェア、フィッシング、生成AI悪用によるビジネスメール詐欺等が引き続き主要脅威に。 | [IPA](https://www.ipa.go.jp/security/10threats/10threats2026.html) |
+| 9 | KPMGジャパン「サイバーセキュリティサーベイ2026」発表 | KPMGジャパンが日本企業のサイバーセキュリティ実態調査結果を発表。企業のセキュリティ投資動向やインシデント対応体制の現状を明らかに。 | [KPMG](https://kpmg.com/jp/ja/media/press-releases/2026/02/cyber-security-survey2026.html) |
+| 10 | 日本の女性リーダーが宇宙産業革命を主導 | Astroscale Japan副社長の伊藤美紀氏がJAXAとのADRAS-Jミッションを牽引。Infostellar共同創業者の倉原奈美氏は地上局共有プラットフォームで宇宙産業の民主化を推進。 | [Euronews](https://www.euronews.com/next/2026/03/03/the-women-leading-japans-high-tech-orbital-revolution) |
+
+## Japan General News
+
+| # | トピック | 概要 | ソース |
+|---|---------|------|--------|
+| 1 | 米・イスラエルのイラン攻撃 — 日本のエネルギー供給に深刻な影響 | ホルムズ海峡通過が7割減少し、日本の原油輸入94%が中東依存。最悪シナリオでは原油140ドル/バレルに達し、スタグフレーションの懸念。石油備蓄は約260日分。 | [野村研究所](https://www.nri.com/jp/media/column/kiuchi/20260302.html) |
+| 2 | 日経平均3日続落、終値2033円安の5万4245円 | 中東情勢の緊迫化と原油高を受けて東京株式市場が大幅下落。3日続落で3.61%安。エネルギー輸入国の日本への経済打撃懸念が強まる。 | [日本経済新聞](https://www.nikkei.com/article/DGXZQOFL040HJTU6A300C2000000/) |
+| 3 | 旧統一教会に東京高裁も解散命令 — 清算手続き開始 | 東京高裁が世界平和統一家庭連合に対し解散命令を維持。資産1000億円超の清算手続きが開始。高額寄付勧誘を理由とした民法上の不法行為による解散命令は初。 | [日本経済新聞](https://www.nikkei.com/article/DGXZQOUD2021E0Q6A220C2000000/) |
+| 4 | 帝国ホテル京都が祇園に本日開業 — 30年ぶりの新規開業 | 祇園甲部歌舞練場敷地内の国登録有形文化財「弥栄会館」を活用した全55室のスモールラグジュアリーホテルが3月5日開業。帝国ホテル大阪以来30年ぶりの新規開業。 | [Business Insider Japan](https://www.businessinsider.jp/article/2603-imperial-hotel-kyoto-new-open/) |
+| 5 | 京都市宿泊税が3月1日から大幅引き上げ — 最高1万円に | 京都市がオーバーツーリズム対策として宿泊税を5段階に改定。10万円以上の宿泊で最高1万円（従来の10倍）。2026年度の税収は132億円（73億円増）の見込み。 | [京都市](https://www.city.kyoto.lg.jp/gyozai/page/0000345893.html) |
+| 6 | WBC 2026本日開幕 — 侍ジャパン、3連覇へ | 第6回ワールドベースボールクラシックが3月5日開幕。侍ジャパンは東京ドームでオーストラリア、チェコ、韓国、台湾と対戦。エース山本由伸が初戦先発。 | [WBC公式](https://www.2026wbc.jp/) |
+| 7 | 高市首相、イランに自制求める — 中東情勢への対応を表明 | 高市首相が衆院予算委員会で中東情勢について言及し、イランに対し自制を求める姿勢を示した。日本人旅行者の退避支援も検討中。 | [The Japan Times](https://www.japantimes.co.jp/news/japan/) |
+| 8 | 2026年度予算案 — 一般会計総額122兆円で過去最大 | 政府が決定した2026年度予算案は一般会計総額122兆3,092億円で前年度比7兆円増。社会保障関係費が39兆559億円と最大。国債費31兆円。 | [日本経済新聞](https://www.nikkei.com/article/DGXZQOUA241X40U5A221C2000000/) |
+| 9 | フィッシング詐欺メール急増 — 2025年の報告件数200万件突破 | フィッシング詐欺メールの報告件数が2025年に200万件を超え過去最多を更新。企業・個人を問わず被害が拡大しており、注意が呼びかけられている。 | [NHK](https://news.web.nhk.newsweb) |
+| 10 | 秋篠宮ご夫妻、8月にパラグアイ訪問へ | 秋篠宮ご夫妻が日本人移住90周年を記念してパラグアイを公式訪問する予定。日本と南米の友好関係の深化を目指す。 | [NHK](https://news.web.nhk.newsweb) |
+
 ## Deep Dive
 
 - [OpenAI国防総省契約とAI企業の倫理的選択](./openai-pentagon-deal.md)
 - [Cisco SD-WANゼロデイ脆弱性 — 3年間の潜伏攻撃](./cisco-sdwan-zero-day.md)
 - [米国・イスラエルのイラン攻撃と世界経済への影響](./iran-conflict-economic-impact.md)
+- [イラン攻撃と日本のエネルギー安全保障 — ホルムズ海峡リスクの現実](./jp-iran-energy-security.md)
+- [東京メトロ Bluetoothタッチレス改札 — 国内初の実証実験](./jp-touchless-gate-tokyo-metro.md)
