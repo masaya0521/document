@@ -30,8 +30,40 @@
 | 9 | EU・スイスが包括的協定に署名 | EUとスイスが関係深化・拡大のための包括的協定パッケージに署名。主要セクターで4.6億人の消費者市場へのシームレスなアクセスを実現。 | [European Union](https://european-union.europa.eu/news-and-events/news-and-stories_en) |
 | 10 | UAE・バーレーンのデータセンターがドローン攻撃で被害 | UAEのデータセンター2カ所がドローンの直撃を受け、バーレーンの施設も近隣の攻撃で損傷。AWSの一部サービスに影響が継続中。 | [CNBC](https://www.cnbc.com/2026/03/03/nvidia-amazon-offices-google-dubai-iran-war.html) |
 
+## Japan Tech News
+
+| # | トピック | 概要 | ソース |
+|---|---------|------|--------|
+| 1 | PayPay米ナスダック上場、11億ドル規模IPO | PayPayが米ナスダック上場の仮条件を発表。時価総額最大2兆円規模で日本企業の米上場として過去最大級。3月12日上場予定で、3月3〜7日が申込期間。 | [Bloomberg](https://www.bloomberg.com/jp/news/articles/2026-03-02/TBAJ8NT96OSK00) |
+| 2 | Rapidus、政府・民間から2,676億円の資金調達 | 2nm半導体製造を目指すRapidusが政府から約1,000億円、NTT・ソニー・ソフトバンクなど民間32社から約1,676億円を調達。2026年3月までに顧客向けサンプル提供を目指す。 | [Rapidus](https://www.rapidus.inc/en/news_topics/information/rapidus-secures-267-6-billion-yen-in-funding-from-japan-government-and-private-sector-companies/) |
+| 3 | キヤノン・日本シノプシス、Rapidus 2nmプロセスで設計技術開発 | キヤノンと日本シノプシスがNEDO公募事業に採択され、Rapidusの2nm GAA（Gate All Around）プロセスを活用した次世代半導体設計技術の開発に着手。 | [EE Times Japan](https://eetimes.itmedia.co.jp/ee/articles/2603/04/news082.html) |
+| 4 | FY2026半導体・AI予算、前年比約4倍の1.23兆円 | 経産省のFY2026予算で半導体・AI支援が約1.23兆円に拡大。Rapidusに1,500億円、国内AI開発に3,873億円を計上。日本の半導体復権に向けた国家的投資が加速。 | [EE News Europe](https://www.eenewseurope.com/en/meti-budget-hike-japan-chip-ai-fy-2026/) |
+| 5 | 能動的サイバー防御法、2026年内施行へ準備進行 | 2025年5月に成立したサイバー対処能力強化法が2026年内に施行予定。官民連携の協議会設置や通信情報の活用など、企業のセキュリティ対応に大きな影響。 | [GSX](https://www.gsx.co.jp/securityknowledge/column/202509.html) |
+| 6 | アサヒGHDランサムウェア被害、物流正常化も完全復旧は4月 | 2025年9月のランサムウェア攻撃で約191万件の個人情報が流出したアサヒGHD。2026年2月にビール・飲料の物流が正常化したが、全商品の出荷正常化は4月を予定。 | [日本経済新聞](https://www.nikkei.com/article/DGXZQOUC082RC0Y5A201C2000000/) |
+| 7 | Astroscale、宇宙デブリ除去ミッションで世界初の15m接近達成 | Astroscale Japanの ADRAS-Jがスペースデブリへの15m接近に成功。JAXAとの協力で、商業企業として世界初の大型デブリへの近接運用を実現。次期ADRAS-J2ではロボットアームで実際の除去に挑む。 | [Astroscale](https://www.astroscale.com/en/missions/adras-j) |
+| 8 | イラン攻撃で原油急騰、日本経済への影響懸念 | 米・イスラエルのイラン攻撃でホルムズ海峡の航行が停滞。日本は原油輸入の94%を中東に依存しており、最悪シナリオではGDPを3%近く下押しするとの試算。 | [野村総研](https://www.nri.com/jp/media/column/kiuchi/20260302.html) |
+| 9 | 日経平均1,032円高の55,278円、4日ぶり反発 | 3月5日の日経平均は4日ぶりに反発し1,032円高。円は156〜157円台で推移。年末の市場予想レンジは53,000〜61,000円。 | [日本経済新聞](https://www.nikkei.com/markets/worldidx/chart/nk225/) |
+| 10 | 2026年度予算案、3月13日衆院通過へ与野党攻防 | 過去最大122.3兆円の予算案について、自民党が3月13日の衆院採決を提案。野党は審議時間短縮に反発し白紙撤回を要求。年度内成立が焦点に。 | [日本経済新聞](https://www.nikkei.com/article/DGXZQOUA2588Q0V20C26A2000000/) |
+
+## Japan General News
+
+| # | トピック | 概要 | ソース |
+|---|---------|------|--------|
+| 1 | カナダ・カーニー首相が来日、高市首相と首脳会談 | カーニー首相が3月6〜7日に訪日し、高市首相と会談。クリーンエネルギー、先端製造業、重要鉱物、食料安全保障、安全保障・防衛協力について議論。就任後初の来日。 | [外務省](https://www.mofa.go.jp/mofaj/na/na1/ca/pageit_000001_02750.html) |
+| 2 | NATO副事務総長が訪日、安全保障協力を協議 | NATOのシェケリンスカ副事務総長が3月5〜6日に訪日。日本の高官と二国間会談を実施し、インド太平洋における安全保障協力を議論。 | [NATO](https://www.nato.int/en/news-and-events/events/media-advisories/2026/03/04/nato-deputy-secretary-general-to-visit-japan) |
+| 3 | 米・イスラエルのイラン攻撃、高市首相「外交努力で早期沈静化」 | 米国とイスラエルによるイラン攻撃を受け、高市首相は「事態の早期沈静化へ外交努力」を表明。ホルムズ海峡の航行停滞による日本のエネルギー安全保障が喫緊の課題に。 | [日本経済新聞](https://www.nikkei.com/article/DGXZQOUA021080S6A300C2000000/) |
+| 4 | 衆議院定数削減法案、通常国会での成立を確認 | 高市首相と日本維新の会の吉村代表が衆院議員定数削減法案を2026年通常国会で成立させることを確認。政治改革の象徴的法案として注目。 | [nippon.com](https://www.nippon.com/ja/in-depth/d01214/) |
+| 5 | WBC 2026開幕、侍ジャパン初戦はチャイニーズ・タイペイ | 第6回ワールドベースボールクラシックが3月5日に開幕。日本は3月6日19時に東京ドームでチャイニーズ・タイペイと1次ラウンド初戦。3連覇を目指す。 | [WBC公式](https://www.2026wbc.jp/) |
+| 6 | ミラノ・コルティナ2026冬季パラリンピック開幕 | 3月6日から15日まで開催。日本から44選手が参加。村岡桃佳（パラアルペン）や川除大輝（パラクロスカントリー）など前回金メダリストの活躍に期待。 | [日本パラリンピック委員会](https://www.parasports.or.jp/paralympic/jpc/milanpara2026/index.html) |
+| 7 | 高市首相、3月19日に訪米・日米首脳会談へ | 高市首相の就任後初の訪米が3月19日に予定。トランプ大統領との首脳会談で日米関係深化を目指す。関税交渉や投資協定が主要議題。 | [nippon.com](https://www.nippon.com/ja/in-depth/d01214/) |
+| 8 | 那須雪崩事故控訴審、教諭3人が無罪主張 | 2017年の那須町雪崩事故で業務上過失致死傷罪に問われた引率教諭3人の控訴審が東京高裁で進行中。一審の禁錮2年実刑判決に対し無罪を主張。 | [下野新聞](https://www.shimotsuke.co.jp/articles/-/909209) |
+| 9 | 日本のGDP、テクニカルリセッション回避も回復力弱く | 第4四半期GDPはプラス成長に転じたが市場予想を下回る結果に。個人消費の回復が弱く、中東情勢によるエネルギーコスト上昇が追加の逆風要因。 | [CNBC](https://www.cnbc.com/2026/02/16/japan-fourth-quarter-gdp-reverses-into-growth-but-misses-expectations-as-rebound-underwhelms.html) |
+| 10 | 元ヤクザ構成員、米国で核物質密売で有罪判決 | 日本人の元暴力団構成員が米ニューヨークの裁判所で核物質の密売に関して有罪判決を受けた。国際的な核拡散防止の観点から注目される事案。 | [The Japan Times](https://www.japantimes.co.jp/news/2026/03/04/japan/crime-legal/yakuza-new-york-court-sentence/) |
+
 ## Deep Dive
 
 - [米・イスラエルのイラン軍事作戦 — 6日目の状況と世界への影響](./iran-war-day-six.md)
 - [NVIDIA Rubinプラットフォーム — 次世代AIインフラの全貌](./nvidia-rubin-platform.md)
 - [VMware脆弱性とGridTideマルウェア — 高まるサイバーセキュリティリスク](./cybersecurity-threats-march-2026.md)
+- [PayPay米ナスダック上場 — 日本フィンテック最大のIPOとその意義](./jp-paypay-nasdaq-ipo.md)
+- [イラン攻撃と日本のエネルギー安全保障 — ホルムズ海峡リスクの現実](./jp-iran-crisis-japan-energy.md)
