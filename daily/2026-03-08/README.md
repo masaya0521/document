@@ -30,8 +30,41 @@
 | 9 | Shield of the Americas サミット開催 | トランプ大統領とルビオ国務長官がフロリダ州ドラルで「Shield of the Americas」サミットを主催。西半球の同盟国と自由・安全保障・繁栄を推進する会議。 | [US State Dept](https://www.state.gov/releases/office-of-the-spokesperson/2026/03/the-united-states-to-host-the-shield-of-the-americas-summit) |
 | 10 | 国際女性デー | 3月8日は国際女性デー。女性の平等と解放への闘いを記念する日で、世界各地でイベントや行進が実施。ロシア、ウクライナ、ベラルーシ等では公的祝日。 | [Republic World](https://www.republicworld.com/amp/lifestyle/festivals/international-women-s-day-2026-why-it-is-celebrated-on-march-8-know-this-year-s-theme-history-significance-and-more) |
 
+## Japan Tech News
+
+| # | トピック | 概要 | ソース |
+|---|---------|------|--------|
+| 1 | デジタル庁「源内」全府省庁18万人に展開へ | デジタル庁が生成AIプラットフォーム「源内」で試用する国産LLM7モデルを発表。5月から全府省庁の職員約18万人に展開し、2027年度の本格導入を目指す。 | [ITmedia](https://www.itmedia.co.jp/aiplus/articles/2603/06/news097.html) |
+| 2 | Rapidus 2,676億円の追加資金獲得 | 日本の次世代半導体企業Rapidusが政府・民間32社から2,676億円の資金を調達。Canon、富士通、NTT、SoftBank、ソニー等が参加し、2027年の2nm量産開始を目指す。 | [Bloomberg](https://www.bloomberg.com/news/articles/2026-02-27/japanese-chipmaker-rapidus-gets-1-6-billion-in-government-funds) |
+| 3 | 政府AI・半導体予算1.23兆円（前年比約300%増） | 2026年度予算でAI・半導体分野に約1.23兆円を計上。Rapidusへの1,500億円、国内AI開発への3,873億円を含み、半導体産業の国内回帰を加速。 | [EE News Europe](https://www.eenewseurope.com/en/meti-budget-hike-japan-chip-ai-fy-2026/) |
+| 4 | TSMC熊本第2工場で3nm生産へ | TSMCが建設中の熊本第2工場で3nmプロセスの半導体製造を計画。2027年後半の量産開始を目指し、日本の先端半導体製造能力が大幅に強化される見通し。 | [Financial Content](https://www.financialcontent.com/article/tokenring-2026-2-5-japans-silicon-renaissance-tsmcs-3nm-commitment-and-rapiduss-2nm-surge-redefine-global-chip-landscape) |
+| 5 | 春闘2026：賃上げ要求平均5.94% | 連合が春闘の賃上げ要求平均5.94%と発表。32年ぶりに6%超だった昨年をやや下回るも高水準を維持。集中回答日は3月18日。 | [Bloomberg](https://www.bloomberg.com/jp/news/articles/2026-03-05/TBCO5DKJH6V500) |
+| 6 | 人工知能基本計画と官民投資ロードマップ | 政府が「信頼できるAI」を中心概念とする人工知能基本計画を推進中。2026年春をめどに官民投資ロードマップを取りまとめる方針。 | [大和総研](https://www.dir.co.jp/report/research/economics/japan/20260303_025610.html) |
+| 7 | Forbes Japan「Women in Tech 30 2026」発表 | Forbes Japan 3月号で「Women in Tech 30」を発表。理研AIPの大武美保子チームディレクター等、テクノロジー分野で世界を変える30人の女性を選出。 | [RIKEN AIP](https://aip.riken.jp/news/forbes202603/?lang=en) |
+| 8 | SoftBank フィジカルAI本格始動 | SoftBankがAIエージェントに加え、現実世界で動作する「フィジカルAI」の本格運用を開始。北海道苫小牧市・大阪府堺市のAIデータセンターが順次稼働。 | [SoftBank](https://www.softbank.jp/sbnews/entry/20251225_01) |
+| 9 | IPA「情報セキュリティ10大脅威 2026」公開 | IPAが2026年版の情報セキュリティ10大脅威を公開。ランサムウェア被害が最多（6.9%）、フィッシング攻撃は49.2%と依然高水準。アサヒグループHDもサイバー攻撃被害の再発防止策を公表。 | [IPA](https://www.ipa.go.jp/security/10threats/10threats2026.html) |
+| 10 | スタートアップ資金調達活況 | ATOMicaが地銀系VC等17社から5.8億円、CULTAがイチゴ品種改良で7億円、羅針盤が訪日ツアー事業で14.5億円を調達するなど、多様な分野で資金調達が活発。 | [日本経済新聞](https://www.nikkei.com/article/DGXZQOUC06A6F0W6A300C2000000/) |
+
+## Japan General News
+
+| # | トピック | 概要 | ソース |
+|---|---------|------|--------|
+| 1 | WBC日本代表が韓国に8-6で勝利 | WBC 1次ラウンド第2戦で侍ジャパンが韓国に8-6で勝利し2連勝。鈴木誠也が2本塁打4打点、大谷翔平・吉田正尚もアーチを架け、メジャーリーガー3人の競演で逆転。 | [NHK](https://news.web.nhk.newsweb/na/na-k10015069311000) |
+| 2 | 第2次高市内閣発足・施政方針演説 | 2月の総選挙勝利を受け第2次高市内閣が全閣僚再任で発足。2月20日の施政方針演説では積極財政・安保強化を推進する方針を表明。 | [日本経済新聞](https://www.nikkei.com/article/DGXZQOUA1748M0X10C26A2000000/) |
+| 3 | 2026年度予算案の審議が紛糾 | 2026年度予算案が例年より1カ月遅れで審議入り。与党が野党の反対を押し切り、13日にも衆院を通過させる方針で、国会審議の短縮に批判も。 | [東京新聞](https://www.tokyo-np.co.jp/article/472368) |
+| 4 | 東日本大震災15年を前に各地で追悼準備 | 3月11日で東日本大震災から15年。盛岡・仙台・福島で追悼式が予定され、東京臨海防災公園では伝承館出張展示を3月3日〜29日まで開催中。 | [気仙沼市伝承館](https://www.kesennuma-memorial.jp/event/detail.php?id=197) |
+| 5 | ミラノ・コルティナ冬季パラリンピック開幕 | 3月6日にミラノ・コルティナ冬季パラリンピックが開幕。日本は史上最大の44人（男子34・女子10）が参加し、6競技で出場。旗手は小須田潤太と小川亜希。 | [日本パラリンピック委員会](https://www.parasports.or.jp/paralympic/jpc/milanpara2026/index.html) |
+| 6 | イラン在留邦人の退避進む | 米イスラエルのイラン攻撃を受け、在イラン邦人の退避が加速。327人から4割減少し、外務省は全土にレベル4（退避勧告）を発出。自衛隊機がモルディブへ出発。 | [日本経済新聞](https://www.nikkei.com/article/DGXZQOUA020VV0S6A300C2000000/) |
+| 7 | 赤澤経産相が米国に関税見直し要請 | 赤澤亮正経済産業相が米国カウンターパートと会談し、米国の最新関税措置が日本に不利にならないよう保証を求めた。122条関税で全世界からの輸入に10%追加関税が課されている。 | [JETRO](https://www.jetro.go.jp/world/us_tariff/) |
+| 8 | 映画監督・榊英雄被告に懲役8年判決 | 俳優女性2人への準強姦罪で東京地裁が懲役8年の判決。「監督と俳優の立場の差を悪用した悪質かつ卑劣な犯行」と指摘。弁護側は即日控訴。 | [時事通信](https://www.jiji.com/jc/article?k=2026030600203&g=soc) |
+| 9 | 日経平均株価が大幅変動 | 日経平均先物が夜間取引で1,710円安の54,020円と急落。中東地政学リスクと米国雇用統計の悪化を受け、週明けの東京市場の動向に注目が集まる。 | [日本経済新聞](https://www.nikkei.com/markets/worldidx/chart/nk225/) |
+| 10 | 国際女性デー：日本のジェンダー平等の現状 | 3月8日の国際女性デーに際し、日本のジェンダー平等への取り組みが改めて注目。Forbes Japan「Women in Tech 30」など、女性活躍推進の動きが加速。 | [Forbes Japan](https://aip.riken.jp/news/forbes202603/?lang=en) |
+
 ## Deep Dive
 
 - [ホルムズ海峡危機と世界エネルギー市場への影響](./hormuz-crisis-energy-impact.md)
 - [米国雇用統計の急激な悪化と景気後退リスク](./us-jobs-recession-risk.md)
 - [Apple MacBook Neo — Mac市場戦略の転換点](./apple-macbook-neo.md)
+- [デジタル庁「源内」— 日本政府のAI全面導入戦略](./jp-digital-agency-gennai.md)
+- [Rapidusと日本の半導体復権戦略](./jp-rapidus-semiconductor-strategy.md)
+- [春闘2026 — 賃上げの定着と日本経済の構造変化](./jp-shunto-2026-wage-growth.md)
