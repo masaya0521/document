@@ -30,8 +30,40 @@
 | 9 | ハンガリー議会、ウクライナのEU加盟に反対決議 | ウクライナへの武器・資金供与を避け「国際平和努力」を支持するよう政府に求める決議を可決。 | [Kyiv Independent](https://kyivindependent.com/) |
 | 10 | プーチン大統領、欧州への石油・ガス供給を提案 | エネルギー価格高騰の中、ロシアが欧州へのエネルギー供給を申し出。地政学的駆け引きが激化。 | [Al Jazeera](https://www.aljazeera.com/news/2026/3/9/putin-says-russia-can-supply-oil-gas-to-europe-amid-global-energy-crisis) |
 
+## Japan Tech News
+
+| # | トピック | 概要 | ソース |
+|---|---------|------|--------|
+| 1 | デジタル庁、政府AI「源内」向け国産LLM 7モデルを選定 | 全府省庁39機関・約18万人規模で実証へ。NTTの「tsuzumi 2」、PFNの「PLaMo 2.0 Prime」など7モデルを選定し、5月から大規模実証を開始予定。 | [ITmedia](https://www.itmedia.co.jp/aiplus/articles/2603/06/news097.html) |
+| 2 | 政府成長戦略会議、AI・半導体など61製品・技術を優先投資対象に選定 | AIロボット、半導体、小型無人機、ゲームなど61の製品・技術を選定。半導体は2040年に売上高40兆円の新目標を設定。 | [時事通信](https://www.jiji.com/jc/article?k=2026031001077&g=eco) |
+| 3 | アリババクラウド、日本の人員を2.5倍に拡大へ | 2029年までに人員を2.5倍、パートナー企業を100社に増やす方針を発表。関東圏に4拠点目のデータセンターも新設済み。 | [日経クロステック](https://xtech.nikkei.com/atcl/nxt/news/24/03131/) |
+| 4 | Apple、日本のスマホ新法対応でiOS変更 — 3月17日が開発者合意期限 | モバイルソフトウェア競争促進法に対応し、iOS 26.2で代替アプリストアや外部決済が利用可能に。開発者は3月17日までに新規約への同意が必要。 | [Apple Developer](https://developer.apple.com/news/?id=074b3wzz) |
+| 5 | World AI Film Festival 2026 in Kyoto 開催 | 3月12-13日にロームシアター京都で開催。世界初・世界最大級のAI映画祭として39作品を上映。Feloの瞬訳が多言語対応を支援。 | [PR TIMES](https://www.excite.co.jp/news/article/Prtimes_2026-03-11-154901-19/) |
+| 6 | MirrorFace（中国関連）、VSCodeトンネル悪用で日本企業を標的に | 中国関連の脅威アクターがVisual Studio Codeのトンネル機能を悪用し、日本のテクノロジー企業内に秘密通信経路を構築。新たな警告が発出。 | [PPLN](https://www.ppln.co/post/japan-cyber-threat-report-2026-march-week1) |
+| 7 | 富士通とDT-Axis、デジタルヘルス分野でSaMD開発協業を開始 | プログラム医療機器（SaMD）の開発から薬事承認・販売まで包括的に支援する協業を3月9日に発表。 | [Japan Industry News](https://www.japanindustrynews.com/2026/03/fujitsu-and-dt-axis-collaborate-to-advance-digital-health-through-samd-development/) |
+| 8 | 任天堂、ポケモンポコピア大ヒットで株価急騰 | 3月5日にNintendo Switch 2向けに発売されたポケモンポコピアが世界的に品切れ続出。任天堂の株価が大幅上昇。 | [Nintendo Life](https://www.nintendolife.com/news/2026/03/the-pokemon-company-issues-response-to-the-white-houses-pokopia-meme) |
+| 9 | Lynas・JARE、日本向けレアアース供給契約をアップグレード | 12年間の供給契約を強化し、NdPr（ネオジム・プラセオジム）の最低価格をkg当たり110ドルに設定。経済安全保障の強化に貢献。 | [Metal Tech News](https://www.metaltechnews.com/story/2026/03/11/tech-metals/lynas-jare-upgrade-japan-rare-earth-deal/2679.html) |
+| 10 | JST Moonshot研究、NVIDIAと連携した高齢者向けAIロボット開発 | JSTが推進するムーンショット研究プログラムで、NVIDIA AIと連携した自律学習ロボットの開発が進行。2050年までに高齢者の日常生活を支援するロボット実現を目指す。 | [NVIDIA Blog](https://blogs.nvidia.com/blog/japan-science-technology-agency-develops-moonshot-robot/) |
+
+## Japan General News
+
+| # | トピック | 概要 | ソース |
+|---|---------|------|--------|
+| 1 | 日本、石油備蓄8000万バレルの放出を決定 | 高市首相が民間備蓄15日分と国家備蓄1カ月分の放出を発表。ホルムズ海峡封鎖で石油輸入の約70%が影響を受ける中、来週月曜から放出開始。 | [Bloomberg](https://www.bloomberg.com/news/articles/2026-03-11/japan-to-release-oil-from-reserves-unilaterally-takaichi-says) |
+| 2 | 東日本大震災から15年 — 各地で追悼式典 | 3月11日に全国で追悼式典が開催。死者1万5,901人、行方不明者2,519人。式典は「追悼」から「防災・伝承」へと軸足を移す傾向。 | [NHK](https://news.web.nhk/newsweb/na/na-k10015071711000) |
+| 3 | 高市首相、防災庁を2026年中に設置へ | 東日本大震災15年に合わせ、発災から復旧・復興まで一貫した災害対応の司令塔となる防災庁の設置準備を加速すると表明。 | [首相官邸](https://www.kantei.go.jp/jp/105/discourse/20260306message.html) |
+| 4 | 日米首脳会談、3月19日で調整 | 高市首相とトランプ大統領の日米首脳会談が3月19日で調整されていることが与党に伝達。中東情勢やエネルギー安全保障が議題に。 | [日本経済新聞](https://www.nikkei.com/politics/) |
+| 5 | 日経平均、続伸776円高の55,025円 | オラクルの好決算や原油上昇の一服が支え。個人の買いも旺盛で、前日比+1.43%の上昇。ドル円は157円台後半で推移。 | [日本経済新聞](https://www.nikkei.com/markets/worldidx/chart/nk225/) |
+| 6 | WBC 2026、侍ジャパンが1次ラウンド4戦全勝で突破 | 東京プールでチャイニーズ・タイペイ、韓国、オーストラリア、チェコに4連勝。大会連覇を目指し準々決勝へ進出。 | [侍ジャパン公式](https://www.japan-baseball.jp/en/) |
+| 7 | 政府、入管法改正案を閣議決定 — オンライン事前入国審査導入 | 海外からの入国者に対するオンライン事前審査システムの導入を盛り込んだ入管法改正案を国会に提出。 | [Nikkei Asia](https://asia.nikkei.com/spotlight/japan-immigration/japan-s-cabinet-submits-immigration-bill-seeking-well-ordered-coexistence) |
+| 8 | 九州への12式地対艦誘導弾（改良型）配備が3月末完了へ | 射程約1,000kmの改良型12式ミサイルの九州配備が3月末までに完了予定。中国は配備に対し強く反発。 | [Pravda USA](https://usa.news-pravda.com/world/2026/03/11/694385.html) |
+| 9 | 東京のスギ花粉、近年最速ペースで大量飛散 | 2026年の花粉飛散が近年で最も速いペースで進行。3月12日も広い範囲で「極めて多い」予想。 | [ウェザーニュース](https://news.livedoor.com/topics/detail/30743537/) |
+| 10 | 2026年度予算案、衆院予算委で中央公聴会 | 高市政権の経済政策について有識者から賛否の声。成長戦略会議での61製品・技術選定と合わせ、経済・産業政策の方向性が議論に。 | [日本経済新聞](https://www.nikkei.com/politics/politics/) |
+
 ## Deep Dive
 
 - [IEA史上最大の石油備蓄放出 — ホルムズ海峡危機と世界エネルギー市場への影響](./iea-historic-oil-reserve-release.md)
 - [NVIDIA GTC 2026 — Vera Rubinとエンタープライズ向けAI戦略の全貌](./nvidia-gtc-2026-vera-rubin.md)
 - [Meta Moltbook買収 — AIエージェント時代のソーシャルネットワーク](./meta-moltbook-ai-agent-social-network.md)
+- [デジタル庁「源内」— 国産LLM 7モデル選定と日本のAI主権戦略](./jp-digital-agency-gennai-domestic-llm.md)
+- [政府成長戦略会議 — AI・半導体など61製品・技術の優先投資選定](./jp-growth-strategy-61-products.md)
