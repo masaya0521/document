@@ -30,8 +30,40 @@
 | 9 | ハイチで10年ぶりの総選挙に向け280政党が登録 | 締切日までに記録的な数の政党が選挙参加を登録。長期にわたる政治的混乱からの復帰を目指す。 | [CNN](https://www.cnn.com/2026/03/13/us/5-things-to-know-for-march-13-war-with-iran-air-force-plane-crash-violence-uptick-moon-mission-housing-affordability) |
 | 10 | 中国・ベトナムが「3+3」戦略対話を初開催 | 王毅外相らが外交・国防・治安の3分野で閣僚級対話をベトナムで実施。両国の戦略的関係を深化。 | [中国外交部](https://www.fmprc.gov.cn/eng/) |
 
+## Japan Tech News
+
+| # | トピック | 概要 | ソース |
+|---|---------|------|--------|
+| 1 | PayPay が Nasdaq 上場 — 時価総額127億ドル | ソフトバンク傘下のPayPayがNasdaq Global Select Marketに上場。IPOで約8.8億ドルを調達し、初日終値は公開価格16ドルから14%上昇の18.16ドル。日本企業として10年ぶりの大型米国上場。 | [The Japan Times](https://www.japantimes.co.jp/business/2026/03/12/companies/softbank-paypay-us-ipo/) |
+| 2 | パワー半導体再編 — ローム・東芝が事業統合交渉 | ロームと東芝がパワー半導体事業の統合交渉に入った。デンソーからの1.3兆円規模の買収提案への対案として浮上。共同出資会社に双方の事業を移管する案を検討中。 | [日本経済新聞](https://www.nikkei.com/article/DGXZQOUF1263B0S6A310C2000000/) |
+| 3 | パナソニック、AI活用で月20万時間の業務削減 | パナソニックHDがAI業務支援サービスにより月20万時間分の業務削減効果を達成。グループ従業員の6割超が生成AIを業務で活用。2023年4月のChatGPTベース社内AIサービス導入から着実に拡大。 | [日本経済新聞](https://www.nikkei.com/article/DGXZQOUF1263B0S6A310C2000000/) |
+| 4 | 富士通、日本初の防衛テックオープンイノベーションプログラム開始 | 防衛装備庁（ATLA）からの研究委託の一環として、防衛分野でのマルチAIエージェント開発に向けスタートアップとの共創プログラムを3月10日に発表。民生・防衛のデュアルユース技術を推進。 | [Fujitsu Global](https://global.fujitsu/en-global/pr/news/2026/03/10-01) |
+| 5 | Rapidus、2nm半導体のPDK公開へ — 4月に先端パッケージング試作開始 | Rapidusが2nmチップのプロセスデザインキット(PDK)を3月頃に公開予定。千歳のIIM-1量産施設で4月から先端パッケージングの試作生産を開始。キヤノンがSynopsys設計の2nmテストチップを発注。 | [The Register](https://www.theregister.com/2026/02/27/rapidus_funding/) |
+| 6 | 日本政府、半導体・AIに1.23兆円の予算配分 | 2026年度予算で半導体・AI分野に約1.23兆円を配分、前年度比約4倍。Rapidusに1,500億円、国内AI開発に3,873億円を計上。戦略的技術17分野61品目を投資対象に選定。 | [EE News Europe](https://www.eenewseurope.com/en/meti-budget-hike-japan-chip-ai-fy-2026/) |
+| 7 | サイバー犯罪報告 — 2025年ランサムウェア被害226件 | 警察庁が2025年のランサムウェア被害を226件と発表（過去2番目の多さ）。被害の約6割が中小企業。Qilinが最多の32件、次いでLockBitが19件。アサヒグループやアスクルなど大手企業にも深刻な被害。 | [The Japan Times](https://www.japantimes.co.jp/news/2026/03/12/japan/crime-legal/japan-police-cyber-crime-report/) |
+| 8 | 再生医療で60代女性死亡 — 厚労省が銀座クリニックに緊急命令 | 脂肪由来幹細胞の投与を受けた外国籍の60代女性が死亡。厚労省が再生医療安全性確保法に基づき銀座クリニックと京都の培養センターに業務一時停止の緊急命令。 | [時事ドットコム](https://www.jiji.com/jc/article?k=2026031301035&g=soc) |
+| 9 | Alibaba Cloud Japan、2029年までに人員2.5倍・パートナー100社へ | アリババクラウド・ジャパンが日本のエンタープライズ市場拡大を加速。生成AI・マルチモーダルAIの費用対効果を訴求し、人員とパートナー企業の大幅増を計画。 | [日経クロステック](https://xtech.nikkei.com/news/) |
+| 10 | IPA「情報セキュリティ10大脅威 2026」にAIリスクが初登場 | IPAの年次脅威レポートで「AI利用に伴うサイバーリスク」が組織部門で初めて3位にランクイン。日本の回答者の71%がフィッシングを最大脅威に挙げ、グローバル平均を上回る。 | [Medium](https://medium.com/@an7arc71ca/how-japans-top-cybersecurity-threats-for-2026-reveal-the-rise-of-ai-risks-a-threat-intelligence-97a10332d577) |
+
+## Japan General News
+
+| # | トピック | 概要 | ソース |
+|---|---------|------|--------|
+| 1 | 2026年度予算案が衆院通過 — 122.3兆円の過去最大規模 | 自民党と日本維新の会の賛成多数で衆院を通過。審議時間は例年の70-80時間に対し59時間にとどまり、野党は反発。高市首相の衆院解散（2月8日）により審議時間が短縮。 | [The Japan Times](https://www.japantimes.co.jp/news/2026/03/13/japan/politics/lower-house-budget/) |
+| 2 | 日経平均続落 — イラン情勢で一時1,100円安 | 3月13日の日経平均は続落し54,452円（前日比-572円）。イラン戦争による原油高騰と世界経済不安を受け、一時1,100円以上の下落。中東リスクが日本市場に波及。 | [日本経済新聞](https://www.nikkei.com/markets/worldidx/chart/nk225/) |
+| 3 | JR東日本、民営化後初の運賃値上げ実施 | 3月14日からJR東日本が平均7.8%の運賃改定を実施。初乗り150円→160円、通勤定期は平均12.0%改定。リモートワーク定着による利用減、エネルギー価格高騰、人材確保が背景。 | [JR東日本](https://www.jreast.co.jp/en/2026unchin-kaitei/) |
+| 4 | 高市首相、3月19日にワシントンでトランプ大統領と会談予定 | 日米首脳会談が予定され、安全保障・貿易問題を協議する見通し。インドネシア大統領（29日来日）、フランス大統領（31日来日）との会談も予定され、3月は外交月間に。 | [KSI政策ニュース](https://www.policynews.jp/schedule/2026/3.html) |
+| 5 | 村岡桃佳、ミラノパラで銀メダル — 冬季パラ日本勢最多通算11個 | ミラノ・コルティナ冬季パラリンピックのアルペンスキー女子大回転（座位）で銀メダルを獲得。9日のスーパー大回転に続く2個目のメダルで、冬季パラ日本勢単独最多記録を更新。 | [NHK](https://news.web.nhk.or.jp/) |
+| 6 | WBC 2026 準々決勝 — 日本は3月15日にベネズエラと対戦 | 1次ラウンドを突破した侍ジャパンが、マイアミのローンデポ・パークで3月15日10:00（日本時間）にベネズエラと準々決勝で対戦。3連覇を目指す。 | [Olympics.com](https://www.olympics.com/ja/news/baseball-world-classic-2026-quarterfinal-matchups-japan-venezuela-usa-second) |
+| 7 | 過去最大規模の国際共同捜査で不正サーバー4.5万件を無効化 | 日本を含む国際共同捜査により、サイバー犯罪に使用されていた4万5千の不正サーバーが無効化された。 | [時事ドットコム](https://www.jiji.com/jc/c?g=soc) |
+| 8 | 広島城天守閣、老朽化で3月22日に閉館 | 1945年の原爆で倒壊後、復興のシンボルとして再建された広島城天守閣が老朽化のため閉館。内部の公開を終了する。 | [The Japan Times](https://www.japantimes.co.jp/news/2026/02/18/japan/hiroshima-castle-main-tower-close-march/) |
+| 9 | 原油高が日本経済を直撃 — WTI 98ドル台、ブレント103ドル台 | イラン戦争によるホルムズ海峡の事実上の閉鎖で原油価格が急騰。日本はエネルギー輸入依存度が高く、企業収益や家計への影響が懸念される。 | [CNBC](https://www.cnbc.com/2026/03/12/stock-market-today-live-updates.html) |
+| 10 | 名鉄ダイヤ改正を3月14日に実施 | 名古屋鉄道が3月14日にダイヤ改正を実施。名古屋本線の増車、中部国際空港アクセスの変更などが含まれる。JR各社のダイヤ改正と同日に実施。 | [名鉄](https://www.kicks-blog.com/entry/2026/03/10/114700) |
+
 ## Deep Dive
 
 - [イラン戦争と世界経済への影響](./iran-war-global-economy.md)
 - [NVIDIA GTC 2026 プレビュー](./nvidia-gtc-2026-preview.md)
 - [AI モデルラッシュ — 2026年3月の大量リリース](./ai-model-rush-march-2026.md)
+- [PayPay Nasdaq上場 — 日本フィンテックの米国進出](./jp-paypay-nasdaq-ipo.md)
+- [日本パワー半導体再編 — ローム・東芝・デンソーの三角関係](./jp-power-semiconductor-restructuring.md)
