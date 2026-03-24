@@ -30,8 +30,40 @@
 | 9 | ハンガリー・オルバン首相がウクライナ支援融資に拒否権行使 | オルバン首相が1,000億ドル超のウクライナ向け融資への拒否権を行使。ウクライナの継戦能力に疑問符が付く事態に。 | [Wikipedia](https://en.wikipedia.org/wiki/Portal:Current_events/March_2026) |
 | 10 | 米国南西部で記録的3月猛暑 — 気候変動が原因 | 米国南西部で3月として記録的な三桁°Fの気温を観測。国連は温室効果ガス濃度が過去最高に達したと警告。分析により気候変動なしには「事実上不可能」と判明。 | [PBS](https://www.pbs.org/newshour/show/march-23-2026-pbs-news-hour-full-episode) |
 
+## Japan Tech News
+
+| # | トピック | 概要 | ソース |
+|---|---------|------|--------|
+| 1 | 政府、国産半導体売上を2040年に40兆円に拡大する目標 | 高市政権が国産半導体の売上高を2030年に15兆円、2040年に40兆円に引き上げるロードマップを発表。最先端研究拠点の整備と「フィジカルAI」半導体で世界シェア30%を目指す。 | [日本経済新聞](https://www.nikkei.com/article/DGXZQOUA06CBF0W6A300C2000000/) |
+| 2 | 能動的サイバー防御、2026年10月施行へ | 2025年5月に成立した「サイバー対処能力強化法」が10月1日から施行。警察・自衛隊に攻撃インフラへの限定的な無害化措置権限を付与し、受動から能動へ転換する。 | [Innovatopia](https://innovatopia.jp/cyber-security/cyber-security-news/87113/) |
+| 3 | シャオミ・ジャパン、Mini LEDテレビ新シリーズ発売 | 「Xiaomi TV S Mini LED 2026」シリーズを3月24日に発売。65/75/85/98インチの4モデル、チューナーレス4Kスマートテレビで価格は109,800円から。 | [PHILE WEB](https://www.phileweb.com/news/d-av/202603/24/64811.html) |
+| 4 | Uber・日産・Wayve、東京でロボタクシー実証を発表 | 3社が協業を発表し、2026年後半に東京でロボタクシーのパイロット実証を開始。英国AI自動運転スタートアップWayveの技術を活用。 | [bizfreak](https://bizfreak.co.jp/blog/vtsncjfnk9is) |
+| 5 | 大阪大学、量子コンピュータの遠隔操作に成功 | 大阪大学の研究チームがトラップイオン型量子デバイスを実験室への物理的アクセスなしに遠隔操作することに成功。量子コンピューティングの実用化に向けた大きな前進。 | [Sify](https://www.sify.com/technology/japan-just-made-remote-quantum-computing-a-reality/) |
+| 6 | Nuro、東京での自動配送ロボットのテスト開始を発表 | 米国自律配送スタートアップNuroが東京での路上テスト開始を発表。都市物流のラストワンマイル配送に焦点を当てる。 | [bizfreak](https://bizfreak.co.jp/blog/vtsncjfnk9is) |
+| 7 | 経産省、半導体・AI予算を約1.23兆円に4倍増 | FY2026予算でMETIが半導体・AI関連予算を前年度の約4倍に拡大。Rapidusに1,500億円、国内AI開発に3,873億円を充当。 | [eeNews Europe](https://www.eenewseurope.com/en/meti-budget-hike-japan-chip-ai-fy-2026/) |
+| 8 | Data Center Japan 2026 開催（3/24-25） | 東京都産業貿易センターで開催。AI時代のデータセンターの役割がテーマで、最新技術の展示とキーマンによる講演を実施。 | [ITmedia](https://www.itmedia.co.jp/) |
+| 9 | Spring AI に2件の脆弱性が公表 | Java/Spring のAIフレームワーク「Spring AI」に関する2件のセキュリティ脆弱性が3月17日に公表。AIフレームワークのセキュリティリスクが顕在化。 | [PPLN](https://www.ppln.co/post/japan-cyber-threat-report-2026-march-week1) |
+| 10 | 米日、重要鉱物の多国間サプライチェーン戦略を発表 | 3月19日に署名された米日重要鉱物行動計画。中国の市場支配に対抗し、価格決定と取引の仕組みを再構築する多国間協調戦略。 | [Metal Tech News](https://www.metaltechnews.com/story/2026/03/25/tech-metals/us-japan-lay-critical-mineral-bloc-foundation/2693.html) |
+
+## Japan General News
+
+| # | トピック | 概要 | ソース |
+|---|---------|------|--------|
+| 1 | 日本、史上最大規模の石油備蓄放出を開始 | ホルムズ海峡の実質閉鎖を受け、民間備蓄15日分と国家備蓄1カ月分の計8,000万バレルを放出。IEA加盟32カ国による4億バレル協調放出の一環。 | [Japan Times](https://www.japantimes.co.jp/business/2026/03/16/economy/oil-release-japan/) |
+| 2 | ガソリン補助金に予備費8,000億円を閣議決定 | 政府が24日、2025年度予備費から約8,000億円をガソリン補助金に充当することを閣議決定。既存基金と合わせ約1兆800億円の財源を確保。 | [日本経済新聞](https://www.nikkei.com/article/DGXZQOUA237040T20C26A3000000/) |
+| 3 | 春闘賃上げ率5.26%、3年連続5%台を維持 | 連合の第1回回答集計で賃上げ率5.26%を記録。トヨタ6年連続・日立5年連続の満額回答。中小企業への波及が課題。 | [nippon.com](https://www.nippon.com/ja/japan-data/h02747/) |
+| 4 | 外交青書、中国の表記を「重要な隣国」に変更 | 2026年版外交青書の原案で、中国について従来の「最も重要な2国間関係の一つ」から「重要な隣国」に格下げ。高市首相の台湾有事答弁以降の日中関係悪化が背景。 | [日本経済新聞](https://www.nikkei.com/article/DGXZQOUA249N10U6A320C2000000/) |
+| 5 | 中国大使館に陸自隊員が侵入、逮捕 | 23歳の陸上自衛隊3等陸尉が在日中国大使館に侵入し、建造物侵入容疑で逮捕。刃物を所持しており、中国側は「外交官殺害の脅迫」として厳重抗議。 | [日本経済新聞](https://www.nikkei.com/article/DGXZQOUD248Q40U6A320C2000000/) |
+| 6 | 共同親権制度、4月1日施行へ | 改正民法により離婚後の共同親権が4月1日から可能に。法定養育費（月額2万円）の導入や養育費の先取特権（上限月8万円）も同時施行。DV被害者からは懸念の声。 | [Japan Times](https://www.japantimes.co.jp/news/2026/03/24/japan/society/joint-custody-parents/) |
+| 7 | 日経平均52,252円、前日比+736円の反発 | 24日の東証で日経平均が大幅反発。米国のイラン攻撃延期報道を受けてリスクオフが後退し、幅広い銘柄に買いが入った。 | [日本経済新聞](https://www.nikkei.com/markets/worldidx/chart/nk225/) |
+| 8 | 茂木外相、G7外相会合で訪仏 — イラン情勢で連携 | 茂木外相が25日からG7外相会合に出席するため訪仏。ホルムズ海峡問題を含むイラン情勢への対応で各国との連携を確認する見通し。 | [時事通信](https://www.jiji.com/jc/archives?g=int_archive_0) |
+| 9 | 北朝鮮、日本との首脳会談を拒否 | 北朝鮮が日本の「時代遅れの姿勢」を理由に首脳会談を拒否すると表明。日朝関係の改善交渉が暗礁に乗り上げた形に。 | [Japan Times](https://www.japantimes.co.jp/) |
+| 10 | 欧州・日本、ホルムズ海峡の航行再開に向け協力 | 欧州諸国と日本が、エネルギー価格高騰の中でホルムズ海峡の航行再開に向けた「適切な取り組み」に参加する方針を表明。 | [Al Jazeera](https://www.aljazeera.com/news/2026/3/19/european-nations-japan-to-join-appropriate-efforts-to-open-hormuz-strait) |
+
 ## Deep Dive
 
 - [GitHub Actions サプライチェーン攻撃 — Trivy/Checkmarx 侵害の全容](./github-actions-supply-chain-attack.md)
 - [米国・イスラエル対イラン紛争と原油市場への影響](./us-iran-conflict-oil-market.md)
 - [Java 26 リリース — 主要な新機能と開発者への影響](./java-26-release.md)
+- [日本の石油備蓄放出とエネルギー安全保障 — ホルムズ海峡危機への対応](./jp-oil-reserve-energy-security.md)
+- [能動的サイバー防御 — 日本のサイバー防衛が「受動」から「能動」へ転換](./jp-active-cyber-defense.md)
