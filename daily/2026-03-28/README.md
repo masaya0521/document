@@ -30,8 +30,40 @@
 | 9 | ウクライナ — ロシアが戦争最大規模のドローン攻撃を実施 | ロシアがウクライナに対し、戦争で最大の単日ドローン攻撃を含む砲撃を実施。8人が死亡。 | [CNN](https://edition.cnn.com/2026/03/26/world/live-news/iran-war-us-israel-trump) |
 | 10 | ECB が利下げを延期 — 欧州ガス価格が急騰 | オランダ TTF ガスベンチマークが3月中旬までに60ユーロ/MWh 超に急騰。ECB は3月19日に予定していた利下げを延期し、2026年のインフレ予測を引き上げ、GDP 成長見通しを下方修正。 | [Bruegel](https://www.bruegel.org/first-glance/how-will-iran-conflict-hit-european-energy-markets) |
 
+## Japan Tech News
+
+| # | トピック | 概要 | ソース |
+|---|---------|------|--------|
+| 1 | ソニー・ホンダ、EV「AFEELA」開発・発売を全面中止 | ホンダの四輪電動化戦略見直し（3月12日発表）を受け、第1弾「AFEELA 1」と第2弾モデルの開発・販売を中止。予約金は全額返金。4年間の取り組みが頓挫し、日本のEV戦略に大きな転機。 | [日本経済新聞](https://www.nikkei.com/article/DGXZQOUC2427B0U6A320C2000000/) |
+| 2 | 任天堂、Switch 2 の生産を30%以上削減 | 年末商戦での販売不振を受け、4月以降の生産計画を600万台から400万台に引き下げ。特に米国市場での不振が顕著。累計販売は1,700万台超で歴代最速ペースだが、経営の高い期待には届かず。 | [Bloomberg](https://www.bloomberg.com/news/articles/2026-03-24/nintendo-cuts-switch-2-output-by-over-30-on-weak-holiday-sales) |
+| 3 | 富士通・大阪大学、量子コンピューター新技術を発表 | 独自の量子計算方式「STARアーキテクチャ」第3世代と分子モデル最適化技術を開発。従来74万量子ビット・5000日以上の計算が、約4万量子ビット・9日で可能に。創薬・新素材開発を加速。 | [富士通](https://global.fujitsu/ja-jp/pr/news/2026/03/25-01) |
+| 4 | 大阪大学、トラップイオン量子デバイスのリモート操作に成功 | 研究室に物理的にアクセスせずに量子コンピュータを操作できる技術を実現。量子コンピューティングの産業応用・クラウド化への大きな一歩。 | [Sify](https://www.sify.com/technology/japan-just-made-remote-quantum-computing-a-reality/) |
+| 5 | 経産省、半導体・AI 予算を約1.23兆円に拡大（前年比約4倍） | FY2026 の METI 予算で、半導体とAI分野への配分を大幅に増額。産業政策支出全体も約50%増となり、日本の技術覇権確保への本気度を示す。 | [eeNews Europe](https://www.eenewseurope.com/en/meti-budget-hike-japan-chip-ai-fy-2026/) |
+| 6 | 日立、「フィジカルAI体験スタジオ」を4月1日開設 | センサー情報を基にロボット等を動かすフィジカルAIの導入に悩む企業向けに体験施設を開設。実機を使った検証環境を提供し、産業用AIの実装を支援。 | [日経クロステック](https://xtech.nikkei.com/atcl/nxt/news/24/03148/) |
+| 7 | NTTデータ、生成AIでシステム丸ごと開発 — IT人材不足に抜本策 | 生成AIを活用してシステム全体を自動生成する取り組みを本格化。深刻化するIT人材不足への対応として、開発プロセスの抜本的な効率化を目指す。 | [日本経済新聞](https://www.nikkei.com/article/DGXZQOUC254OB0V21C25A2000000/) |
+| 8 | 複数企業でランサムウェア被害相次ぐ | 岩谷産業、日本スウェージロックFST、ネクサスエナジー等が3月中にランサムウェア攻撃や不正アクセスの被害を公表。サプライチェーンの脆弱性が改めて浮き彫りに。 | [Sansec](https://note.com/clever_chives813/n/ncb88a41d2f21) |
+| 9 | IoTセキュリティラベリング制度「JC-STAR」★2申請が開始 | 経産省・IPA主導のIoT製品セキュリティ評価制度で、★2以上の申請受付が2026年1月から開始。BMSecとの制度統合期限は3月末で、4月以降にJC-STAR取得製品が増加する見込み。 | [IPA](https://www.ipa.go.jp/security/jc-star/index.html) |
+| 10 | デジタル化・AI導入補助金、3月30日から受付開始 | 政府の「AI戦略2026」に基づく補助金制度。中小企業のAI導入を支援し、デジタル化と生産性向上を促進。 | [起業の教科書](https://sogyotecho.jp/digital-ai-hojyokin/) |
+
+## Japan General News
+
+| # | トピック | 概要 | ソース |
+|---|---------|------|--------|
+| 1 | 暫定予算案8.6兆円を閣議決定 — 11年ぶり、30日成立へ | 2026年度予算案の年度内成立が困難となり、4月1〜11日の11日間分の暫定予算案を閣議決定。2015年以来11年ぶりの暫定予算編成。与野党は30日の成立で合意。 | [日本経済新聞](https://www.nikkei.com/article/DGXZQOUA264X70W6A320C2000000/) |
+| 2 | 日本、石油備蓄を過去最大規模で放出開始 | 3月26日、愛媛県菊間基地から国家備蓄の放出を開始。高市首相は45日分の放出を表明し、32ヶ国参加の国際協調介入で2番目に大きな貢献国に。総放出量は8,000万バレル規模の見込み。 | [The Japan Times](https://www.japantimes.co.jp/business/2026/03/26/economy/japan-oil-reserves/) |
+| 3 | 石炭火力稼働制限を2026年度限定で解除 — 経産省 | 中東情勢によるLNG供給リスクに対応し、非効率石炭火力の稼働率50%制限を1年限定で撤廃。石炭はオーストラリア等から調達可能で、LNGを年間約50万トン節約できる見込み。 | [日本経済新聞](https://www.nikkei.com/article/DGXZQOUA276ZG0X20C26A3000000/) |
+| 4 | ガソリン補助金が過去最高の48.1円/Lに引き上げ | 原油高と円安（1ドル=160円台）でガソリン価格が3月16日に過去最高の190.8円/Lを記録。政府は3月19日から緊急的激変緩和措置を再開し、170円程度に抑制。 | [補助金ポータル](https://hojyokin-portal.jp/columns/petrol_hojyo_teigaku) |
+| 5 | 高市首相、IEA事務局長に追加協調放出を要請 | 3月25日、高市首相がIEA事務局長と会談し、原油価格安定に向けた追加の協調石油備蓄放出の準備を要請。エネルギー安全保障の確保に向けた外交を積極展開。 | [The Japan Times](https://www.japantimes.co.jp/news/2026/03/25/japan/sanae-takaichi-iea-chief/) |
+| 6 | 在留外国人が初の400万人超 — 特定技能が押し上げ | 2025年末時点の在留外国人が412万人に達し、前年比35万人増で過去最多を更新。労働力不足を補う「特定技能」ビザの拡大が大きな要因。 | [日本経済新聞](https://www.nikkei.com/article/DGXZQOUA266LJ0W6A320C2000000/) |
+| 7 | 西武渋谷店が9月末閉店 — 58年の歴史に幕 | 1968年開業の西武渋谷店が、再開発を巡る地権者との交渉決裂で9月末に閉店。渋谷から百貨店が完全に消滅する。セゾン文化の象徴として一時代を築いた店舗。 | [日本経済新聞](https://www.nikkei.com/article/DGXZQOUC254PT0V20C26A3000000/) |
+| 8 | 漫画家・つげ義春さん死去 — 88歳 | 『ねじ式』『無能の人』などで知られる漫画家のつげ義春さんが3月3日に誤嚥性肺炎のため死去していたことが27日に公表された。日本の漫画・サブカルチャーに多大な影響を与えた作家。 | [オリコン](https://www.oricon.co.jp/news/2445174/full/) |
+| 9 | F1日本GP鈴鹿で開催 — 中東情勢でバーレーン・サウジ中止後の重要戦 | 3月27〜29日に鈴鹿で開催。バーレーンGP・サウジアラビアGPが中東情勢で中止となり、次戦まで約1ヶ月の空白が生じるため注目度が高い。FP2ではマクラーレンのピアストリがトップ。 | [ESPN](https://www.espn.com/f1/story/_/id/48229237/japanese-grand-prix-2026-f1-start-how-watch-schedule-suzuka-tv-channel-live-stream-predictions-results) |
+| 10 | PFAS（有機フッ素化合物）が26都府県629地点で指針値超え | 環境省の調査で、全国の河川や地下水のPFAS濃度が広範囲で指針値を超えていることが判明。健康リスクへの懸念が高まり、自治体レベルでの対策が急務に。 | [環境省](https://www.env.go.jp/water/pfas.html) |
+
 ## Deep Dive
 
 - [PolyShell 脆弱性 — Magento/Adobe Commerce への大規模攻撃](./polyshell-vulnerability.md)
 - [2026年イラン戦争と世界エネルギー危機](./iran-war-energy-crisis.md)
 - [OpenAI GPT-5.4 — コンピュータ操作を獲得した汎用モデル](./openai-gpt-5-4.md)
+- [日本のエネルギー危機対応 — 石油備蓄放出・石炭火力解除・ガソリン補助金の三位一体](./jp-energy-crisis-response.md)
+- [ソニー・ホンダ AFEELA 開発中止 — 日本EV戦略の転換点](./jp-sony-honda-afeela-cancelled.md)
