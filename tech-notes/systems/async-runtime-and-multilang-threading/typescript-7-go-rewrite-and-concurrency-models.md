@@ -2,7 +2,7 @@
 
 - **日付**: 2026-02-20
 - **カテゴリ**: Language / Runtime
-- **関連**: [TypeScript 6.0 Beta 概要](../../daily/2026-02-20/tu-typescript-6-0-beta.md)
+- **関連**: [TypeScript 6.0 Beta 概要](../../../daily/2026-02-20/tu-typescript-6-0-beta.md)
 - **続編**: [Rust の非同期ランタイムと言語間マルチスレッドモデル比較](./README.md)
 
 ## 1. TypeScript 7.0 を Go で書き直す背景
