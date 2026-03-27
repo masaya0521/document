@@ -29,3 +29,11 @@ TypeScript / Node.js エコシステム。
 |-------------|
 | [TypeScript 6.0 破壊的変更まとめ](./typescript/typescript-6-breaking-changes/README.md) |
 | [Node.js 2026年3月セキュリティリリース要約 & JavaScript プロトタイプ解説](./typescript/nodejs-march-2026-security-and-prototype/README.md) |
+
+## Observability
+
+オブザーバビリティ・モニタリング。
+
+| ドキュメント |
+|-------------|
+| [OpenTelemetry と分散トレーシングの全体像](./observability/opentelemetry-distributed-tracing/README.md) |
