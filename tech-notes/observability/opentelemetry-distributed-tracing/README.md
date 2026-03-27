@@ -191,7 +191,7 @@ span.end()
 
 **課題**:
 - **Zone.js 依存**: 非同期コンテキスト伝播に Zone.js を使うのが標準だが、Zone.js は `Promise`・`setTimeout`・`fetch` 等をグローバルにモンキーパッチする。React の Concurrent Mode と干渉するリスクがあり、React/Next.js プロジェクトでは避けたい
-- **バンドルサイズ**: OTel SDK + Zone.js で ~50KB (gzipped) 程度の追加
+- **バンドルサイズ**: OTel SDK + Zone.js で ~50KB (gzipped) 程度の追加。React 本体と同程度であり、補助的な機能としてはかなり重い（→ [バンドルサイズ規模感ガイド](../../frontend/bundle-size-guide/README.md)）
 - **CORS**: ブラウザから Trace Backend に直接エクスポートする場合、CORS 設定が必要
 
 ただし、fetch instrumentation だけなら Zone.js なしでも動作する。困るのはブラウザ内の非同期処理の親子関係を自動追跡したい場合。

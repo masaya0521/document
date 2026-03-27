@@ -20,6 +20,7 @@
 | [フロントエンドビルドツールの全体像](./frontend/build-tools/README.md) |
 | [addEventListener の capture オプション](./frontend/addeventlistener-capture/README.md) |
 | [Web Animations API とインラインスタイルの関係](./frontend/web-animations-api-and-inline-styles/README.md) |
+| [フロントエンドのバンドルサイズ規模感ガイド](./frontend/bundle-size-guide/README.md) |
 
 ## TypeScript
 
