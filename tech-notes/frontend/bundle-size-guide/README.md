@@ -53,3 +53,48 @@ gzipped 100KB の JS は、3G 回線で約 3 秒、4G 回線で約 0.5 秒のダ
 - **50KB+**: 明確な理由がなければ避けたい。サーバーサイドに寄せられないか検討
 
 補助的な機能（ロギング、トレーシング、アナリティクス等）にコア機能（React 等）と同程度のサイズを使うのは、費用対効果の観点から慎重に判断すべき。SSR/BFF 構成でサーバーサイドに寄せられる処理は、バンドルに含めない選択肢を優先する。
+
+---
+
+## 5. Tree-shaking と API 設計
+
+ライブラリのサイズは「全体サイズ」だけでなく、**tree-shaking が効くかどうか**で実質的なバンドルサイズが大きく変わる。tree-shaking の効きやすさはライブラリの API 設計に直結する。
+
+### tree-shaking とは
+
+バンドラー（webpack, Vite/Rollup 等）が、実際に使われていない export を静的解析で検出し、バンドルから除去する仕組み。ES Modules の `import { foo } from 'lib'` 形式であれば、`foo` 以外の export を除去できる。
+
+### メソッドチェーン vs 関数ベース
+
+**メソッドチェーン（tree-shaking が効きにくい）**:
+
+```typescript
+// zod: z.string() が返すオブジェクトに全メソッドが生えている
+const schema = z.string().email().min(5);
+```
+
+`.email()` しか使っていなくても、`.url()`・`.uuid()`・`.ip()` 等すべてのメソッドがクラスのプロトタイプに紐づいているため、バンドラーは「このメソッドは使われていない」と判断できず除去できない。
+
+**関数ベース（tree-shaking が効く）**:
+
+```typescript
+// valibot: 各バリデーションが独立した関数
+import { string, email, minLength, pipe } from 'valibot';
+const schema = pipe(string(), email(), minLength(5));
+```
+
+`email` と `minLength` だけ import すれば、`url` や `uuid` はバンドルに含まれない。各関数が独立した export なので、バンドラーが未使用分を静的に除去できる。
+
+### 実例: 同じ用途でサイズが大きく異なるライブラリ
+
+| 用途 | メソッドチェーン型 | 関数ベース型 |
+|------|-----------------|-------------|
+| バリデーション | zod (~14KB 全量) | valibot (~1KB 使用分のみ) |
+| ユーティリティ | lodash (~25KB 全量) | lodash-es / es-toolkit (使用分のみ) |
+| 日付操作 | moment.js (~70KB 全量) | date-fns (使用分のみ) |
+
+### API 設計がバンドルサイズに直結する
+
+メソッドチェーンは補完が効いて DX（開発者体験）が良い反面、tree-shaking との相性が悪い。関数ベース・パイプは tree-shaking に最適化されているが、API の書き味が異なる。
+
+ライブラリの選定時は、公称の全体サイズだけでなく「自分の使い方で実際にバンドルされるサイズ」を意識することが重要。[bundlephobia](https://bundlephobia.com/) 等のツールで確認できる。
