@@ -75,6 +75,10 @@ Vite 7 比で約 15MB 増加（Rolldown 約 5MB + lightningcss 約 10MB）。
 3. `vite-tsconfig-paths` を使っている場合は削除を検討（ネイティブサポートに置換）
 4. カスタム Rollup プラグインを使っている場合は動作確認
 
+## 関連ドキュメント
+
+- [フロントエンドビルドツールの全体像](../../tech-notes/frontend/build-tools/README.md) — esbuild/Rollup/Rolldown の設計思想比較、tsgo との言語選択の違いを含む
+
 ## 今後の注目点
 
 - **Full Bundle Mode** の安定化（開発体験の大幅な改善が期待）
