@@ -30,8 +30,41 @@
 | 9 | パキスタン・アフガニスタン和平交渉、中国仲介で実施 | 数週間の戦闘を経て、パキスタンがアフガニスタン・タリバン政権との和平交渉を中国で実施していることを確認。 | [NPR](https://www.npr.org/sections/world/) |
 | 10 | ホルムズ海峡再開に向けた多国間外交が始動 | 米国・イスラエルを除く数十カ国がホルムズ海峡の再開に向けた外交努力を開始。世界の石油供給の20%が通過する戦略的水路。 | [Washington Post](https://www.washingtonpost.com/world/2026/04/02/us-iran-war-strait-hormuz-future/) |
 
+## Japan Tech News
+
+| # | トピック | 概要 | ソース |
+|---|---------|------|--------|
+| 1 | マイクロソフト、日本に1.6兆円のAIインフラ投資 | 2026〜2029年にかけて$10B（約1.6兆円）を日本に投資。さくらインターネット・ソフトバンクと提携しAIコンピューティング基盤を拡充。2030年までにエンジニア100万人育成も目標。 | [Microsoft Source Asia](https://news.microsoft.com/source/asia/2026/04/03/microsoft-deepens-its-commitment-to-japan-with-10-billion-investment-in-ai-infrastructure-cybersecurity-workforce/) |
+| 2 | 東北大学×ソフトバンク、防災AI共同研究を開始 | 東北大学災害科学国際研究所とソフトバンクグループが、東日本大震災の記憶・教訓を継承する生成AI技術の共同研究を開始。2028年度のテスト運用を目指す。 | [Japan Times](https://www.japantimes.co.jp/news/2026/04/03/japan/softbank-disaster-prevention-ai/) |
+| 3 | 2026年度AI・半導体予算、約1.23兆円に大幅増額 | 経産省が2026年度のAI・半導体関連予算を前年度比約4倍の約1.23兆円に増額。Rapidusへの支援を含む先端半導体製造とAIインフラ整備に重点投資。 | [DIGITIMES](https://www.digitimes.com/news/a20251226PD237/rapidus-budget-industrial-semiconductors-expansion.html) |
+| 4 | 大阪市×日立、AIエージェントで自治体業務40%短縮 | 大阪市と日立製作所が通勤届の申請・審査業務にAIエージェントを実証導入。年間約1万件の処理で最大40%の時間短縮を確認し、2026年度以降の全庁展開を検討開始。 | [日本経済新聞](https://www.nikkei.com/article/DGXZQOUF259P20V20C26A3000000/) |
+| 5 | 電通デジタル、対話型AI開発ソリューションをリブランド | 「∞AI Chat」を「AI For Growth Canvas」に刷新し4月1日より本格提供開始。企業のAI活用支援を強化。 | [note](https://note.com/yasuhitoo/n/ne4e3d0a462a2) |
+| 6 | AIストーム、日本テレシステムを完全子会社化 | AIストーム株式会社がコールセンター・BPO事業の日本テレシステム(NTS)を4月1日付で完全子会社化。AIとBPO事業の融合を推進。 | [note](https://note.com/yasuhitoo/n/ne4e3d0a462a2) |
+| 7 | Japan IT Week 春 2026、4月8日〜10日に開催 | 東京ビッグサイトで日本最大のIT・DX展示会が開催予定。約1,100社が出展し6万人の来場を見込む。情報セキュリティEXPOも併催。 | [Japan IT Week](https://www.japan-it.jp/spring/ja-jp.html) |
+| 8 | IPA「情報セキュリティ10大脅威2026」AIリスクが初選出 | IPAが発表した2026年版10大脅威で「AIの利用をめぐるサイバーリスク」が初選出で3位にランクイン。企業のAIセキュリティ対策の重要性が高まる。 | [IPA](https://www.ipa.go.jp/security/10threats/10threats2026.html) |
+| 9 | ノウタス、AIでブドウ栽培期間を1年未満に短縮 | 農業スタートアップのノウタスがAI活用で従来3年かかるブドウ栽培を1年未満に短縮。横浜に年間約1万房の生産能力を持つ植物工場を新設。 | [日本経済新聞](https://www.nikkei.com/article/DGXZQOUF1284X0S5A211C2000000/) |
+| 10 | サイバー通信情報監理委員会が4月1日に設置 | サイバーセキュリティ強化のため、新たな独立機関「サイバー通信情報監理委員会」が設置。通信の秘密保護とサイバー対策の両立を監督。 | [KSI政策ニュース](https://www.policynews.jp/schedule/2026/4.html) |
+
+## Japan General News
+
+| # | トピック | 概要 | ソース |
+|---|---------|------|--------|
+| 1 | 食糧法改正案を閣議決定、コメの「需要に応じた生産」を明記 | 政府が「令和のコメ騒動」を受けた食糧法改正案を閣議決定。石破前政権の増産方針から転換し、需要に応じた生産を推進。鈴木農相は「価格は市場で決まる」と明言。 | [日本経済新聞](https://www.nikkei.com/article/DGXZQOUA018GJ0R00C26A4000000/) |
+| 2 | 茨城県南部でM5.0地震、栃木で震度5弱 | 4月1日に茨城県南部を震源とするM5.0の地震が発生。栃木県真岡市で震度5弱を観測。関東での震度5弱以上は約1年半ぶり。気象庁は今後数日の警戒を呼びかけ。 | [ウェザーニュース](https://weathernews.jp/news/202604/011006quake/) |
+| 3 | 渋谷スクランブル交差点で放火事件 | 4月3日夜、渋谷駅前スクランブル交差点で男が灯油をまき火をつける事件が発生。けが人なし。50代の男が約30分後に出頭し、事情聴取中。 | [時事ドットコム](https://www.jiji.com/jc/article?k=2026040301053&g=soc) |
+| 4 | 4月1日施行：離婚後の「共同親権」導入 | 改正民法が施行され、離婚後も父母双方が親権を持つ「共同親権」が選択可能に。法定養育費制度も新設。日常的な決定は単独で可能だが、重要事項は共同決定が必要。 | [ベリーベスト法律事務所](https://rikon.vbest.jp/columns/9378/) |
+| 5 | 自転車に交通違反の青切符制度開始 | 4月1日から改正道路交通法が施行され、16歳以上の自転車利用者に交通違反の反則金制度（青切符）を導入。自動車が自転車を追い越す際の1.5m確保義務も新設。 | [JAF Mate](https://jafmate.jp/car/sp_20260327_1198851.html) |
+| 6 | GW海外旅行者数57.2万人、平均費用は過去最高32.9万円 | JTB推計でGW期間の海外旅行者数は前年比108.5%の57.2万人。平均旅行費用は329,000円と統計開始以来最高。燃油サーチャージ先高観で欧州・北米方面が人気。 | [JTB](https://www.jtbcorp.jp/jp/newsroom/2026/04/02_jtb_2026gw-travel-trend-outlook.html) |
+| 7 | 米国、トマホークミサイルの日本納入遅延を通知 | 米国がイラン戦争での在庫枯渇を理由に、日本が発注した約400基のトマホークミサイルの2028年3月までの納入が困難と通知。日本の反撃能力整備に影響。 | [Japan Times](https://www.japantimes.co.jp/news/2026/04/03/japan/japan-tomahawk-missiles-delayed/) |
+| 8 | たばこ税・法人税引き上げ、防衛力強化の財源に | 4月1日から防衛力強化のための財源確保としてたばこ税と法人税が引き上げ。子ども・子育て支援金の徴収も開始。 | [KSI政策ニュース](https://www.policynews.jp/schedule/2026/4.html) |
+| 9 | こども誰でも通園制度スタート | 4月1日から保護者の就労に関係なく子供を預けられる「こども誰でも通園制度」が開始。私立高校授業料の実質無償化、公立小の給食費無償化も同時にスタート。 | [KSI政策ニュース](https://www.policynews.jp/schedule/2026/4.html) |
+| 10 | 日経平均反発、円は159円台後半で推移 | 4月3日の東証で日経平均は反発。為替は中東情勢の長期化懸念と原油高の影響で159円台後半。市場は日銀の追加利上げ観測を注視。 | [日本経済新聞](https://www.nikkei.com/markets/worldidx/chart/nk225/) |
+
 ## Deep Dive
 
 - [Google Gemma 4 — オープンAIモデルの新たなマイルストーン](./google-gemma-4.md)
 - [ホルムズ海峡危機 — 原油価格高騰と世界経済への影響](./hormuz-oil-crisis.md)
 - [SpaceX IPO — 史上最大の新規上場に向けた動き](./spacex-ipo.md)
+- [マイクロソフト、日本に1.6兆円のAI・サイバーセキュリティ投資](./jp-microsoft-japan-ai-investment.md)
+- [食糧法改正案を閣議決定 — コメ政策の転換と「令和のコメ騒動」の教訓](./jp-food-staple-act-reform.md)
+- [トマホークミサイル納入遅延 — イラン戦争が日本の防衛戦略に波及](./jp-tomahawk-delivery-delay.md)
