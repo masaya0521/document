@@ -30,8 +30,40 @@
 | 9 | 米株式市場、地政学リスクで不安定な展開 | ダウが266ポイント下落。イラン情勢の外交的解決への期待から翌日の先物は0.9%上昇。原油は107ドル近辺に下落。 | [Bloomberg](https://www.bloomberg.com/news/articles/2026-04-07/stock-market-today-dow-s-p-live-updates) |
 | 10 | 各国がホルムズ海峡航行を再開 | オマーン・フランス・日本の船舶がホルムズ海峡を通過。戦争開始以来初の商業航行再開の動き。 | [Al Jazeera](https://www.aljazeera.com/news/2026/4/3/french-owned-container-ship-transits-hormuz-strait-in-first-since-iran-war) |
 
+## Japan Tech News
+
+| # | トピック | 概要 | ソース |
+|---|---------|------|--------|
+| 1 | Microsoft、日本に100億ドルの AI インフラ投資 | 2026〜2029年にかけて約1.6兆円を投資。さくらインターネット・ソフトバンクと協業し、Azure 上で GPU ベースの AI コンピュートを提供。100万人のエンジニア育成も。 | [Microsoft](https://news.microsoft.com/source/asia/2026/04/03/microsoft-deepens-its-commitment-to-japan-with-10-billion-investment-in-ai-infrastructure-cybersecurity-workforce/) |
+| 2 | LY Corporation、164の OpenStack クラスタを1つに統合 | Yahoo! Japan と LINE の統合に伴い、計29万VM・3.8万サーバーを新統合クラウド「Flava」に集約。カスタマイズ過多によるアップグレード困難とセキュリティ問題が契機。 | [The Register](https://www.theregister.com/2026/04/07/ly_corp_openstack_consolidation/) |
+| 3 | 経産省、フィジカル AI で2040年世界市場シェア30%目標 | 労働力不足・高齢化を背景に、ロボティクス・フィジカル AI の国内産業育成を加速。日立は「フィジカル AI 体験スタジオ」を開設。 | [TechCrunch](https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/) |
+| 4 | TEAMZ Web3 / AI Summit 2026 開催 | 4月7〜8日に東京・八芳園で開催。80カ国以上から参加者が集まり、Web3・AI の最前線を議論。片山さつき財務大臣らが登壇。 | [TEAMZ](https://www.teamz.co.jp/en) |
+| 5 | 5キャリア「JAPAN ローミング」提供開始 | NTTドコモ、KDDI、沖縄セルラー、ソフトバンク、楽天モバイルの5社が4月1日から災害時等の相互ローミングサービスを開始。 | [日本経済新聞](https://www.nikkei.com/news/category/technology/) |
+| 6 | 富士通・大阪大学、量子コンピュータ産業応用の新技術発表 | 量子コンピューティングの実用化を加速する2つの新技術を共同発表。産業応用に向けた研究が進展。 | [日本経済新聞](https://www.nikkei.com/news/category/technology/) |
+| 7 | Axios メンテナアカウント、北朝鮮グループに奪取 | JavaScript の主要ライブラリ「Axios」のメンテナアカウントが北朝鮮背景の脅威アクター「Sapphire Sleet」により侵害（3月31日）。サプライチェーン攻撃のリスクが顕在化。 | [cybersecurity-jp](https://cybersecurity-jp.com/news) |
+| 8 | キャスター、自律型 AI エージェントサービス発表 | 「AI社員を1人、組織に加える」コンセプトで、Slack・Teams 上で複数の専門 AI エージェントが連携して業務遂行するサービスを5月より提供開始。 | [note](https://note.com/hirokimiyano/n/n1d86642b3d39) |
+| 9 | 穴吹興産、ランサムウェア被害の第4報を公表 | 2月に確認されたランサムウェア攻撃の続報。国内企業へのサイバー攻撃が依然として継続している状況を示す。 | [cybersecurity-jp](https://cybersecurity-jp.com/news) |
+| 10 | Japan IT Week / DX Week 2026、東京ビッグサイトで開催 | 4月開催の大規模 IT 展示会。DX・AI・クラウドなど幅広い分野の最新ソリューションが集結。 | [kaboot](https://kaboot.net/exhibition_calendar/summary/2026-04-bigsight.php) |
+
+## Japan General News
+
+| # | トピック | 概要 | ソース |
+|---|---------|------|--------|
+| 1 | 2026年度予算122兆円が成立、過去最大 | 参院本会議で可決・成立。社会保障費39兆円、防衛費8.8兆円、国債費31兆円。年度をまたいだのは11年ぶりで、2月の解散総選挙が原因。 | [日本経済新聞](https://www.nikkei.com/article/DGXZQOUA241X40U5A221C2000000/) |
+| 2 | ホルムズ海峡迂回の原油、5月から日本到着見込み | UAE・サウジアラビアの港からホルムズ海峡を迂回したルートでの原油輸送が開始。日本は470百万バレル（254日分）の備蓄を保有。 | [Japan Times](https://www.japantimes.co.jp/business/2026/04/04/oil-bypassing-hormuz-japan-may/) |
+| 3 | 川崎 JFE スチールで足場崩落、3人死亡 | JFE スチール東日本製鉄所で高さ40m級の足場が崩壊。約500トンの重りが落下し作業員が巻き込まれた。1人が行方不明。 | [NHK](https://news.web.nhk/newsweb/na/na-k10015094461000) |
+| 4 | 防衛装備移転三原則の運用指針改定へ | 殺傷兵器の輸出を NSC 決定後に国会へ事後通知する仕組みを盛り込む方向で調整。4月中の改定を目指す。 | [ライブドアニュース](https://news.livedoor.com/topics/detail/30904754/) |
+| 5 | 共同親権制度が4月1日に施行 | 離婚後に父母双方の親権を認める改正民法が施行。法定養育費（子ども1人あたり月2万円）制度も同時導入。 | [日本経済新聞](https://www.nikkei.com/article/DGXZQOUA310C20R31C25A0000000/) |
+| 6 | たばこ税・法人税引き上げが4月施行 | 防衛力強化の財源として、たばこ税と法人税の引き上げが実施。自転車交通違反への青切符制度も開始。 | [KSI政策ニュース](https://www.policynews.jp/schedule/2026/4.html) |
+| 7 | 高市首相、原油備蓄8,000万バレルを放出 | 国内需要45日分の原油備蓄を放出。国内需要4カ月分のナフサ確保を表明し、パニック抑制を図る。 | [CSIS](https://www.csis.org/analysis/what-are-implications-iran-conflict-japan) |
+| 8 | イランに拘束の邦人解放を確認 | イランに拘束されていた日本人の解放が確認された。中東情勢の緊迫化の中での外交成果。 | [Japan Times](https://www.japantimes.co.jp/) |
+| 9 | 桜前線が東北を北上中、来週末まで見頃 | 西日本から東日本で満開を迎え、4月11〜12日頃まで見頃が続く見込み。東北は例年より早い開花。 | [日本気象協会](https://www.jwa.or.jp/news/2026/03/35995/) |
+| 10 | 日経平均53,429円、3日続伸 | 4月7日終値。地政学リスクが続く中でも小幅に上昇し、3営業日連続の上昇。 | [日本経済新聞](https://www.nikkei.com/markets/worldidx/chart/nk225/) |
+
 ## Deep Dive
 
 - [Artemis II：54年ぶりの有人月フライバイと人類最遠記録更新](./artemis-ii-historic-lunar-flyby.md)
 - [Chrome ゼロデイ CVE-2026-5281：WebGPU 脆弱性と2026年のブラウザセキュリティ](./chrome-zero-day-cve-2026-5281.md)
 - [ホルムズ海峡危機：原油141ドルと世界経済への波及](./strait-of-hormuz-crisis-oil-surge.md)
+- [Microsoft の日本 AI インフラ100億ドル投資：戦略と影響](./jp-microsoft-japan-ai-investment.md)
+- [LY Corporation：164 OpenStack クラスタを1つに統合する大規模インフラ刷新](./jp-ly-corp-openstack-consolidation.md)
