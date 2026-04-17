@@ -30,7 +30,39 @@
 | 9 | Pope Leo XIV、カメルーン訪問で平和メッセージ | 分離主義地域への和平メッセージと Biya 大統領との会談。アフリカ歴訪中に「戦争で巨額を費やす独裁者たち」を批判。 | [Democracy Now!](https://www.democracynow.org/2026/4/16/headlines) |
 | 10 | Fed 金利据置、利上げ確率が一時52%に上昇 | 政策金利は 3.50-3.75% を維持。Iran 戦争由来の原油高がコア PCE への波及リスクを高め、市場は2026年中の追加利下げ期待を後退させた。 | [Schwab](https://www.schwab.com/learn/story/fomc-meeting) |
 
+## Japan Tech News
+
+| # | トピック | 概要 | ソース |
+|---|---------|------|--------|
+| 1 | 経産省2026年度予算、AI・半導体に1兆2390億円 | 経済産業省の26年度予算は前年度当初比約5割増の3兆693億円。最先端半導体・AI関連に1兆2390億円を計上し、前年度当初の3.7倍へ大幅増額。 | [時事ドットコム](https://www.jiji.com/jc/article?k=2025122200862&g=eco) |
+| 2 | デジタル庁、Android版マイナンバーカードを2026年秋に刷新 | 基本4情報等を端末に搭載する新仕様へ。次期マイナンバーカード本体の導入も2026年度目標で進行中。 | [デジタル庁](https://services.digital.go.jp/mynumbercard-android/news/0cfe138d7fb5927e4dc6d/) |
+| 3 | IPA「情報セキュリティ10大脅威2026」AIリスクが3位で初ランクイン | 被害件数で最多の攻撃手法はランサムウェア（6.9%）、攻撃試行で最多はフィッシング（49.2%）。AIが生成するフィッシング・攻撃コードが懸念される。 | [IPA](https://www.ipa.go.jp/security/10threats/10threats2026.html) |
+| 4 | 阿波銀行テスト環境に不正アクセス、顧客情報等27,745件流出 | OAシステムのテスト環境が不正アクセスを受け、法人IB契約先・株主情報等が漏洩。外部セキュリティ企業からの指摘で発覚。本番環境とは分離済み。 | [阿波銀行](https://www.awabank.co.jp/kojin/news/2026/news20260403a/) |
+| 5 | リチェルカ、受発注Agentic ERPでシリーズA17億円調達 | 企業間の受発注をAIエージェントで自動化するプラットフォームを展開。2026年4月6-10日週の国内スタートアップ調達22件中のトップ級案件。 | [Zaimo note](https://note.com/zaimo_ai/n/n9f71a6e37a51) |
+| 6 | CRISP、外食テクノロジーで37億円調達 | サラダボウル業態で店舗DX・オペレーション自動化を推進する CRISP が大型調達。2026年3月末-4月頭の週の国内トップ案件。 | [Zaimo note](https://note.com/zaimo_ai/n/n812a99850772) |
+| 7 | マイクロニティ、AI駆動型事業承継プラットフォームで22億円調達 | 中小企業のM&A・事業承継をAIで効率化。国内で進む後継者問題に対するAIソリューションの大型調達例として注目。 | [Zaimo note](https://note.com/zaimo_ai/n/n812a99850772) |
+| 8 | いすゞ・トヨタ、小型燃料電池トラック量産で共同開発合意 | 2027年度の生産開始を目指して共同開発。脱炭素と物流向け商用FCの量産化で連携。 | [日刊自動車新聞](https://www.netdenjd.com/) |
+| 9 | Google、日本語対応音声合成「Gemini 3.1 Flash TTS」リリース | 70以上の言語に対応、表現力豊かな音声生成が可能。日本語サービスへの組み込みによる音声UX強化が期待される。 | [Google News](https://news.google.com/topics/CAAqKAgKIiJDQkFTRXdvSkwyMHZNR1ptZHpWbUVnSnFZUm9DU2xBb0FBUAE?hl=ja&gl=JP) |
+| 10 | ラピダス、AI設計支援ツール「Raads」2026年提供予定 | Rapidus AI-Agentic Design Solution。既存EDAと併用で設計期間50%・設計コスト30%削減を謳う。2nm量産立ち上げと設計力強化を並走。 | [日経ビジネス](https://business.nikkei.com/atcl/gen/19/00814/111800002/) |
+
+## Japan General News
+
+| # | トピック | 概要 | ソース |
+|---|---------|------|--------|
+| 1 | 日経平均、終値5万9518円で史上最高値更新 | 16日終値は前日比+1384円（+2.38%）。米・イラン和平期待とTSMCの好決算で半導体株が牽引、6万円が目前に。 | [日本経済新聞](https://www.nikkei.com/article/DGXZQOUB1566TTV10C26A4000000/) |
+| 2 | 柏崎刈羽原発6号機、14年ぶり本格営業運転開始 | 東京電力が16日16時から営業運転を再開。東日本大震災後、同社が原発を本格稼働するのは初。中東起因のLNG調達懸念に対する供給力強化。 | [NHK](https://news.web.nhk/newsweb/na/na-k10015100901000) |
+| 3 | G20財務相中銀総裁会議終了、G7は中東情勢沈静化で一致 | 片山財務相はG7財務相会合後「中東情勢を早期に沈静化させる必要性で一致」と説明。議長国は米国。 | [NHK](https://news.web.nhk/newsweb/na/na-k10015101221000) |
+| 4 | 熊本地震本震から10年、遺族の祈りと防災発信 | 本震から10年を迎え遺族が祈りを捧げた。熊本では国内最大級の防災イベントが開催され、地震・豪雨の教訓を発信。 | [NHK](https://news.web.nhk/newsweb/na/na-k10015099081000) |
+| 5 | 京都・11歳男児遺体遺棄事件、父親(37)逮捕 | 南丹市の山林で発見された小6男児の遺体遺棄で父親を逮捕。殺害も認める供述。遺体は複数回移動されたとみられる。 | [時事ドットコム](https://www.jiji.com/jc/article?k=2026041600113&g=soc) |
+| 6 | 福島第一原発2号機、初の原子炉圧力容器内部調査 | ファイバースコープによる圧力容器内部の初調査。燃料デブリ取り出しに向けた重要なマイルストーン。 | [河北新報](https://kahoku.news/articles/20260416khn000050.html) |
+| 7 | 日本版CFIUS創設、外為法改正案を閣議決定 | 財務省・NSS共同議長で経産省・防衛省等が参加。対日投資のリスク軽減措置の届出義務化、間接投資も審査対象に。 | [NHK](https://news.web.nhk/newsweb/na/na-k10015077661000) |
+| 8 | JAPANローミング、携帯5社が4月1日提供開始 | ドコモ・KDDI・沖縄セルラー・ソフトバンク・楽天の5社。災害・障害時に他社4G LTEに接続可能。フル/緊急通報のみの2方式。 | [KDDI News Room](https://newsroom.kddi.com/news/detail/kddi_nr-958_4367.html) |
+| 9 | ホンダ、EV「インサイト」復活、17日発売 | 中国仕様e:NS2ベース、価格550万円・3000台限定。EV再編の中での国内EVラインアップ補強。 | [グーネット](https://www.goo-net.com/magazine/tag/eveningedition-20260416/) |
+| 10 | 経産省、中東情勢対応の燃料油・石油製品安定供給方針策定 | 4月10日、原油代替調達を指示。4月は前年比2割以上、5月は過半の代替調達に目処。ホルムズ海峡通行制限への備え。 | [首相官邸](https://www.cas.go.jp/jp/seisaku/chyutoujyousei/dai3/pdf/siryou2.pdf) |
+
 ## Deep Dive
 
 - [Amazon × Globalstar 買収：Project Kuiper の衛星接続戦略と Apple 連携](./amazon-globalstar-acquisition.md)
 - [OpenAI・Anthropic・Google が連携する「対中蒸留防衛」の構図](./frontier-model-forum-china-distillation.md)
+- [柏崎刈羽6号機、14年ぶり営業運転：中東危機下の日本エネルギー安全保障](./jp-kashiwazaki-kariwa-restart.md)
+- [日本版CFIUS 創設：経済安全保障の新たな対日投資審査フレーム](./jp-cfius-japan.md)
