@@ -30,8 +30,40 @@
 | 9 | 世界の世論調査で「反 AI 感情」が高まる | データセンター建設に対する地域反対や、Sam Altman 邸への放火未遂など物理的な攻撃も発生。Anthropic / OpenAI の IPO 観測と並走しテック企業への風当たりが強まる。 | [Fortune](https://fortune.com/2026/04/16/anti-ai-sentiment-is-rising-and-its-starting-to-turn-violent/) / [CNBC](https://www.cnbc.com/2026/04/15/public-opinion-ai-data-centers-anthropic-openai-ipo.html) |
 | 10 | スタンフォード AI Index、米中 AI 格差は「ほぼ消失」 | Anthropic の Claude Opus 4.6 がトップで、中国 Dola-Seed 2.0 との差はわずか 2.7%。米国への AI 専門家流入の鈍化が背景。 | [Fortune](https://fortune.com/2026/04/16/stanford-study-how-has-china-gained-on-us-ai-war/) |
 
+## Japan Tech News
+
+| # | トピック | 概要 | ソース |
+|---|---------|------|--------|
+| 1 | ソフトバンク・NEC・ホンダ・ソニーが「日本AI基盤モデル開発」設立 | 1 兆パラメータ級の国産フィジカル AI 基盤モデルを国内データのみで開発する合弁会社を 4/12 に設立。経産省は 2026 年度から 5 年で約 1 兆円規模の支援を予定し、米中対抗の国産 AI 連合が始動。 | [日本経済新聞](https://www.nikkei.com/article/DGXZQOUC1207B0S6A410C2000000/) / [Ledge.ai](https://ledge.ai/articles/softbank_nec_honda_sony_japan_ai_foundation_model_company) |
+| 2 | 政府がラピダスへ追加 6,315 億円の補助金決定、累計 2.6 兆円規模に | 経産省は 4/11 に 2026 年度分（前工程 5,141 億円・後工程 1,174 億円）の追加支援を承認。FY2027 までの政府支援は累計 2.6 兆円（約 163 億ドル）に達し、2nm 量産に向けた国家プロジェクトを加速。 | [Bloomberg](https://www.bloomberg.com/news/articles/2026-04-11/japan-bets-16-billion-to-propel-startup-rapidus-into-ai-chips) / [Yahoo!ニュース](https://news.yahoo.co.jp/articles/1f87c3464312261923d0461de8a8da28b3747df1) |
+| 3 | Microsoft が日本に 1.6 兆円 AI 投資、さくらインターネット・ソフトバンクと協業 | Microsoft は 4/3 に 4 年で 100 億ドル規模の AI インフラ・サイバーセキュリティ・人材育成投資を発表。さくらインターネットの GPU クラウドを Azure 上から利用する協業も同時公表され、同社株は一時 20% 高。 | [CNBC](https://www.cnbc.com/2026/04/03/sakura-internet-microsoft-ai-japan-softbank-investment.html) / [さくらインターネット](https://www.sakura.ad.jp/corporate/information/newsreleases/2026/04/03/1968224185/) |
+| 4 | ラピダス、千歳 IIM 拠点で 2nm 試作ライン完成 | 4/1 に北海道千歳市の研究製造拠点 IIM のパイロットラインが稼働。短 TAT 生産システム・搬送・生産管理を実装し、PDK リリースに向けた検証を開始。後工程の Rapidus Chiplet Solutions も本格稼働へ。 | [Rapidus 公式](https://www.rapidus.inc/en/) / [Semi-Engineers](https://semi-engineers.com/information-rapidus/) |
+| 5 | CRISP がシリーズで 37 億円調達 — AI × 外食産業 | テクノロジーで外食産業を進化させる CRISP が 4/3 週に 37 億円を調達。AI を活用したオペレーション最適化・新規出店加速が狙いで、4 月の国内大型ラウンドの筆頭に。 | [Zaimo (note)](https://note.com/zaimo_ai/n/n812a99850772) |
+| 6 | マイクロニティが 22 億円調達 — AI 駆動型事業承継プラットフォーム | M&A の難所をエージェント AI で支援するマイクロニティが 4/3 週に 22 億円を調達。事業承継 × AI が新たな投資カテゴリとして台頭。 | [Zaimo (note)](https://note.com/zaimo_ai/n/n812a99850772) |
+| 7 | リチェルカ、Agentic ERP でシリーズ A 17 億円 | 受発注領域の Agentic ERP を開発するリチェルカが 4/10 週にシリーズ A で 17 億円調達。Agent 時代の業務 SaaS の評価軸が顕在化。 | [Zaimo (note)](https://note.com/zaimo_ai/n/n9f71a6e37a51) |
+| 8 | 阿波銀行のテスト環境に不正アクセス、顧客情報漏洩 | 4/3 に行内情報共有システムのテスト環境が侵害され、一部顧客情報が漏洩。同日には YCC 情報システムのファイルサーバへの攻撃も発生し、4 月もインシデントが頻発。 | [サイバーセキュリティ.com](https://cybersecurity-jp.com/news) |
+| 9 | アサヒ GHD ランサム被害の余波、152 万件漏洩可能性で 2026 年も論点継続 | アサヒグループ HD は 2/18 に再発防止策（VPN 廃止・ゼロトラスト全面移行・EDR 強化）を公表。152 万件の個人情報漏洩可能性が示され、データセンター侵害という 2026 年型の脅威モデルが定着。 | [ITmedia](https://www.itmedia.co.jp/enterprise/articles/2602/20/news046.html) / [トレンドマイクロ](https://www.trendmicro.com/ja_jp/jp-security/25/l/expertview-20251218-01.html) |
+| 10 | デジタル庁、Android マイナンバーカードを 2026 年秋に開始予定 | iOS 版に続き Android 端末向けマイナンバーカード搭載サービスを 2026 年秋に開始。マイナポータルのシステム更改とあわせ、行政デジタル化の次フェーズが本格化。 | [デジタル庁](https://services.digital.go.jp/mynumbercard-android/news/0cfe138d7fb5927e4dc6d/) / [ITmedia](https://www.itmedia.co.jp/news/articles/2509/05/news116.html) |
+
+## Japan General News
+
+| # | トピック | 概要 | ソース |
+|---|---------|------|--------|
+| 1 | 大谷翔平、日本人最長の 50 試合連続出塁 — ベーブ・ルースに並ぶ | 4/18（日本時間 19 日）ロッキーズ戦 9 回の右前打で 50 試合連続出塁を達成。日本人最長記録を更新し、ドジャース歴代 3 位タイの偉業に。 | [THE ANSWER](https://the-ans.jp/tag/shohei-ohtani/) / [Goal.com](https://www.goal.com/jp/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/shohei-ohtani-latest-match-result-dodgers-mlb2026/blt48edd53499725504) |
+| 2 | 高市首相が改憲発言「時は来た」 — 自民党大会で発信 | 4/12 の第 93 回自民党大会で「日本人の手による自主的な憲法改正は党是。時は来た」と発言。エンタメ界からの反応も含めて世論が分かれ、通常国会の主要争点に浮上。 | [Yahoo!ニュース (J-CAST)](https://news.yahoo.co.jp/articles/1b6d097d9a71f8b852d91815c192ba5dc217d6d4) |
+| 3 | 日銀 4/27-28 会合で物価見通し大幅引き上げを検討、利上げ観測 | 中東情勢に伴う原油高を背景に、2026 年度の物価見通しを大きく上方修正する方向で議論。前日銀理事も「利上げの可能性高い」と発言し、追加利上げの蓋然性が再上昇。 | [Bloomberg](https://www.bloomberg.com/jp/news/articles/2026-04-14/TD9ABGKJH6VC00) / [日本経済新聞](https://www.nikkei.com/article/DGXZQOFL170F5TX10C26A4000000/) |
+| 4 | 長野県北部で M5 強の地震、揺れ広範囲に | 4/18 に長野県北部で M5.1（震度 5 弱）と M5.0（震度 5 強）の地震が連続発生。19 日にも複数の余震を観測したが、津波の心配はなしと発表。 | [tenki.jp](https://earthquake.tenki.jp/bousai/earthquake/entries/level-4/) |
+| 5 | 中東情勢悪化で原油高、日本企業 96.6% に「マイナス影響」 | 帝国データバンク調査で原油高・供給不安が経営に影響と回答した企業が 96.6%。半年継続なら 43.8% が主力事業の縮小を余儀なくされる懸念も。 | [帝国データバンク](https://www.tdb.co.jp/report/economic/20260409-oil/) |
+| 6 | 高市首相、エネルギー危機「長期化見据え対応」 | ホルムズ海峡を通らないルートでの代替調達を強化し、4 月で前年比 2 割超、5 月には過半に目処。約 8 ヶ月分の備蓄と組み合わせ「年を越えて供給確保の目途」と表明。 | [首相官邸](https://www.kantei.go.jp/jp/105/statement/2026/0407kaiken.html) / [Yahoo!ニュース (毎日)](https://news.yahoo.co.jp/articles/4f5bc21028bf97d94a2da7c9811d0f73e4c8ef35) |
+| 7 | ドル円が一時 160 円台、為替介入警戒感が再燃 | 中東情勢を受け米ドル円は一時 160 円台に上昇。野村は 2026 年末見通しを 152.5 円へ上方修正し、財務省・日銀のレートチェックや口先介入への警戒が強まる。 | [みんかぶ FX](https://fx.minkabu.jp/news/364673) / [野村ウェルスタイル](https://www.nomura.co.jp/wealthstyle/article/0676/) |
+| 8 | 2026 年公示地価、全用途平均 +2.8% — 35 年ぶりの高い伸び | 全国 5 年連続上昇で住宅地 +2.1%、商業地 +4.3%。東京圏が牽引し、白馬・野沢温泉・富良野など観光リゾートが住宅地上昇率トップ 10 に。エリアの「優勝劣敗」が明確化。 | [日本経済新聞](https://www.nikkei.com/article/DGXZQOCC098KG0Z00C26A3000000/) / [テレ東 BIZ](https://txbiz.tv-tokyo.co.jp/nms/vod/post_338580) |
+| 9 | 日本国債 10 年物利回りが 27 年ぶり高水準 | 122.3 兆円の過去最大予算と中東情勢起点のインフレ再加速懸念で、10 年物利回りが 27 年ぶりの高水準に上昇。財政持続性を巡る論争が再燃。 | [The Japan Times](https://www.japantimes.co.jp/business/2026/04/07/economy/bonds-27-years/) |
+| 10 | 北朝鮮が東部から弾道ミサイル数発を発射 | 4/19、北朝鮮が東部から弾道ミサイル数発を発射したと報じられ、防衛省が分析中。中東情勢に並ぶ安全保障上の警戒事項として再浮上。 | [時事ドットコム](https://www.jiji.com/jc/c?g=pol) |
+
 ## Deep Dive
 
 - [OpenAI × Cerebras 200 億ドル契約と AI 推論インフラの再編](./openai-cerebras-20b-deal.md)
 - [Maine 州データセンター凍結とグリッド逼迫の政治学](./maine-data-center-moratorium.md)
 - [IMF 2026 年 4 月 WEO ─ 戦争の影と世界経済の再調整](./imf-weo-2026-04-shadow-of-war.md)
+- [日本の国産 AI 三本柱 ─ ラピダス・日本 AI 基盤モデル開発・Microsoft × さくら](./jp-national-ai-strategy-three-pillars.md)
+- [中東情勢 × 日本のエネルギー安全保障 ─ 代替調達と物価・金融政策への波及](./jp-energy-security-middle-east.md)
