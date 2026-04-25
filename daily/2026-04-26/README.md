@@ -1,4 +1,4 @@
-# Daily Digest — 2026-04-26 (Global)
+# Daily Digest — 2026-04-26
 
 ## Tech News
 
@@ -30,7 +30,39 @@
 | 9 | WFP が 10 か国の急性食糧不安を警告 | ガザ・スーダンが特に深刻、2026 年見通しは「暗澹」。 | [News.az](https://news.az/news/april-26-2026-a-day-of-memory-politics-and-global-signals) |
 | 10 | チェルノブイリ原発事故から 40 年（4/26） | ウクライナでの追悼と並行して、原子力安全と地政学リスクが再注目。 | [News.az](https://news.az/news/april-26-2026-a-day-of-memory-politics-and-global-signals) |
 
+## Japan Tech News
+
+| # | トピック | 概要 | ソース |
+|---|---------|------|--------|
+| 1 | LINEヤフーが AI エージェント「Agent i」を提供開始 | 4/20 から月間 1 億ユーザー規模の LINE / Yahoo! JAPAN 双方からワンタップで呼び出せる統一 AI エージェントを始動。お買い物・おでかけ・天気など 7 領域の専門エージェントを展開し、6 月には記憶機能・タスク実行機能を追加、夏には法人向け「Agent i Biz」も予定。 | [LINEヤフー](https://www.lycorp.co.jp/ja/news/release/020366/) / [日経](https://www.nikkei.com/article/DGXZRSP706133_Q6A420C2000000/) |
+| 2 | SoftBank が Brain Technologies と「Natural AI Phone」を 4/24 発売 | アプリグリッドを廃した AI ネイティブ OS「Natural OS」搭載端末を 5,000 店舗で展開。価格 ¥93,600、6.7 インチ OLED + 5G + Android 15 ベース。SoftBank が国内 1 年独占販売権を持つ。 | [SoftBank News](https://www.softbank.jp/en/sbnews/entry/20260420_01) / [GlobeNewswire](https://www.globenewswire.com/news-release/2026/04/17/3276211/0/en/Brain-Technologies-and-SoftBank-Launch-Natural-AI-Phone-in-Japan.html) |
+| 3 | SoftBank が国産 LLM「Sarashina」× Oracle Alloy で主権 AI クラウドを 6 月提供 | SB Intuitions の Sarashina を Oracle Alloy ベースの「Cloud PF Type A」上で稼働。データ主権を確保した生成 AI を企業・自治体向けに展開。東日本 DC は 4 月稼働、西日本は 10 月予定。 | [SoftBank](https://www.softbank.jp/corp/news/press/sbkk/2026/20260416_02/) / [Oracle](https://www.oracle.com/jp/news/announcement/softbank-expands-ai-services-in-japan-with-oracle-alloy-2026-04-16/) |
+| 4 | Microsoft が日本に $10B 投資、AI 人材 100 万人を 2030 までに育成 | 2026–2029 に AI インフラ・サイバーセキュリティ・人材で過去最大規模の対日投資。Sakura Internet・SoftBank が GPU を供給、NTT Data・NEC・Fujitsu・Hitachi と人材教育で連携。 | [Microsoft](https://news.microsoft.com/source/asia/2026/04/03/microsoft-deepens-its-commitment-to-japan-with-10-billion-investment-in-ai-infrastructure-cybersecurity-workforce/) / [The Japan Times](https://www.japantimes.co.jp/business/2026/04/03/companies/microsoft-ai-japan-investment/) |
+| 5 | Rapidus に追加 6,315 億円、累計 1.63 兆円超の国家投資へ | NEDO が FY2026 計画と予算を承認（4/11）、北海道千歳の 2nm パイロットラインを安定化させ 2027 年後半量産を目指す。Japan-US 連携の短 TAT 製造技術と 2nm 用チップレット実装も対象。 | [Rapidus](https://www.rapidus.inc/en/news_topics/information/nedo-approves-rapidus-fy2026-plan-and-budget-for-2nm-semiconductor-projects/) / [Bloomberg](https://www.bloomberg.com/news/articles/2026-04-11/japan-bets-16-billion-to-propel-startup-rapidus-into-ai-chips) |
+| 6 | 「国家情報会議」設置法案が衆院通過（4/23）、今国会で成立公算 | 首相を議長とする情報会議＋事務局「国家情報局」を設置。重要情報活動の調査・審議や外国勢力の影響工作対応の基本方針を決定。スパイ防止法・対外情報庁の創設に向けた第一歩と高市政権が位置付け。 | [日経](https://www.nikkei.com/article/DGXZQOUA221B10S6A420C2000000/) / [NHK](https://news.web.nhk/newsweb/na/na-k10015106361000) |
+| 7 | LY Corp、164 OpenStack クラスタを「Flava」へ統合 | LINE「Verda」（130k VM/11k host/4 cluster）と Yahoo! Japan「YNW」（27k server/160k VM/160+ cluster）をアップストリーム準拠の単一クラウドへ集約。社内パッチを最小化し、必要な変更は upstream に還元する方針。 | [The Register](https://www.theregister.com/2026/04/07/ly_corp_openstack_consolidation) |
+| 8 | スタートアップ大型調達相次ぐ — CRISP 37億円・マイクロニティ 22億円・ミツモア 30億円 | サラダ専門店 CRISP がロッテベンチャーズ等から 37 億円、AI でソフトウェア事業承継を進めるマイクロニティが 22 億円、専門家マッチングのミツモアが 30 億円（4/20–24 週）を調達。AI/DX 系の成長期ラウンドが活発化。 | [PR TIMES](https://prtimes.jp/main/html/rd/p/000000111.000037550.html) / [STARTUP DB](https://lp.startup-db.com/media/articles/20260330-0403) / [日経](https://www.nikkei.com/article/DGXZQOUC23AJ70T20C26A4000000/) |
+| 9 | AI・人工知能 EXPO【春】が東京ビッグサイトで開幕（4/15–17） | NexTech Week 2026 春の中核展。生成 AI Hub・AI エージェント World・AI インフラゾーン等を擁し、「実務を動かす AI エージェント」へのフェーズ移行が前面に。300 社以上が出展。 | [NexTech Week 公式](https://www.nextech-week.jp/hub/ja-jp.html) / [AIsmiley](https://aismiley.co.jp/event_detail/nextech-2026-spring-tokyo0415/) |
+| 10 | Microsoft 4 月パッチで CVE-2026-32201 が 0day 悪用、IPA が緊急注意喚起 | 4/15 公表のセキュリティ更新で悪用が確認済みの脆弱性を含む。IPA は被害拡大の懸念から至急の適用を呼びかけ。並行して産業サイバーセキュリティ研究会も第 10 回を開催（4/3）。 | [IPA](https://www.ipa.go.jp/security/security-alert/2026/0415-ms.html) / [METI](https://www.meti.go.jp/press/2026/04/20260403003/20260403003.html) |
+
+## Japan General News
+
+| # | トピック | 概要 | ソース |
+|---|---------|------|--------|
+| 1 | 岩手・大槌町 山林火災が 1,176ha に拡大、平成以降 2 番目の被害 | 4/22 に小鎚地区・吉里吉里地区でほぼ同時発生。湿度 8.7% まで低下するフェーン現象が背景。避難指示は人口の 1/4 に当たる 2,588 人、住宅 5 棟以上が被害。1,000 人超の規模で消火活動が継続。 | [NHK](https://news.web.nhk/newsweb/na/na-k10015107961000) / [日経](https://www.nikkei.com/article/DGXZQOUD244NF0U6A420C2000000/) / [岩手日報](https://www.iwate-np.co.jp/article/2026/4/23/192453) |
+| 2 | 日経平均が史上初の 6 万円台、4/24 終値 59,716 円 | 4/23 にザラ場で初の 6 万円台に到達、夜間先物では 6 万 140 円を記録。半導体・AI 関連の集中度が一段と上昇。野村は年末見通しを 6 万円に上方修正。 | [Diamond Zai](https://diamond.jp/zai/articles/-/1066448) / [日経](https://www.nikkei.com/markets/worldidx/chart/nk225/) |
+| 3 | 日銀 4/27–28 会合は 0.75% 据え置き濃厚、利上げ判断は 6 月に持ち越し | 中東情勢の影響を見極めるため利上げを見送る公算。展望レポートは物価見通しが焦点。事前に「需給ギャップ」「中立金利」「コア指標」の論文 3 本を公表し利上げ気運を醸成。 | [日経](https://www.nikkei.com/article/DGXZQOUB2116H0R20C26A4000000/) / [三井住友DSAM](https://www.smd-am.co.jp/market/ichikawa/2026/04/irepo260422/) |
+| 4 | ドル円 159 円台後半で高止まり、GW 介入警戒高まる | 4/24 終値 159.38 円。160 円手前で上値を抑えられつつ下値も底堅い。2024 年 GW の介入実績から市場は警戒を強めている。 | [外為どっとコム](https://www.gaitame.com/media/entry/2026/04/25/120000) / [みんかぶFX](https://fx.minkabu.jp/news/365435) |
+| 5 | 高市政権 就任半年、衆院選圧勝後の高支持率を維持 | 2 月の衆院選で女性初の首相として圧勝。物価高対策を柱とする 2025 年度補正予算と 2026 年度予算（過去最大）を成立させた。木原官房長官は「強い経済・強い外交安保」の半年と総括。 | [時事通信](https://www.jiji.com/jc/article?k=2026042000906&g=pol) / [nippon.com](https://www.nippon.com/ja/in-depth/d01221/) |
+| 6 | 高市首相、イランと首脳級会談を調整 — 中東情勢の沈静化目指す | 4/6 に「トップレベル会談を含めあらゆる方法を追求」と発言。茂木外相はクウェート外相との電話会談で連携を確認。日本は原油代替調達を進め、5 月には過半の代替調達に目処。 | [Bloomberg](https://www.bloomberg.com/jp/news/articles/2026-04-06/TD1QQHT9NJLU00) / [J-Defense](https://j-defense.ikaros.jp/docs/mod/005052.html) |
+| 7 | 4 月月例経済報告 — 公共投資を「底堅い」から「堅調」に上方修正 | 「景気は緩やかに回復」の総括判断は据え置き。インフラ支出が景気を下支え。中東情勢の影響注視を強調し、原油高による企業収益圧迫リスクを警戒。 | [moneybits](https://moneybits.jp/2026/04/23/japan-economy-april-outlook-2026/) |
+| 8 | 2025 年度輸出が過去最高 113 兆円、3 月の半導体は前年比 +51.7%（対中） | AI ギガサイクル下で半導体・電子部品輸出が約 +40%、特に対中で +51.7%。3 月総輸出は前年比 +11.7% で 7 か月連続増。一方で自動車は米 15% 関税の影響を受ける。 | [Reuters / Investing](https://www.investing.com/news/economy-news/japans-exports-expand-117-in-march-on-brisk-demand-higher-prices-4627974) / [The Japan Times](https://www.japantimes.co.jp/business/2026/02/18/economy/japan-exports-rise-china/) |
+| 9 | 六本木女性殺害事件、8 年経て容疑者を逮捕 — マレーシアから帰国 | 警視庁は 4/25、2018 年に六本木のマンションで当時 29 歳の女性を殺害したとして当時の交際相手・高橋伸明容疑者（47）を殺人容疑で逮捕。マレーシア当局拘束を経て国際手配の身柄を移送。 | [朝日新聞](https://topics.smt.docomo.ne.jp/article/asahi/nation/ASV4S3FLHV4SUTIL015M) / [NHK](https://news.web.nhk/newsweb) |
+| 10 | 4/26 の天気 — 西日本で雨強まる、北日本は気温上昇 | 本州南岸を通る低気圧の影響で九州〜近畿を中心に雨、局地的に強雨の見込み。関東は午前晴れ間あり、北日本は晴れて気温が上昇。 | [ウェザーニュース](https://weathernews.jp/news/202604/260011/) |
+
 ## Deep Dive
 
 - [DeepSeek V4 — フロンティアモデルの 1/10 価格を実現した MoE と Hybrid Attention](./deepseek-v4-hybrid-attention.md)
 - [Bitwarden CLI を襲った Shai-Hulud 系サプライチェーン攻撃の構造](./bitwarden-cli-shai-hulud-supply-chain.md)
+- [大槌町 山林火災 — 平成以降 2 番目の被害に至った経緯と複合災害の構造](./jp-otsuchi-wildfire.md)
+- [LINEヤフー Agent i — 月間 1 億ユーザー基盤に乗せた統一 AI エージェントの設計](./jp-line-yahoo-agent-i.md)
