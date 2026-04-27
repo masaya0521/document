@@ -38,3 +38,11 @@ TypeScript / Node.js エコシステム。
 | ドキュメント |
 |-------------|
 | [OpenTelemetry と分散トレーシングの全体像](./observability/opentelemetry-distributed-tracing/README.md) |
+
+## Database
+
+リレーショナルデータベース・SQL。
+
+| ドキュメント |
+|-------------|
+| [SQL Server: カバリングインデックスとロック方式の基礎](./database/sql-server-covering-index-and-locking/README.md) |
