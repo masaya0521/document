@@ -1,4 +1,4 @@
-# Daily Digest — 2026-05-09 (Global)
+# Daily Digest — 2026-05-09
 
 ## Tech News
 
@@ -30,8 +30,41 @@
 | 9 | 米国務省、米国内のメキシコ領事館53か所をレビュー | 保守系メディアの「政治介入」「移民促進」批判を受けた措置。米墨関係の追加リスク要因。 | [Just Security](https://www.justsecurity.org/138358/early-edition-may-8-2026/) |
 | 10 | Moody's、Trump 関税が米経済に「相当のダメージ」と分析 | Liberation Day から約1年、関税のコスト押し上げが消費・物価に表れているとチーフエコノミストが指摘。 | [Fortune](https://fortune.com/2026/05/06/liberation-day-trump-tariffs-damage-economy-moody-zandi/) |
 
+## Japan Tech News
+
+| # | トピック | 概要 | ソース |
+|---|---------|------|--------|
+| 1 | トヨタ、2026年3月期売上高50兆6849億円で日本企業初の50兆円超 | 5/8発表。前期比+5.5%、5年連続最高更新。HEV等電動車が初の500万台超。営業利益は3兆7662億円（-21.5%）で米関税が下押しもハイブリッド販売が支え。 | [共同通信/dメニュー](https://topics.smt.docomo.ne.jp/article/kyodo_nor/business/kyodo_nor-2026050801001000) / [Car Watch](https://car.watch.impress.co.jp/docs/news/2107163.html) / [日経](https://www.nikkei.com/article/DGXZRST0517369W6A500C2000000/) |
+| 2 | マネーフォワード、GitHub不正アクセスで個人情報370件流出・銀行口座連携を一時停止 | 5/1発表、5/7更新。GitHub認証情報漏えいでリポジトリがコピー、ビジネスカード保有者の氏名・カード番号下4桁370件とソースコード一部流出の可能性。CVV・口座連携情報は対象外。 | [日経](https://www.nikkei.com/article/DGXZQOUB012UA0R00C26A5000000/) / [Internet Watch](https://internet.watch.impress.co.jp/docs/news/2106602.html) / [マネーフォワード MEサポート](https://support.me.moneyforward.com/hc/ja/articles/57504390625305) |
+| 3 | Sakana AI、シリーズBで約200億円調達——企業価値4000億円・累計520億円 | MUFG、Khosla Ventures、NEA、Lux Capital等が参加。日本市場特化基盤モデル開発と、金融に加え防衛・製造業の社会実装に重点投資。 | [Sakana AI](https://sakana.ai/series-b/) / [Ledge.ai](https://ledge.ai/articles/sakana_ai_series_b_200oku_fundraising) / [aismiley](https://aismiley.co.jp/ai_news/sakana-ai-series-b/) |
+| 4 | ラピダス 2nm世代パイロットライン稼働、政府追加支援6315億円決定 | 北海道千歳拠点で試作ウェーハ動作確認。2027年量産目標。累計政府支援は2.9兆円規模、2026-31年度で民間1兆円・総投資7兆円超を狙う。 | [日経ビジネス](https://business.nikkei.com/atcl/gen/19/00814/111800002/) / [METI 次世代半導体小委資料](https://www.meti.go.jp/shingikai/sankoshin/shomu_ryutsu/next_generation_semiconductor/pdf/008_03_00.pdf) |
+| 5 | ソフトバンク主導の国産AI新会社「日本AI基盤モデル開発」設立、NEC・ホンダ・ソニーが出資 | 1兆パラメータ級フィジカルAI基盤モデル構築を目指す。SBKK・NEC・ホンダ・ソニー4社がそれぞれ十数%出資、約100人のAI技術者を集約。30年度までにロボット連携。 | [日経](https://www.nikkei.com/article/DGXZQOUC1207B0S6A410C2000000/) / [SBBit](https://www.sbbit.jp/article/cont1/184305) |
+| 6 | NEC×IFS、経済安全保障対応の日本市場向けクラウドと産業AIで提携 | 製造業向けに国内データ主権を担保したクラウドと産業用AIを提供、基幹産業のDX加速を狙う。2026年度中に資本集約型産業へサービス拡大。 | [NEC press](https://jpn.nec.com/press/202601/20260116_01.html) |
+| 7 | メルカリ等フリマ4社、ハッピーセット「ちいかわ」玩具を出品禁止 | メルカリは5/8、5/15・29発売分の玩具を6/14目安で出品禁止と発表。Yahoo!オク・Yahoo!フリマ・楽天ラクマも一斉禁止。Switch2転売後の対策強化。 | [メルカリ](https://about.mercari.com/press/news/articles/20260508_principles/) / [ITmedia](https://www.itmedia.co.jp/news/articles/2605/08/news072.html) / [coki](https://coki.jp/article/column/77209/) |
+| 8 | 東北大学、Few-shot学習×知識蒸留で省電力AIを実現 | 少量データで動く省電力AI技術を発表。精度向上と消費電力削減を両立、エッジAIや組込み機器への応用が見込まれる。 | [東北大プレス](https://www.tohoku.ac.jp/japanese/2026/05/press20260507-01web-fewshot.html) |
+| 9 | 理化学研究所、コイル不要の発振電子回路を実現 | 5/8発表。インダクタを使わない新方式で発振動作を実証、回路の小型化・集積化に新たな道。半導体・通信機器設計に影響の可能性。 | [理研プレス](https://www.riken.jp/press/2026/20260508_2/index.html) |
+| 10 | IPA、Palo Alto Networks PAN-OS（CVE-2026-0300）の悪用を確認・注意喚起 | 5/7アラート。在野での悪用が観測されておりパッチ適用を強く推奨。同時期にIvanti EPMM・Linuxカーネル（CVE-2026-31431）の脆弱性も注意喚起中。 | [IPA セキュリティアラート](https://www.ipa.go.jp/security/security-alert/2026/index.html) / [Security NEXT](https://www.security-next.com/) |
+
+## Japan General News
+
+| # | トピック | 概要 | ソース |
+|---|---------|------|--------|
+| 1 | 関西電力 美浜原発3号機、高圧タービン蒸気漏れで原子炉手動停止 | 5/8午前4:10ごろ発見、約15分後に停止。放射性物質漏れなし。1976年運転開始で12月に50年、高圧タービン全交換歴なし。再開めど立たず。 | [NHK](https://news.web.nhk/newsweb/na/na-k10015116501000) / [日経](https://www.nikkei.com/article/DGXZQOUF081A00Y6A500C2000000/) / [時事](https://www.jiji.com/jc/article?k=2026050800344&g=eco) |
+| 2 | 磐越道バス事故 21人死傷、68歳運転手を過失運転致死傷で逮捕 | 新潟・北越高校ソフトテニス部の遠征中、5/6に男子高校生1人が車外投げ出され死亡、20人重軽傷。運転手は二種免許なし。学校は「無断でレンタカーバス使用」と発表、バス会社と食い違い。 | [NHK](https://news.web.nhk/newsweb/na/na-k10015116041000) / [NHK 続報](https://news.web.nhk/newsweb/na/na-k10015117091000) / [産経/Yahoo](https://news.yahoo.co.jp/articles/bcf9a147d3df808e1fd2aa94540753815ad6d380) |
+| 3 | 国家情報会議創設法案、参院で審議入り | 5/8、参院で審議開始。4/23衆院通過。政府のインテリジェンス（情報収集・分析）司令塔機能強化が狙い。高市首相は「スパイ防止法」も意欲。与野党党首討論は月内開催合意。 | [KSI政策ニュース](https://www.policynews.jp/schedule/2026/005.html) / [NHK 政治](https://news.web.nhk/newsweb/genre/politics) |
+| 4 | 日経平均、5/7に終値62,833円で史上最高値→5/8は3日ぶり反落 | 5/7は前日比+3,320円(+5.58%)、米イラン戦闘終結期待と半導体高で過去最大の上げ幅。8日は利益確定売りが優勢。週末の中東停戦の不透明感が重荷。 | [日経](https://www.nikkei.com/article/DGXZQOFL071CYTX00C26A5000000/) / [NHK](https://news.web.nhk/newsweb/na/na-k10015116541000) / [Yahooファイナンス 株探週末コメ](https://finance.yahoo.co.jp/news/detail/04c9599725a0fc3f2566fc0b2af3848affd1a0d7) |
+| 5 | 訪日外国人 1〜3月累計1068万人、2年連続で1000万人超 | 3月単月は361万人(+3.5% YoY)で3月として過去最高。桜需要で欧米・東南アジアが伸長、中東は3割減。GW期間の旅行者数は2,447万人(+1.9%)を見込む。 | [やまとごころ](https://yamatogokoro.jp/inbound_data/59989/) / [JTB](https://www.jtbcorp.jp/jp/newsroom/2026/04/02_jtb_2026gw-travel-trend-outlook.html) |
+| 6 | 5月の食品値上げ61品目、4月から急減（前年比約87%減） | 帝国データバンク調査。25年5月の478品目から大幅減。原材料高要因が99.6%、2023年以降最高水準。中東情勢・ホルムズ海峡リスクが今後の値上げ動向に影。 | [LNEWS](https://www.lnews.jp/2026/05/s0507707.html) / [TDB](https://www.tdb.co.jp/report/economic/20260227-neage26y02/) |
+| 7 | 連合 2026春闘要求「+5%以上」、実質賃金1%上昇軌道に乗せることが最優先 | 連合は前年同水準の賃上げ要求を維持。物価上昇要因（食料・エネルギー）一服で実質賃金プラス転換の好機。日銀の追加利上げタイミングにも影響。 | [連合 RENGO ONLINE](https://www.jtuc-rengo.or.jp/rengo_online/2025/11/20/8143/) / [みずほRT](https://www.mizuho-rt.co.jp/business/research/report/2025-0166/index.html) |
+| 8 | 高市首相、ベトナム・オーストラリア歴訪を完了（5/1〜5/5） | フン首相・アルバニージー首相と首脳会談。インド太平洋連携・サプライチェーン・防衛協力等を協議。8日に経産相がサウジのアブドルアジーズ・エネルギー相とオンライン会談、二国間タスクフォース立ち上げ合意。 | [METI](https://www.meti.go.jp/press/2026/05/20260508001/20260508001.html) / [外務省カレンダー](https://www.mofa.go.jp/mofaj/gaiko/calendar/index.html) |
+| 9 | 5/8に関東〜東北で複数地震、いずれも津波の心配なし | 12:36 静岡県中部 M4.2 震度3、8:31 福島県沖 M4.6 震度3、3:50 茨城県南部 M4.2 震度3、10:01 トカラ列島近海でも有感地震。 | [気象庁](https://www.data.jma.go.jp/multi/quake/index.html?lang=jp) / [tenki.jp](https://earthquake.tenki.jp/bousai/earthquake/) |
+| 10 | 防衛費 2026年度予算9兆353億円、初の9兆円超でGDP比2%前倒し達成 | 高市政権が25年度補正で前倒し、26年度本予算で恒常化。野村証券は次期目標GDP比3%もありうると分析。財源は国債発行と増税の組み合わせで、解散時の争点に。 | [JBpress](https://jbpress.ismedia.jp/articles/-/92780) / [野村ウェルスタイル](https://www.nomura.co.jp/wealthstyle/article/0530/) |
+
 ## Deep Dive
 
 - [Anthropic × xAI/SpaceX Colossus コンピュート提携](./anthropic-xai-spacex-compute-deal.md)
 - [Cloudflare の "agentic AI-first" 大規模レイオフ](./cloudflare-agentic-ai-first-layoffs.md)
 - [DeepSeek V4 Preview とオープンソース・フロンティア競争](./deepseek-v4-open-source-frontier.md)
+- [マネーフォワード GitHub 不正アクセスとサプライチェーン教訓](./jp-moneyforward-github-breach.md)
+- [トヨタ売上50兆円超えと米関税下の自動車事業の構造](./jp-toyota-50-trillion-revenue.md)
+- [国産AI基盤モデル開発JVと日本のフィジカルAI戦略](./jp-japan-ai-foundation-jv.md)
