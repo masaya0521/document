@@ -30,8 +30,40 @@
 | 9 | EU が水素プロジェクトに €1B を支給 | 欧州委員会が 5/7 に欧州域内の水素プロジェクトへ 10 億ユーロ超の助成を決定。post-2030 気候政策の「Fit for 90」パッケージへの布石。 | [European Commission](https://energy.ec.europa.eu/index_en?group=display&type=monitor) |
 | 10 | Eurovision 2026 — Israel のノアム・ベタンが決勝へ | ウィーンで開催中の Eurovision 第 1 セミファイナルで、イスラエル代表ノアム・ベタンがグランドファイナル進出。戦時下での文化外交の象徴的場面。 | [The Times of Israel](https://www.timesofisrael.com/liveblog-may-12-2026/) |
 
+## Japan Tech News
+
+| # | トピック | 概要 | ソース |
+|---|---------|------|--------|
+| 1 | METI が AI・半導体に 1.23 兆円、前年比ほぼ 4 倍 | 経済産業省が 2026 年度予算で AI と先端半導体向け支援を ¥1.23 兆円（約 79 億ドル）に増額。うち Rapidus に 1,500 億円（累計 2,500 億円）、AI 基盤モデル・データセンター・ロボット向け「フィジカル AI」に 3,873 億円を充てる。 | [MEXC News](https://www.mexc.co/news/351886) |
+| 2 | Rapidus が PDK 提供開始、2027 年後半に 2nm 量産へ | Rapidus は 2026 年 3 月に 2nm 用 PDK を顧客提供開始。北海道千歳の IIM-1 でパイロット稼働を続け、2027 年後半に量産、2028 年フル量産、2031 年度上場を目標。NEDO は 2026 年度計画を承認。 | [innovaTopia](https://innovatopia.jp/semiconductor/semiconductornews/95640/) |
+| 3 | SoftBank G が +18%、半導体株が記録的急騰 | 日経平均は Advantest +7%、東京エレクトロン +9%、ルネサス +13%、SoftBank Group は +18% と AI 半導体株が一斉急騰し過去最高値を更新。ナスダックの最高値更新が連鎖。 | [CNBC](https://www.cnbc.com/2026/05/07/japan-softbank-tech-shares-nikkei-to-record-high.html) |
+| 4 | Sakana AI が防衛装備庁から委託研究受注 | Sakana AI が ATLA（防衛装備庁）から委託研究を受注。画像・音声・テキストを統合するマルチモーダル AI で部隊の情報分析と意思決定を高度化する研究で、防衛分野への国産生成 AI 適用が本格化。 | [AI/DX Media](https://media.image-pit.com/articles/japan/2026-03-14-sakana-ai-defense-agency-military-ai-research) |
+| 5 | NTT が Bio-Digital Twin 向け新技術を発表 | NTT が 5/12、組織の形成過程で細胞間相互作用を機械学習で逆推定する逆代理モデルを公表。iPS 細胞由来オルガノイドの構造制御や臓器形成解明の高速化を狙う、Bio-Digital Twin 構想の基盤技術。 | [NTT](https://group.ntt/jp/newsrelease/2026/05/12/260512b.html) |
+| 6 | NTT データが「コンサルティング× AI」体制へ転換 | NTT データグループが 5/8、AI 変革推進を中核に据えた組織体制へ移行すると発表。コンサルティングを前段に置き、データ・AI 実装まで一気通貫で支援する SI モデルへ移行。 | [NTT DATA](https://www.nttdata.com/global/ja/news/release/2026/050807/) |
+| 7 | Preferred Networks × GMO で「GMO Preferred Security」設立 | PFN と GMO Internet / GMO Cybersecurity by Ierae が国産 AI セキュリティ JV を共同設立。国産 AI 半導体の脆弱性から電子認証・ソフトウェアセキュリティまで一括対応する企業向けサービスを展開。 | [IBTimes](https://www.ibtimes.com.au/10-rising-ai-startups-japan-2026-sakana-ai-leads-surge-generative-models-robotics-boom-1865637) |
+| 8 | ソフトバンク G 26/3 期 Q3 純利益 3.17 兆円 | ソフトバンクグループの 2026 年 3 月期第 3 四半期決算は OpenAI 出資の評価益で大幅増益、売上 5 兆 7,192 億円、親会社所有者帰属純利益 3 兆 1,727 億円。AI インフラ投資を一段と加速する方針。 | [ココザス](https://cocozas.jp/coco-the-style/sofutobanku-kabukakyuto/) |
+| 9 | 国内スタートアップ調達が過去最高、上位偏在 | 2026 年 1–3 月期のスタートアップ調達総額は過去最高で AI 案件に集中。Sakana AI はシリーズ B で約 200 億円（既存 MUFG 銀＋ Khosla 等）、CRISP 37 億円、Spectee 16 億円など実装フェーズに資金が流入。 | [日本経済新聞](https://www.nikkei.com/article/DGXZQOUC211X60R20C26A4000000/) |
+| 10 | 日本版ライドシェア求人が前月比 42.4% 減 | 主要転職 4 サイトでのライドシェア関連求人案件数が 2026 年 4 月末に前月比 -42.4%、前年比 -17.4% の 57 件に減少。タクシー会社主導モデルの制約で市場拡大が見込みにくく、地方では運賃と需要のミスマッチが鮮明。 | [自動運転ラボ](https://jidounten-lab.com/u_61969) |
+
+## Japan General News
+
+| # | トピック | 概要 | ソース |
+|---|---------|------|--------|
+| 1 | OECD 対日経済審査 2026 が 5/13 公表 | OECD は 5/13 に最新の対日経済審査報告を発表。回復軌道に乗った日本経済を評価しつつ、強靱で包摂的かつ持続可能な成長への政策提言を行う。Vanguard は 2026 年 GDP 成長率を -0.2pp の +0.8% に下方修正。 | [OECD](https://www.oecd.org/en/about/news/media-advisories/2026/04/oecd-economic-survey-of-japan-launches-on-wednesday-13-may-2026.html) |
+| 2 | トヨタ 26/3 期 営業利益 -21.5% も電動車 500 万台超 | トヨタの 2026 年 3 月期通期決算は売上高 50 兆 6,849 億円（+5.5%）、営業利益 3 兆 7,662 億円（-21.5%）、当期利益 3 兆 8,480 億円（-19.2%）。HEV / BEV 等の電動車販売が初の 500 万台超え。 | [Car Watch](https://car.watch.impress.co.jp/docs/news/2107163.html) |
+| 3 | ホンダ 26/3 期に最大 6,900 億円の最終赤字 | ホンダが 2026 年 3 月期の連結最終損失が最大 6,900 億円となる見通し。EV 普及鈍化で減損を計上し、上場来初の通期最終赤字。三部社長は「40 年 EV / FCV 100%」目標は現実的に達成困難と発言。 | [日本経済新聞](https://www.nikkei.com/article/DGXZQOUB126KH0S6A310C2000000/) |
+| 4 | 中小 M&A 仲介に国家資格を 26 年度創設 | 政府は中小企業の M&A 仲介者を対象とした国家資格制度を 2026 年度に創設する方針を 5/13 に公表。M&A 実務・財務税務・バリュエーション・法務・倫理を問う CBT 試験を年 3 回、約 1 万人規模で実施想定。 | [NHK](https://news.web.nhk/newsweb/na/na-k10015119891000) |
+| 5 | 高市政権 21.3 兆円総合経済対策、骨太 2026 へ | 第 2 次高市内閣は 21.3 兆円規模の総合経済対策（一般会計 17.7 兆円）を 2025/11 に決定済み、5 月時点で骨太方針 2026 の取りまとめへ。「責任ある積極財政」を掲げ、PB 単年度管理から債務残高 / GDP 比安定低下へ目標を転換。 | [大和総研](https://www.dir.co.jp/report/column/20251226_012363.html) |
+| 6 | 日経平均 5/12 終値 53,603.65 円（+324 円） | 5/12 の日経平均は 3 日ぶり反発し 324 円高の 53,603.65 円。半導体・AI 関連の堅調と、米長期金利上昇に伴うバリュー株物色が支援。前週末は 62,713 円水準で取引されていた局面からの調整も継続中。 | [日本経済新聞](https://www.nikkei.com/markets/worldidx/chart/nk225/) |
+| 7 | ドル円 157 円台半ば、3 日続落で円安進行 | 外国為替市場で円相場は 3 日続落し 157 円台半ば。原油高と米長期金利上昇が円の重荷で、輸入物価経由の追加的なインフレ圧力が意識される。 | [日本経済新聞](https://www.nikkei.com/markets/currencies/) |
+| 8 | イラン情勢で原油高、26 年実質 GDP -0.5% 下押し | イラン戦争に伴うホルムズ海峡リスクで WTI は $98 / Brent $104 台に接近。日本は中東依存度が高く、第 1 次オイルショックを上回る供給不足懸念。NRI 試算で 26 年実質 GDP は約 0.5% 下押し、CPI も追加で 0.6 〜 0.8pp 上昇。 | [野村総合研究所](https://www.nri.com/jp/media/journal/kiuchi/20260313.html) |
+| 9 | 5/13 全国天気、大気不安定でゲリラ雷雨警戒 | 5/13 は本州上空を寒気を伴った気圧の谷が通過し、内陸部で雨雲が発達しやすい。関東北部など北側に山がある地域では急な強い雨・雷雨・雹・突風に注意が呼びかけられている。 | [ウェザーニュース](https://weathernews.jp/news/202605/130011/) |
+| 10 | 5/15 にホンダの戦略説明会、業界に波紋 | ホンダは EV 戦略の見直しに合わせて事業構造改革説明会を予定。トヨタ・日産・マツダなど他社の通期決算が出揃った後でもあり、トランプ関税下での日本車戦略の「次の一手」として業界注視。 | [文藝春秋](https://bunshun.jp/bungeishunju/articles/h11050) |
+
 ## Deep Dive
 
 - [SpaceX Terafab — $119B 半導体製造構想と AI 自前 GPU](./spacex-terafab-119b.md)
 - [AI を悪用した「mass exploitation event」と Google の阻止](./google-ai-mass-exploitation.md)
 - [Anthropic ARR が OpenAI を逆転 — 30B vs 24B](./anthropic-overtakes-openai-arr.md)
+- [METI が AI・半導体に 1.23 兆円 — 日本の産業政策の転換点](./jp-meti-ai-semiconductor-budget.md)
+- [中小 M&A 仲介に国家資格 — 事業承継問題と業界健全化](./jp-ma-advisor-qualification.md)
