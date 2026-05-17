@@ -30,7 +30,39 @@
 | 9 | 米 4 月 CPI が前年比 +3.8%、2023 年 5 月以来の高水準 | Fed の利上げ確率が市場で上昇（残り 2026 年で約 10bp の利上げを織り込み）。10 年債利回り急騰で S&P 500 は -1.24%。 | [Crestwood Advisors](https://www.crestwoodadvisors.com/may-2026-economic-and-market-update/) |
 | 10 | 米 4 月雇用統計、115,000 人増・失業率 4.3% | 予想（55,000 人）を大きく上回るも、労働参加率は 2021 年 9 月以来の低水準に低下。雇用の質を巡る議論が継続。 | [TheStreet](https://www.thestreet.com/latest-news/stock-market-today-may-15-2026-updates) |
 
+## Japan Tech News
+
+| # | トピック | 概要 | ソース |
+|---|---------|------|--------|
+| 1 | ソフトバンク・NEC・ホンダ・ソニーが「日本AI基盤モデル開発」を設立 | 中核 4 社に加え三井住友・三菱 UFJ・みずほの 3 メガバンクと日本製鉄・神戸製鋼が出資。約 100 人の AI 技術者を集約し 1 兆パラメーター級のフィジカル AI 基盤モデルを目指す。政府は 2026 年度からの 5 年で約 1 兆円規模の支援枠を設定。 | [日本経済新聞](https://www.nikkei.com/article/DGXZQOUC1207B0S6A410C2000000/) |
+| 2 | NTT、AI ネイティブ基盤「AIOWN」発表 | 現状約 300MW の IT 電力容量を 2033 年度に約 1GW へ 3 倍超拡大する計画。生成 AI 推論需要を見越したインフラ投資としては国内最大級。 | [ケータイ Watch](https://k-tai.watch.impress.co.jp/docs/news/2104930.html) |
+| 3 | デジタル庁、ガバメント AI「源内」を開発 | 行政職員が業務で生成 AI を安全に活用するための内製アプリ連携基盤。経産省・総務省 AI ガイドラインを前提に「導入」から「安全運用」フェーズへ移行。 | [DESIGN STUDIO garden](https://note.com/dsg_id/n/n17e11f5c7093) |
+| 4 | 第 4 回日 EU デジタルパートナーシップ閣僚級会合の結果公表 | 5/7 開催分の結果をデジタル庁が公表。JP PINT のグローバル取組・民間事業者取組も更新。 | [デジタル庁](https://www.digital.go.jp/news) |
+| 5 | NTT データ経営研究所、金融機関向け AI 導入コンサル全 18 サービス開始 | メガバンク・地銀・証券会社を対象に 2026/5/7 から提供開始。生成 AI ガバナンスから業務適用までを包括。 | [NTTデータ経営研究所](https://www.nttdata-strategy.com/newsrelease/260507/) |
+| 6 | 読売新聞・帝国データバンク共同調査、国内企業の 3 割が生成 AI を業務利用 | 文章作成・情報収集が中心。導入企業は業務効率化とコスト削減を実感。「導入する/しない」から「どう運用するか」へフェーズシフト。 | [DESIGN STUDIO garden](https://note.com/dsg_id/n/n17e11f5c7093) |
+| 7 | 動画生成 AI「Runway」が東京進出、日本アニメの知財活用を支援 | 国内アニメ IP を学習・生成パイプラインへ取り込む狙い。日本のクリエイティブ業界における AI 活用と権利処理の議論を加速。 | [DESIGN STUDIO garden](https://note.com/dsg_id/n/n17e11f5c7093) |
+| 8 | 建設テック Kizuki、日本初の 3D プリント 2 階建て住宅「Stealth House」を公開 | 50㎡を 14 日で印刷。20 社超と連携し耐震基準もクリア。建設業の人手不足対策として注目。 | [CNN Business](https://www.cnn.com/2026/05/07/business/japans-3d-printing-construction-sector-crisis-hnk-spc) |
+| 9 | メルカリ、26 年 6 月期 3Q 累計で最終利益 194 億円 (+65.6%) | 1-3 月期は最終利益 88.4 億円で前年比 2 倍。米国事業と国内マーケットプレイスの双方が寄与。 | [Yahoo!ファイナンス](https://finance.yahoo.co.jp/news/detail/f5415e108f5f2f0e94811ddf02f81927c15bbb46) |
+| 10 | LINE ヤフー、業種特化型「LINE Restaurant Plus」「LINE Beauty Plus」を 6 月開始 | 飲食・美容業界向けに予約・顧客管理・販促を一気通貫で提供するパッケージサービス。 | [LY Corporation](https://www.lycorp.co.jp/ja/news/release/2026/) |
+
+## Japan General News
+
+| # | トピック | 概要 | ソース |
+|---|---------|------|--------|
+| 1 | G7 財務相・中銀総裁会議、仏パリで 5/18 開幕 | 片山さつき財務相と植田日銀総裁が出席。AI を悪用した金融サイバー攻撃対策・中東危機を踏まえた原油安定・重要鉱物供給網（脱中国）が主要議題。 | [日本経済新聞](https://www.nikkei.com/article/DGXZQOUA149QQ0U6A510C2000000/) |
+| 2 | 党首討論を 5/20 開催と正式決定、最多 6 野党党首が高市首相と論戦 | 国民・玉木代表 12 分、中道改革連合・小川代表 10 分、立憲・水岡代表 9 分など。衆院選後初の党首討論で「政権能力」が焦点。 | [日本経済新聞](https://www.nikkei.com/article/DGXZQOUA156M60V10C26A5000000/) |
+| 3 | 政府・日銀の為替介入、4/30 以降合計 8.65 兆〜10.08 兆円規模と推計 | 政府は 1 ドル 160 円を防衛ラインに設定。GW 連休中の 5/4・5/6 にも円買い介入の動き。 | [Bloomberg](https://www.bloomberg.com/jp/news/articles/2026-05-08/TEOZJZT9NJLS00) |
+| 4 | 日銀、4 月会合で政策金利を据え置き 物価上振れ懸念は強まる | 「主な意見」では原油高騰に伴う早期利上げを求める声が目立つ。次回会合は 6/15・16。 | [日本経済新聞](https://www.nikkei.com/article/DGXZQOUB121XI0S6A510C2000000/) |
+| 5 | ヘリカルフュージョン、核融合発電開発で約 27 億円を調達 | 鴻池運輸・三谷産業などを引受先とする第三者割当増資。日本発の核融合スタートアップとして注目。 | [日本経済新聞](https://www.nikkei.com/article/DGXZQOUC309630Q6A430C2000000/) |
+| 6 | Qubitcore（量子コンピューター）、SBI インベストメント等から 15.3 億円調達 | 横浜拠点の量子計算スタートアップ。国産量子ハードウェア開発を加速。 | [日本経済新聞](https://www.nikkei.com/article/DGXZQOUC309630Q6A430C2000000/) |
+| 7 | ヘンリー（クラウド型電子カルテ）、30 億円を調達 | Angel Bridge・グロービス等が引受。中小病院 DX 市場での競争激化。 | [日本経済新聞](https://www.nikkei.com/article/DGXZQOUC14BB40U6A510C2000000/) |
+| 8 | 広島・福山の山林火災、5/18 朝時点で鎮火見通し立たず | 消火活動継続中。乾燥した気象条件と地形が消火を難しくしている。 | [時事ドットコム](https://www.jiji.com/jc/archives?g=soc_archive_0) |
+| 9 | Microsoft 5 月月例で 118 件の脆弱性に対応、IPA も注意喚起 | 権限昇格 57 件・RCE 29 件を含む。Exchange Server には悪用観測の脆弱性も。 | [Security NEXT](https://www.security-next.com/184334) |
+| 10 | 国内情報漏えいが相次ぐ 5 月上旬 | 新潟市の個人情報漏えい、東北大学のサーバー不正アクセス、2 りんかん・メットライフ生命の漏えい等が連続発覚。 | [Security NEXT](https://www.security-next.com/) |
+
 ## Deep Dive
 
 - [NGINX rewrite モジュールの 18 年潜伏脆弱性 (CVE-2026-42945)](./nginx-rewrite-rce-cve-2026-42945.md)
 - [Google + SpaceX 軌道データセンター構想 (Project Suncatcher)](./google-spacex-orbital-data-centers.md)
+- [日本連合「日本AI基盤モデル開発」──米中対抗の国産フィジカル AI 構想](./jp-japan-ai-foundation-model.md)
+- [円安と利上げ見送りの綱引き──2026 年 GW の 10 兆円規模為替介入](./jp-fx-intervention-and-boj-policy.md)
