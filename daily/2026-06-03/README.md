@@ -30,8 +30,40 @@
 | 9 | 米軍の麻薬密輸船攻撃、死者200人超 | 9月以降続く麻薬流入阻止を狙った攻撃で死者が累計200人超。合法性・実効性への批判も。 | [WPR](https://www.worldpoliticsreview.com/) |
 | 10 | トランプ氏、Bill Pulte 氏を DNI 代行に指名 | FHFA 長官の Bill Pulte 氏を国家情報長官代行に指名し、Tulsi Gabbard 氏を交代。 | [Fox News](https://www.foxnews.com/politics/trump-names-bill-pulte-acting-director-national-intelligence) |
 
+## Japan Tech News
+
+| # | トピック | 概要 | ソース |
+|---|---------|------|--------|
+| 1 | 経産省、AI・半導体予算を約4倍の1兆2390億円に | 令和8年度に最先端半導体・AI 向け予算を前年比約4倍へ拡充。ラピダスへの1500億円追加出資（政府出資累計2500億円）、国産 AI モデル・インフラに3873億円を計上。 | [MEXC News](https://www.mexc.co/news/351886) |
+| 2 | ラピダス、2nm 試作で GAA トランジスタ動作確認 | 北海道・千歳の試作ラインで GAA（Gate All Around）トランジスタを試作し動作を確認。製造ラインはほぼ完成し、2027年の量産開始計画は維持。 | [東京エレクトロン TELESCOPE](https://www.tel.co.jp/museum/magazine/report/202604_02/) |
+| 3 | スタートアップ1〜3月期、資金調達が過去最高 | 2026年1〜3月期の調達総額は過去最高。一方で件数は減少し、AI 企業の大型ラウンドへ資金が集中する二極化が鮮明に。 | [日本経済新聞](https://www.nikkei.com/article/DGXZQOUC211X60R20C26A4000000/) |
+| 4 | 核融合スタートアップ EX-Fusion が26億円調達 | 大阪大学ベンチャーキャピタル等を引受先とする第三者割当増資と金融機関借入で26億円を調達。ディープテック投資の活発化を象徴。 | [日本経済新聞](https://www.nikkei.com/article/DGXZQOUC211X60R20C26A4000000/) |
+| 5 | 外食テック CRISP が37億円調達 | テクノロジーで外食産業を変革する CRISP が37億円の大型ラウンドを実施。AI・DX 関連の資金流入が続く。 | [日本経済新聞](https://www.nikkei.com/article/DGXZQOUC211X60R20C26A4000000/) |
+| 6 | EC 事業の forest が約19億円調達 | 他社ブランドの販売権を買い取り EC 事業を展開する forest が、東京大学エッジキャピタルパートナーズ等を引受先に約19億円を調達。 | [日本経済新聞](https://www.nikkei.com/article/DGXZQOUC211X60R20C26A4000000/) |
+| 7 | Interop Tokyo 2026、6/10〜12に幕張で開催 | 今年のテーマは「AI とインターネットの次章」。国内最大級のネットワーク・インフラ展示会で AI 関連展示が中核に。 | [AI Watch](https://ai.watch.impress.co.jp/) |
+| 8 | IPA「情報セキュリティ10大脅威2026」、国内被害は過去最多 | 2025年の国内インシデントは集計以来過去最多を更新。不正アクセス・ランサムウェア・サプライチェーン起点の波及型被害が拡大。 | [IPA](https://www.ipa.go.jp/security/10threats/10threats2026.html) |
+| 9 | デジタル庁、Android 版マイナンバーカードを2026年秋に | Android 端末への基本4情報搭載を2026年秋に実現予定。夏にはデジタル認証アプリとマイナポータルアプリの統合を目指す。 | [ITmedia NEWS](https://www.itmedia.co.jp/news/articles/2509/05/news116.html) |
+| 10 | ガバメントクラウド、全自治体の移行が完了 | 他社システムから切り替えた団体も含め全団体の移行が完了し、標準仕様対応版システムへの全面切替が実現。 | [デジタル行政](https://www.digital-gyosei.com/post/2026-02-16-news-tkc-government-cloud/) |
+
+## Japan General News
+
+| # | トピック | 概要 | ソース |
+|---|---------|------|--------|
+| 1 | 台風6号（チャミー）が和歌山に上陸 | 6月3日午前4時半ごろ和歌山県南部に上陸し東北東へ進行。近畿・東海・関東甲信で線状降水帯発生の恐れがあり大雨に警戒。 | [共同通信（沖縄タイムス）](https://www.okinawatimes.co.jp/articles/-/1850914) |
+| 2 | 中東情勢対応の補正予算3兆1135億円を閣議決定 | 電気・ガス料金支援や「中東情勢等対応予備費」創設を柱とする約3.1兆円の補正予算を閣議決定。標準家庭で3か月約5,000円の負担軽減を見込む。 | [首相官邸](https://www.kantei.go.jp/jp/105/statement/2026/0525kaiken.html) |
+| 3 | 高市首相、イラン大統領・オランダ首相と電話会談 | 6月1〜2日に中東情勢を巡りイラン大統領・オランダ首相と電話会談、世界銀行総裁の表敬も受け外交活動を活発化。 | [首相官邸](https://www.kantei.go.jp/jp/105/) |
+| 4 | 日経平均、5月高値から3000円超下落し一時6万円割れ | 5月13日の最高値から3000円超下落し一時6万円を割り込む。AI・半導体関連株の調整が主因。 | [外為どっとコム](https://www.gaitame.com/media/entry/2026/05/20/141905) |
+| 5 | 円安進行、2026年に162〜163円/ドルの見通し | 国際通貨研究所などは2026年中にドル円が162〜163円まで円安が進む可能性を指摘。日銀は段階的利上げを継続する見込み。 | [オリコン](https://life.oricon.co.jp/rank-foreign-currency-deposits/special/weak-yen/how-long-yen-low/) |
+| 6 | 大谷翔平、17試合連続出塁 ドジャース NL 西地区首位 | 6月2日（日本時間）に4打数3安打で連続出塁を17試合に。ドジャースは38勝22敗で2位パドレスに5ゲーム差をつけ首位。 | [SPREAD](https://spread-sports.jp/archives/383254) |
+| 7 | 国交省、第3次無電柱化推進計画を決定 | 今後5年間で1,000km の無電柱化整備完了を目指す第3次計画を決定。防災・景観の両面で都市インフラ更新を加速。 | [政府広報オンライン](https://www.gov-online.go.jp/info/) |
+| 8 | 経産省、韓国・中国・台湾産の熱延鋼帯にダンピング調査 | 韓国・中国・台湾産の熱延鋼帯および鋼板に対する不当廉売関税の課税を巡る調査を開始。鉄鋼業界の通商環境に影響。 | [総務省/政府広報](https://www.gov-online.go.jp/info/) |
+| 9 | 高市内閣、発足半年で支持率6〜7割を維持 | 2月発足の高市内閣は支持率6〜7割の高水準を維持。20〜40代の若年層の支持が厚いのが特徴。 | [日本経済新聞](https://www.nikkei.com/article/DGXZQOUA219BB0R20C26A4000000/) |
+| 10 | 政府、GDP 成長率見通しを上方修正 | 今年度の実質成長率を従来0.7%から1.1%へ、2026年度を1.3%へ上方修正。AI・半導体投資が成長を下支え。 | [ainvest](https://www.ainvest.com/news/japan-strategic-bet-ai-semiconductors-high-conviction-opportunity-2026-2512/) |
+
 ## Deep Dive
 
 - [Microsoft「Project Polaris」— GitHub Copilot から OpenAI を切り離す自社製コーディングモデル](./microsoft-project-polaris.md)
 - [Red Hat npm 供給網攻撃「Miasma」— 認証情報窃取ワームの新亜種](./redhat-npm-miasma-supply-chain.md)
 - [2026年の AI インフラ設備投資ブーム — 6,600億ドル超の建設競争](./ai-infrastructure-capex-2026.md)
+- [経産省のAI・半導体予算4倍増 — 1.2兆円とラピダス2nm量産への国家戦略](./jp-meti-ai-semiconductor-budget.md)
+- [二極化する日本のスタートアップ資金調達 — 過去最高総額の裏で進む「選別」](./jp-startup-funding-2026q1.md)
