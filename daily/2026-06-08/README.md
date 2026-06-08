@@ -30,8 +30,41 @@
 | 9 | インドが90億ドルの巨大港湾計画 | 遠隔の離島に港・空港・都市を建設する計画。原生林や先住民の生活への影響を懸念する声が上がる。 | [US News](https://www.usnews.com/news/world) |
 | 10 | 米 PEPFAR 資金削減で人命に影響 | 南アフリカ・モザンビークの医療現場が、トランプ政権下での PEPFAR 資金の削減・転用で既に脆弱な人々が危険に晒され人命が失われたと報告。 | [Democracy Now!](https://www.democracynow.org/shows/2026/6/2) |
 
+## Japan Tech News
+
+| # | トピック | 概要 | ソース |
+|---|---------|------|--------|
+| 1 | 富士通、AI 半導体製造をラピダスに委託 | 富士通が AI 推論向け専用半導体（NPU、1.4nm 世代）の製造をラピダスに委託。国産先端ロジックでの AI 半導体内製化が前進。 | [ビジネス+IT/Yahoo](https://news.yahoo.co.jp/articles/fd3dcda2f4a8f06852c43c6673e1374da821393d) |
+| 2 | ラピダス支援に経産省 7800 億円 | 2026年度予算でラピダス支援に約7800億円を計上、前年度当初比3.7倍。2nm GAA トランジスタの動作確認も済み量産準備段階へ。 | [北海道新聞](https://www.hokkaido-np.co.jp/article/1257606/) |
+| 3 | 古河電工、DC 向け水冷モジュール量産開始 | データセンター向け冷却製品の水冷モジュールを月内から量産。サーマル・電子部品事業の26年度売上は前年度比約3倍を見込む。 | [日刊工業新聞](https://www.nikkan.co.jp/spaces/view/0087390) |
+| 4 | 官民連携の国産基盤モデル新会社に約1兆円 | 26年度から5年間で約1兆円（約63.4億ドル）規模の公的支援。官民協調で国産大規模基盤モデルを開発する新会社を立ち上げ。 | [Asia Tech Daily](https://asiatechdaily.com/japans-ai-reset-what-the-governments-first-national-plan-means-for-startups/) |
+| 5 | JEITA 会長に NEC・新野会長が就任 | 電子情報技術産業協会（JEITA）の新会長に NEC の新野隆会長が就任。業界団体トップ人事が決定。 | [日刊工業新聞](https://www.nikkan.co.jp/spaces/view/0087390) |
+| 6 | NTT、資源循環新会社「NTTサーキュラスト」設立 | 生成 AI で調達購買の見積査定・価格交渉を高度化するサービスや、再生材活用を担う新会社設立など複数サービスを発表。 | [NTT](https://group.ntt/jp/newsrelease/2026/) |
+| 7 | りそな、AI セキュリティリスク対応チーム新設 | 生成 AI 活用の拡大に伴うセキュリティリスクに対応する専門チームを設置。金融機関での AI ガバナンス強化の動き。 | [The Japan Times](https://www.japantimes.co.jp/business/2026/06/02/companies/resona-ai-interview/) |
+| 8 | IPA「情報セキュリティ10大脅威2026」 | 「AI の利用をめぐるサイバーリスク」が初めて3位にランクイン。1位ランサム、2位サプライチェーン攻撃に続き AI リスクが顕在化。 | [IPA](https://www.ipa.go.jp/security/10threats/10threats2026.html) |
+| 9 | GenerativeX、シリーズ A で 6.5 億円調達 | ニッセイキャピタルをリードに Salesforce Ventures 等から総額約6.5億円を調達（6/1）。生成 AI 業務活用領域への資金流入が続く。 | [PR TIMES](https://prtimes.jp/main/html/rd/p/000000040.000124664.html) |
+| 10 | ロボット開発 TriOrb が 28.8 億円調達 | 6/1〜5 週の国内スタートアップ調達で、ロボット開発の TriOrb が増資・借入で計28.8億円を確保。AI・ロボット分野が活況。 | [日本経済新聞](https://www.nikkei.com/article/DGXZQOUC051F40V00C26A6000000/) |
+
+## Japan General News
+
+| # | トピック | 概要 | ソース |
+|---|---------|------|--------|
+| 1 | フィリピン付近で M8.2 地震、太平洋側に津波注意報 | 6/8 午前8時38分ごろフィリピン付近で M8.2 と推定される地震。気象庁が関東〜沖縄の太平洋沿岸に津波注意報を発表。 | [福井新聞](https://www.fukuishimbun.co.jp/articles/-/2620683) |
+| 2 | 那覇・高知などに避難指示、津波1m 予想 | 沖縄本島地方は午前11時30分、高知は午後0時30分に第1波到達予想で高さ1m。沿岸の複数地域に避難指示。 | [NHK](https://news.web.nhk/newsweb/na/na-k10015143781000) |
+| 3 | 日経平均が急落、一時2400円超安 | 6/8 朝に日経平均が前日比-3.7%・64,124円まで下落。前週に史上初の68,000円台を付けた後の反落で AI 関連株を中心に売り。 | [日経CNBC](https://online.nikkei-cnbc.co.jp/vod/65876) |
+| 4 | 日銀、6月利上げ観測強まる | 15-16日の決定会合での0.25%利上げを市場は約75%織り込み。物価高・円安リスクで追加利上げ論が拡大。 | [日本経済新聞](https://www.nikkei.com/article/DGXZQOUB023HG0S6A600C2000000/) |
+| 5 | 高市政権、円安警戒で利上げに静観姿勢 | 利上げに慎重だった高市政権が円安進行を警戒し、表立った反対を見せず。日銀の利上げ判断を後押しする可能性。 | [日本経済新聞](https://www.nikkei.com/article/DGXZQOUB023HG0S6A600C2000000/) |
+| 6 | 皇位継承とりまとめ案、各党・各会派に報告へ | 政府が安定的な皇位継承に関するとりまとめ案を各党・各会派に報告する見通し。長年の懸案に進展。 | [NHK](https://www.web.nhk/tv/an/ohayou/pl/series-tep-QLP4RZ8ZY3/ep/KWJ1V93LY4) |
+| 7 | 西日本で非常に激しい雨のおそれ | 6/8 にかけて西日本で非常に激しい雨の見込み。土砂災害・河川増水への警戒が呼びかけられる。 | [NHK](https://www.web.nhk/tv/an/ohayou/pl/series-tep-QLP4RZ8ZY3/ep/KWJ1V93LY4) |
+| 8 | 米・イラン中東情勢の続報 | イランのイスラエルへのミサイル発射など緊迫する中東情勢が続報。エネルギー価格・円相場への波及が懸念される。 | [NHK](https://www.web.nhk/tv/an/kokusaihoudou/pl/series-tep-8M689W8RVX) |
+| 9 | 市役所職員の審判が二刀流で W杯 参加 | 市役所職員として働きながらサッカー審判として研鑽を積んだ人物がワールドカップ参加を実現。話題に。 | [NHK](https://www.web.nhk/tv/an/ohayou/pl/series-tep-QLP4RZ8ZY3/ep/KWJ1V93LY4) |
+| 10 | 創業期スタートアップ調達、4割減で過去最低 | 2025年の創業期スタートアップの資金調達額は前年比42%減の199億円と過去10年で最低。上場厳格化で選別強まる。 | [日本経済新聞](https://www.nikkei.com/article/DGXZQOUC3074B0Q6A430C2000000/) |
+
 ## Deep Dive
 
 - [Apple WWDC 2026 と Siri 2.0](./apple-wwdc-2026-siri.md)
 - [初の LLM エージェント自律サイバー攻撃](./first-autonomous-llm-agent-attack.md)
 - [AI インフラ投資の資本ラッシュ](./ai-infrastructure-capital-rush.md)
+- [フィリピン M8.2 地震と日本の津波注意報](./jp-philippines-quake-tsunami.md)
+- [日銀6月利上げ観測と日経平均の急落](./jp-boj-june-rate-hike-market.md)
+- [富士通×ラピダス——国産 AI 半導体の内製化](./jp-rapidus-fujitsu-ai-chip.md)
