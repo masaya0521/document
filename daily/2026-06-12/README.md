@@ -30,8 +30,41 @@
 | 9 | ミネソタ州議員暗殺事件で被告が有罪答弁に転換 | Melissa Hortman 州下院議員夫妻を殺害した政治的動機による暗殺事件で、Vance Boelter 被告が連邦裁判所で有罪を認めた。 | [Fox News](https://www.foxnews.com/us/vance-boelter-changes-plea-guilty-minn-lawmaker-shootings-killed-rep-melissa-hortman-husband) |
 | 10 | NBA ファイナル: ニックスが 29 点差を大逆転 | 第 4 戦でニックスがスパーズ相手に 29 点差を覆して 107-106 で勝利し、対戦成績 3 勝 1 敗とした。優勝に王手。 | [Fox News](https://www.foxnews.com/sports/nba-finals-game-4-recap) |
 
+## Japan Tech News
+
+| # | トピック | 概要 | ソース |
+|---|---------|------|--------|
+| 1 | 日本政府・3メガバンクが Anthropic「Claude Mythos」のアクセス権を取得 | Anthropic がサイバー防衛プロジェクト「Project Glasswing」を15カ国・約150団体へ拡大し、日本政府と三菱UFJ・三井住友・みずほの3メガバンクがアクセス権を取得。金融システム・重要インフラの脆弱性発見に活用する。 | [ITmedia NEWS](https://www.itmedia.co.jp/news/articles/2606/04/news073.html) / [Ledge.ai](https://ledge.ai/articles/anthropic_mythos_japan_megabanks_financial_cybersecurity) |
+| 2 | Interop Tokyo 2026 が幕張メッセで開催（6/10〜12） | テーマは「AIとインターネットの次章。〜Internet for AI, AI for Internet.〜」。672社・団体が出展し、会場内に世界最大級のライブネットワーク「ShowNet」を構築。本日が最終日。 | [INTERNET Watch](https://internet.watch.impress.co.jp/docs/event/2115584.html) |
+| 3 | 日経クロステックNEXT 関西 2026 開催（6/11〜12） | グランフロント大阪で開催。人材採用やプレゼン作成を自動化する AI エージェントの展示が目立ち、業務自動化ツールに注目が集まる。 | [日経クロステック](https://xtech.nikkei.com/atcl/nxt/column/18/03585/061100018/) |
+| 4 | デジタル庁、ガバメントAI「源内」の大規模実証を実施中 | 全府省庁の約18万人の政府職員を対象に生成AI利用環境「源内」を試験導入する大規模実証を2026年5月から2027年3月まで実施。2026年度以降に希望府省庁へ本格展開予定。 | [AIsmiley](https://aismiley.co.jp/ai_news/digital-large-scale-pilot/) / [デジタル庁](https://www.digital.go.jp/en/policies/genai) |
+| 5 | ロボット開発の TriOrb が計28.8億円を調達 | 北九州市発のロボットスタートアップ TriOrb が、VC 等を引受先とする第三者割当増資と借り入れで計28億8000万円を調達。 | [日本経済新聞](https://www.nikkei.com/article/DGXZQOUC051F40V00C26A6000000/) |
+| 6 | GenerativeX がシリーズAで総額約6.5億円を調達 | ニッセイキャピタルをリード投資家とするシリーズAラウンド。エンタープライズ向け生成AI実装支援を強化する。 | [PR TIMES](https://prtimes.jp/main/html/rd/p/000000040.000124664.html) |
+| 7 | Adobe・Veeam・Fortinet 製品の深刻な脆弱性に注意喚起 | 6月10日付で Adobe Campaign Classic / ColdFusion のセキュリティアップデートが公開されたほか、Veeam Backup & Replication と FortiSandbox の Web UI にもクリティカルな脆弱性が判明。 | [Security NEXT](https://www.security-next.com/) |
+| 8 | ソフトバンクG、OpenAI 投資利益6.7兆円 次は半導体・ロボットへ | OpenAI への投資で巨額の利益を計上したソフトバンクグループが、次の投資の柱として半導体・ロボティクス領域を強化する方針。 | [日本経済新聞](https://www.nikkei.com/nkd/industry/article/?DisplayType=1&n_m_code=142&ng=DGXZQOUC076N40X00C26A5000000) |
+| 9 | NTT、Multi Interconnect に「モバイルコネクション」機能を追加 | 6月11日発表。閉域網接続サービス Multi Interconnect でモバイル回線接続を可能にする新機能を提供開始。 | [NTT ニュースリリース](https://group.ntt/jp/newsrelease/2026/) |
+| 10 | JST、NVIDIA 技術を活用した介護向けムーンショットロボットを開発 | 科学技術振興機構（JST）のムーンショット型研究開発事業で、高齢者ケア向けの AI ロボットを NVIDIA のプラットフォームを用いて開発。 | [NVIDIA Blog](https://blogs.nvidia.com/blog/japan-science-technology-agency-develops-moonshot-robot/) |
+
+## Japan General News
+
+| # | トピック | 概要 | ソース |
+|---|---------|------|--------|
+| 1 | 日経平均が一時2500円超の急騰 トランプ氏のイラン攻撃中止表明を好感 | 12日の東京株式市場は取引開始直後から買い注文が殺到し、日経平均は一時2500円超上昇。米国のイラン攻撃中止表明で中東リスク後退への期待が広がった。 | [NHK](https://news.web.nhk/newsweb/na/na-k10015148121000) / [日本経済新聞](https://www.nikkei.com/article/DGXZQOUB080I70Y6A400C2000000/) |
+| 2 | 円相場が上昇、1ドル=160円近辺に 原油先物は大幅下落 | イラン攻撃中止の発表を受けて米原油先物が大幅安となり、12日朝方の外為市場では円が買い戻されて160円ちょうど近辺で推移。 | [日本経済新聞](https://www.nikkei.com/markets/currencies/) |
+| 3 | 植田日銀総裁が入院、15〜16日の金融政策決定会合を欠席へ | 肝嚢胞感染症の治療のため9日から約2週間入院。新日銀法施行以来初めて総裁不在の決定会合となり、氷見野副総裁が議長代理、内田副総裁が会見を担当。8人での多数決となる。 | [日本経済新聞](https://www.nikkei.com/article/DGXZQOUB10A3D0Q6A610C2000000/) / [NHK](https://news.web.nhk/newsweb/na/na-k10015146301000) |
+| 4 | 5月の企業物価指数が前年比6.3%上昇 3年2カ月ぶりの高い伸び | 日銀が10日発表した5月の国内企業物価指数は134.5で前年同月比6.3%上昇。中東情勢による原油高で、調査対象515品目中418品目が値上がり。 | [時事通信](https://www.jiji.com/jc/article?k=2026061000250&g=eco) / [日本経済新聞](https://www.nikkei.com/article/DGXZQOUB0168H0R00C26A6000000/) |
+| 5 | 高市首相、13日から英伊仏を歴訪 G7エビアン・サミットに初参加 | 6月15〜17日にフランス・エビアンで開かれるG7サミットに初参加。それに先立ち英国・イタリアを訪問し首脳会談を行う。 | [時事通信](https://www.jiji.com/jc/article?k=2026060301026&g=pol) / [NHK](https://news.web.nhk/newsweb/na/na-k10015139711000) |
+| 6 | FIFAワールドカップ2026が開幕 日本はグループF | 日本時間12日に開幕した48チーム制のW杯で、日本はオランダ、チュニジア、スウェーデンと同組のグループFに入った。 | [マイナビニュース](https://news.mynavi.jp/article/20260611-4559247/) |
+| 7 | 相模原市の河川敷で女子高生とみられる遺体 殺人容疑も視野に捜査 | 神奈川県相模原市の河川敷で17歳の女子高生とみられる遺体が発見され、警察は事情を知っているとみられる10代の知人男性について殺人容疑も視野に捜査。 | [NHK 事件・事故](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-0001538) |
+| 8 | 衆院定数削減、比例45議席削減をもとに法案作成へ | 衆院定数削減をめぐり比例代表45議席を削減する考え方をもとに法案が作成される見通し。2月の衆院選の1票の格差訴訟では「合憲」判断が相次ぐ。 | [NHK 政治](https://news.web.nhk/newsweb/genre/politics) |
+| 9 | プロ野球 日本ハムが7連勝、西武・ソフトバンクは5連勝 | 交流戦でソフトバンクが昨季セ・リーグ王者の阪神を3タテするなどパ・リーグ勢が好調。日本ハムは破竹の7連勝。 | [スポーツナビ](https://sports.yahoo.co.jp/list/news/npb?genre=npb) |
+| 10 | 宇都宮市のクマ出没による休校が解除、市立小中学校で授業再開 | クマの出没を受けて休校が続いていた宇都宮市の市立小中学校で11日から授業が再開。 | [NHK 首都圏](https://news.web.nhk/newsweb/area/130) |
+
 ## Deep Dive
 
 - [Claude Fable 5 / Mythos 5 — Anthropic の新ティア「Mythos クラス」](./claude-fable-5-mythos-5.md)
 - [SpaceX IPO — 史上最大の 750 億ドル調達と「個人投資家 30%」の構造](./spacex-ipo.md)
 - [Microsoft 史上最大の Patch Tuesday — 200 件修正とワーム化可能な TCP/IP 脆弱性](./microsoft-record-patch-tuesday.md)
+- [植田日銀総裁が入院、史上初の「総裁不在」金融政策決定会合へ](./jp-boj-governor-absence-june-meeting.md)
+- [日本政府・3メガバンクが Claude Mythos アクセス権を取得 — Project Glasswing 拡大の文脈](./jp-claude-mythos-japan-cyberdefense.md)
+- [イラン攻撃中止表明で日経平均一時2500円高 — 日本市場の「停戦後」織り込み](./jp-iran-attack-halt-market-rally.md)
