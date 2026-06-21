@@ -30,8 +30,41 @@
 | 9 | 原油安が世界経済に追い風 | ホルムズ海峡再開の織り込みで原油が急落。エネルギーコスト低下がインフレ緩和に寄与する一方、楽観の行き過ぎを警戒する声も。 | [Al Jazeera](https://www.aljazeera.com/economy/2026/6/17/oil-prices-continue-slide-amid-hopes-for-peace-opening-of-strait-of-hormuz) |
 | 10 | W 杯で気候変動による猛暑リスク顕在化 | Climate Central の分析で全 104 試合中 97 試合に競技能力を損なう猛暑リスク。主催者は夜間開催と給水義務化で対応。 | [Climate Central](https://www.climatecentral.org/climate-matters/world-cup-matches) |
 
+## Japan Tech News
+
+| # | トピック | 概要 | ソース |
+|---|---------|------|--------|
+| 1 | ラピダスに政府が 1,500 億円を追加出資 | 政府が IPA を通じてラピダスへ 1,500 億円を追加出資。2nm 世代の試作で GAA トランジスタ動作を確認し、2027 年量産開始へ準備を加速。 | [日本経済新聞](https://www.nikkei.com/article/DGXZQOUC25BNS0V21C25A2000000/) |
+| 2 | マイナンバーカードのスマホ搭載が進展 | iPhone 搭載（2025/6 開始）に続き Android 端末も 2026 年秋頃の基本 4 情報搭載を目指す。マイナポータルのバックエンド更改も控え行政 DX が加速。 | [ケータイ Watch](https://k-tai.watch.impress.co.jp/docs/news/2062802.html) |
+| 3 | メルカリ、米国で「グローバルアプリ」提供開始 | メルカリが米国で「メルカリ グローバルアプリ」の提供を開始し、米国ユーザーが日本の出品商品に直接アクセスできる越境購買を実現。 | [メルカリ](https://about.mercari.com/) |
+| 4 | NTT ドコモ、オープンイヤー型集音器「cocoe Ear」発売 | 6/18 に世界初の耳をふさがないオープンイヤー型集音器を一般発売。全国 47 都道府県・56 店舗のドコモショップで体験展示を開始。 | [ケータイ Watch](https://k-tai.watch.impress.co.jp/) |
+| 5 | ソフトバンク、OpenAI 技術活用のセキュリティ新サービス | 6/16 の法人イベントで、OpenAI 技術を用いた企業向け脆弱性対策「Patching as a Service（PaaS）」の提供を発表。 | [ソフトバンク](https://www.softbank.jp/) |
+| 6 | 政府の 1 兆円「国家 AI 計画」始動 | 2025 年 12 月承認の 1 兆円規模の国家 AI 計画が 2026 年度から国産基盤モデル開発を支援。新興 AI 企業の資金調達・成長を後押し。 | [Asia Tech Daily](https://asiatechdaily.com/japans-ai-reset-what-the-governments-first-national-plan-means-for-startups/) |
+| 7 | Sakana AI が国内最高評価額スタートアップに | 日本語・文化に最適化した資源効率型の基盤モデルを開発する Sakana AI が、25 年 11 月の Series B で評価額 26.5 億ドルに到達。 | [StartupHub.ai](https://www.startuphub.ai/countries/japan) |
+| 8 | Station AI×SoftBank×NVIDIA の「AI Boost Program」 | 5 社のスタートアップを対象に、SoftBank の高性能 GPU と NVIDIA エンジニア支援を無償提供し、国内 AI 起業の構造的障壁の解消を狙う。 | [StartupHub.ai](https://www.startuphub.ai/countries/japan) |
+| 9 | ソニー、スマホ向け新センサー「LYTIA L910」 | 1/1.28 型の新イメージセンサーをリリース。白飛びやノイズを抑制する機能を備え、ハイエンドスマホ向けの画質競争を牽引。 | [Sony Semiconductor](https://www.sony-semicon.com/ja/index.html) |
+| 10 | 国内セキュリティインシデントが相次ぐ | 九州大学病院がランサムウェア被害、エン「ミドルの転職」へ不正アクセス等。IPA「情報セキュリティ 10 大脅威 2026」も公開され警戒が高まる。 | [IPA](https://www.ipa.go.jp/security/10threats/10threats2026.html) |
+
+## Japan General News
+
+| # | トピック | 概要 | ソース |
+|---|---------|------|--------|
+| 1 | 日経平均が初の 7 万円突破 | 6/16 の東京株式市場で、日銀の追加利上げが想定どおりと受け止められ買いが優勢に。日経平均が取引時間中に初めて 7 万円の大台を突破。 | [NHK](https://news.web.nhk/newsweb/na/na-k10015150931000) |
+| 2 | 日銀が追加利上げ、政策金利 1.0% へ | 6 月の金融政策決定会合で 0.25% の追加利上げを決定し、政策金利を 1.0% に。市場は 75〜77% の確率で織り込んでいた。 | [マネースクエア](https://www.m2j.co.jp/market/report/101187) |
+| 3 | 普通預金金利が 34 年ぶり高水準 | 日銀利上げを受け 3 メガバンクが普通預金金利を 0.4% に引き上げ。34 年ぶりの高水準となり、家計の利息収入改善が期待される。 | [日本経済新聞](https://www.nikkei.com/) |
+| 4 | 通常国会が 6/21 会期末 | 1/23 召集の通常国会が 6/21 に会期末。衆院議員定数削減や企業・団体献金の見直しを巡る与野党の攻防が最終盤の焦点に。 | [KSI 政策ニュース](https://www.policynews.jp/schedule/2026/1.html) |
+| 5 | 政府、電気・ガス料金支援を 7〜9 月実施 | 高市内閣が「中東情勢等対応予備費」を創設し、7〜9 月に電気・ガス料金を支援。標準家庭で 3 か月約 5,000 円の負担軽減を見込む。 | [首相官邸](https://www.kantei.go.jp/jp/105/statement/2026/0525kaiken.html) |
+| 6 | 5 月の貿易赤字 3,786 億円 | 5 月の貿易収支は 3,786 億円の赤字で、4 か月ぶりのマイナスに転じた。資源価格や為替動向が輸入額に影響。 | [時事ドットコム](https://www.jiji.com/jc/archives?g=eco_archive_0) |
+| 7 | 3 メガバンク配当、26 年度に初の年 2 兆円超へ | 3 メガバンクの株主配当総額が 2026 年度に初めて年 2 兆円を超える見通し。好調な業績と金利上昇局面が追い風。 | [日本経済新聞](https://www.nikkei.com/) |
+| 8 | 政府の物価高対策でガソリン 170 円に抑制 | 高市内閣がガソリン価格を全国平均 170 円に抑制する措置を継続。4 月の消費者物価を約 1.1 ポイント押し下げる効果。 | [首相官邸](https://www.kantei.go.jp/jp/105/statement/2026/0407kaiken.html) |
+| 9 | 骨太の方針 2026 を 6 月に取りまとめ | 政府は経済財政運営の指針「骨太の方針 2026」を 6 月中に取りまとめ。物価高対策・賃上げ・財政健全化のバランスが論点に。 | [紀尾井町戦略研究所](https://ksi-corp.jp/topics/consulting/2026/1schedule.html) |
+| 10 | サッカー W 杯 2026、日本が 6/21 に試合 | 北中米共催の W 杯 1 次リーグ グループ F で、日本代表が日本時間 6/21 に試合を迎える。決勝トーナメント進出を懸けた重要な一戦。 | [NHK](https://news.web.nhk/newsweb) |
+
 ## Deep Dive
 
 - [SpaceX による Cursor 買収と Musk「兆ドル」到達](./spacex-cursor-acquisition.md)
 - [ホルムズ海峡危機の緩和と原油市場の反応](./strait-of-hormuz-oil-market.md)
 - [NVIDIA Rubin プラットフォームと AI インフラ競争](./nvidia-rubin-platform.md)
+- [日経平均 7 万円突破と日銀の追加利上げ](./jp-nikkei-70000-boj-rate-hike.md)
+- [ラピダスへの政府追加出資と 2nm 量産への道](./jp-rapidus-government-investment.md)
+- [マイナンバーカードの iPhone 搭載と行政 DX](./jp-mynumber-iphone.md)
