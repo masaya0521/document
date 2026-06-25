@@ -30,7 +30,39 @@
 | 9 | 2026 FIFA ワールドカップ開催中 | W杯が進行中。ウズベキスタンが中央アジア勢として初の本大会出場を果たす。 | [ABC News](https://abcnews.com/international) |
 | 10 | SK Hynix が $29B の Nasdaq 上場を計画 | 韓国最大のメモリチップメーカー SK Hynix が $29B 規模の Nasdaq 上場を計画。AI メモリ需要を背景に資金調達を加速。 | [Tech Startups](https://techstartups.com/2026/06/24/top-tech-news-today-june-24-2026/) |
 
+## Japan Tech News
+
+| # | トピック | 概要 | ソース |
+|---|---------|------|--------|
+| 1 | KDDI 不正アクセス、1,422万件漏えい疑い | KDDI が外部 ISP 向けに提供するメールシステムが不正アクセスを受け、最大1,422万件のメールアドレス・パスワードが漏えいの可能性。第三者製ソフトの脆弱性が原因とされる。 | [日本経済新聞](https://www.nikkei.com/article/DGXZQOUC237WT0T20C26A6000000/) |
+| 2 | 高市政権、17戦略分野に官民370兆円超の投資ビジョン | 2040年度までに AI・半導体、造船、量子、宇宙など17分野へ官民合計370兆円超を投資する成長戦略を提示。半導体に約68兆円、フィジカル AI に10.5兆円。 | [時事ドットコム](https://www.jiji.com/jc/article?k=2026062401070&g=eco) |
+| 3 | 経産省、FY2026 の半導体・AI 予算を増額 | METI が2026年度の半導体・AI 関連予算を増額。国家戦略としての半導体製造基盤・AI インフラ強化を継続。 | [eeNews Europe](https://www.eenewseurope.com/en/meti-budget-hike-japan-chip-ai-fy-2026/) |
+| 4 | GenerativeX がシリーズ A で6.5億円調達 | 企業向け生成 AI の GenerativeX がシリーズ A で総額約6.5億円を調達。ニッセイキャピタルがリード、Salesforce Ventures 等が参加。 | [PR TIMES](https://prtimes.jp/main/html/rd/p/000000040.000124664.html) |
+| 5 | 上半期の国内スタートアップ調達1,377億円、AI が23% | 2026年上半期、国内スタートアップは132件・1,377億円を調達。AI/LLM 系31件が309億円を集め全体の23%を占めた。 | [日本経済新聞](https://www.nikkei.com/article/DGXZQOUC081MY0Y6A600C2000000/) |
+| 6 | NTT ドコモ、オープンイヤー型集音器「cocoe Ear」発売 | ドコモが耳をふさがないオープンイヤー型集音器「cocoe Ear」を一般発売。全国47都道府県56店舗で体験展示を開始。 | [ケータイ Watch](https://k-tai.watch.impress.co.jp/backno/top/index.html) |
+| 7 | NTT、純国産 LLM 活用の MCP 搭載 AI エージェント実証 | NTT ビジネスソリューションズが「データ連携基盤サービス」に MCP（AI 連携機能）を搭載し、純国産 LLM を使った AI エージェントの実証を開始。 | [NTT](https://group.ntt/jp/newsrelease/2026/) |
+| 8 | ソニー、1/1.28型スマホセンサー「LYTIA L910」 | ソニーがスマホ向け1/1.28型イメージセンサー「LYTIA L910」を発表。白飛びやノイズを抑制する機能を備える。 | [ケータイ Watch](https://k-tai.watch.impress.co.jp/backno/top/index.html) |
+| 9 | メルカリ、米国で「グローバルアプリ」提供開始 | メルカリが米国で「メルカリ グローバルアプリ」の提供を開始し、米国ユーザーが日本の出品商品に直接アクセス可能に。 | [メルカリ](https://about.mercari.com/) |
+| 10 | 楽天モバイル、自律型ネットワーク Level 4 を世界初取得 | 楽天モバイルと楽天シンフォニーが、商用 Open RAN の RAN 省電力化で TM Forum から世界初の「自律型ネットワーク レベル4」認定を取得。 | [楽天グループ](https://corp.rakuten.co.jp/news/press/2026/) |
+
+## Japan General News
+
+| # | トピック | 概要 | ソース |
+|---|---------|------|--------|
+| 1 | 非常に強い台風7号、26日に沖縄接近 | 台風7号「メーカラー」が6月26日ごろ沖縄本島へ接近。九州〜近畿で26日夜までに300mm前後（局地的500mm前後）の大雨予想で、土砂災害・浸水に警戒。 | [ウェザーニュース](https://weathernews.jp/news/202606/230021/) |
+| 2 | 高市内閣支持率55.8%、発足以来最低 | 共同通信世論調査で高市内閣の支持率が初めて60%を割り55.8%に低下。総裁選での中傷動画疑惑をめぐり約半数が首相説明を不十分と回答。 | [日本経済新聞](https://www.nikkei.com/article/DGXZQOUA211FH0R20C26A6000000/) |
+| 3 | 日経平均、AI・半導体株の利益確定売りで急落局面 | 過熱した AI・半導体関連株に利益確定の売りが広がり、6月23日には日経平均の下げ幅が一時2,000円を超える場面も。高値圏で値動きが荒い展開。 | [日経 CNBC](https://online.nikkei-cnbc.co.jp/vod/65894) |
+| 4 | 中東情勢を踏まえた令和8年度補正予算で会見 | 高市首相が中東情勢を踏まえた令和8年度補正予算等について記者会見。危機管理投資・成長投資による「強い経済」の実現を強調。 | [首相官邸](https://www.kantei.go.jp/jp/105/statement/2026/0525kaiken.html) |
+| 5 | ソフトバンクG、株主総会で「超知性の社会基盤」掲げる | ソフトバンクグループが株主総会で純資産価値1,000兆円を目指す「超知性の社会基盤提供」のビジョンを表明。AI への大型投資路線を継続。 | [日刊工業新聞](https://www.nikkan.co.jp/spaces/view/0087667) |
+| 6 | ローム、東芝・三菱電との半導体統合「スピード重視」 | 株主総会でロームが東芝・三菱電機とのパワー半導体統合について「スピード重視」で進める方針を表明。国内半導体再編が加速。 | [日刊工業新聞](https://www.nikkan.co.jp/spaces/view/0087667) |
+| 7 | NTN、日本精工との統合で「国際競争力高める」 | 軸受大手 NTN が日本精工との経営統合について「国際競争力を高める」との見解を表明。世界的な再編をにらんだ大型統合。 | [日刊工業新聞](https://www.nikkan.co.jp/spaces/view/0087667) |
+| 8 | キオクシア HD、AI データセンター関連を強化 | キオクシアホールディングスが AI データセンター需要を背景にメモリ事業の取り組みを強化。AI メモリ需要が業績を牽引。 | [日刊工業新聞](https://www.nikkan.co.jp/spaces/view/0087667) |
+| 9 | 南海高野線、大雨で運転見合わせ | 6月26日朝、大雨による線路冠水で南海電鉄高野線のなんば〜堺東などで運転見合わせが発生。台風接近に伴う交通影響が広がる。 | [NHK](https://news.web.nhk/newsweb) |
+| 10 | IPA、Adobe・Microsoft 製品の脆弱性で注意喚起 | IPA が Adobe Acrobat/Reader（緊急）、Microsoft、Check Point 製品の脆弱性対策を注意喚起。AI 利用リスクが10大脅威に初ランクイン。 | [IPA](https://www.ipa.go.jp/security/security-alert/index.html) |
+
 ## Deep Dive
 
 - [Anthropic の S-1 提出と AI ラボ初の IPO](./anthropic-s1-ipo-filing.md)
 - [Agentjacking — AI コーディングエージェントを乗っ取る新攻撃](./agentjacking-ai-coding-agents.md)
+- [KDDI 不正アクセス — 最大1,422万件漏えいか](./jp-kddi-mail-breach.md)
+- [高市政権「17戦略分野・官民370兆円超」成長戦略](./jp-growth-strategy-370trillion.md)
