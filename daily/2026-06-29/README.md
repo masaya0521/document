@@ -30,8 +30,40 @@
 | 9 | Verizonがダウ平均から除外、Alphabetが採用 | 6/29 の取引開始前に Verizon がダウ工業株30種から除外され、Alphabet が組み入れられた。AI時代の銘柄入れ替えを象徴。 | [TheStreet](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-26-2026) |
 | 10 | 国連委員会、イスラエルのガザでの行為を「ジェノサイド」と認定 | 国連の委員会が、イスラエルがパレスチナ人に対し子供を意図的に標的にした「ジェノサイド」を行っていると認定したと報じられた。 | [Al Jazeera](https://www.aljazeera.com/) |
 
+## Japan Tech News
+
+| # | トピック | 概要 | ソース |
+|---|---------|------|--------|
+| 1 | 日経平均が大荒れ、ソフトバンクG急落 | 6/26 までの週、日経平均は2度の史上最高値更新後に金曜は史上3位の下落幅を記録し7万円割れ。OpenAI の IPO 2027年延期報道を受けソフトバンクGが約13%急落した。 | [Business Standard](https://www.business-standard.com/amp/markets/capital-market-news/japan-markets-tumble-as-tech-stocks-come-under-pressure-126062600848_1.html) |
+| 2 | KDDI、ISP向けサービスで不正アクセスを公表 | KDDI は 6/23、インターネットサービスプロバイダー事業者向けに提供するサービスが不正アクセスを受けたことを公表。国内のセキュリティインシデントが続いている。 | [サイバーセキュリティ.com](https://cybersecurity-jp.com/news) |
+| 3 | メルカリ、米国でグローバルアプリ提供開始 | 「メルカリ グローバルアプリ」が米国で提供開始され、米国ユーザーが日本の出品商品に直接アクセス可能に。越境 EC を本格強化する動き。 | [Diamond](https://diamond.jp/list/companies/10396778) |
+| 4 | ラピダス、GAAトランジスタの試作に成功 | 北海道・千歳の工場で 6 月に GAA（Gate All Around）トランジスタを試作し動作を確認。2027年の量産開始方針を堅持し、民間出資も30社規模へ拡大の見通し。 | [日本経済新聞](https://www.nikkei.com/article/DGXZQOUC25BNS0V21C25A2000000/) |
+| 5 | キオクシア、4-6月期売上1.75兆円を予想 | AIメモリ需要を背景にキオクシアは 2026年4〜6月期に売上収益1兆7,500億円（前期比74.5%増）、営業利益1兆2,980億円（同117.5%増）を予想。 | [SBI証券](https://go.sbisec.co.jp/media/report/dom_senryaku/dom_senryaku_260522.html) |
+| 6 | 富士通、Technology and Service Vision 2026 策定 | 6/18、富士通は「Dynamic transformation」を核とした「Fujitsu Technology and Service Vision 2026」を発表。同日「AWS Japan Certification Award 2025」で過去最多8部門を受賞。 | [Fujitsu](https://global.fujitsu/ja-jp/pr) |
+| 7 | ソニー・ホンダのEV「アフィーラ」発売中止報道 | 6/19、ソニー・ホンダモビリティの EV「アフィーラ」がホンダの戦略変更で発売中止に追い込まれたとの報道。日系の協業 EV 構想に逆風。 | [Diamond](https://diamond.jp/list/companies/10133742) |
+| 8 | デジタル庁、生成AIガイドライン改定で意見募集結果を公表 | 6/12、生成AIの調達・利活用ガイドライン改定案へのパブコメ結果を公表。地方公共団体のアナログ規制見直し支援や電子処方箋ダッシュボードも更新。 | [デジタル庁](https://www.digital.go.jp/news) |
+| 9 | スタートアップ調達：代アニ29億円、TriOrb28.8億円 | 6 月、代々木アニメーショングループが海外展開へ29億円、ロボット開発の TriOrb が量産・海外展開へ計28.8億円を調達。一方で創業初期の調達は冷え込み傾向。 | [日本経済新聞](https://www.nikkei.com/article/DGXZQOUC26BAL0W6A620C2000000/) |
+| 10 | 日中経済協会、職員メールに不正アクセス | 6 月、日中経済協会が職員のメールアカウントへの不正アクセスを公表。標的型攻撃・アカウント侵害が国内組織で相次いでいる。 | [サイバーセキュリティ.com](https://cybersecurity-jp.com/news) |
+
+## Japan General News
+
+| # | トピック | 概要 | ソース |
+|---|---------|------|--------|
+| 1 | 東京都区部CPI、6月は前年比+1.6%上昇 | 総務省発表の 6 月東京都区部の生鮮食品除くコア CPI は前年比+1.6%上昇で市場予想と一致。日銀の追加利上げ観測を支える内容。 | [Japan Times](https://www.japantimes.co.jp/business/2026/06/26/economy/tokyo-inflation-picks-up-june/) |
+| 2 | 日経平均、7万円割れで週を終える | 6/26 終値は前週末比1,889円安の6万9,360.88円。週内に2度の最高値更新後、金曜に急落する乱高下となった。来週予想レンジは6万4,000〜7万2,000円。 | [Diamond ZAi](https://diamond.jp/zai/articles/-/1069301) |
+| 3 | 福岡・田川の住宅地で深さ6mの陥没 | 6/26 夕、田川市の住宅地で縦約9m・深さ約6mの陥没が発生。現場は坑道が残る炭鉱跡地で、大雨が一因とみられ住民約20人が避難。 | [NHK](https://news.web.nhk/newsweb/na/na-k10015162491000) |
+| 4 | W杯ラウンド32、日本対ブラジルは6/30未明 | FIFAワールドカップ2026 決勝トーナメント・ラウンド32で、SAMURAI BLUE は 6/30（火）午前2時に “サッカー王国” ブラジルと対戦。 | [NHK](https://news.web.nhk/newsweb/na/na-k10015160851000) |
+| 5 | 高市首相、G7エビアン・サミットに出席 | 高市首相は 6/13〜18 に英国・イタリアを訪問しフランスの G7 エビアン・サミットに出席。中東情勢を踏まえたエネルギー・経済安全保障が主要議題に。 | [首相官邸](https://www.kantei.go.jp/jp/105/statement/2026/0613kaiken.html) |
+| 6 | 衆院、政治改革で自民・維新法案の審議入り | 衆院の政治改革特別委員会で、自民・維新（LDP-JIP）法案の審議が月曜から始まる見通し。特別国会会期は 7/17 まで。 | [Japan Times](https://www.japantimes.co.jp/) |
+| 7 | 日本とインド、LNG備蓄でタスクフォース設置 | エネルギー安全保障強化に向け、日本とインドが LNG（液化天然ガス）の備蓄に関するタスクフォースを設置する方針で合意。 | [Japan Times](https://www.japantimes.co.jp/business/economy/) |
+| 8 | カナダ、対日貿易の拡大を模索 | カナダが豊富な天然資源に加え、AI や農産物の強みを生かして対日貿易を拡大しようとしていると報じられた。 | [Japan Times](https://www.japantimes.co.jp/) |
+| 9 | 稲川会組員ら4人逮捕、盗難車の不正名義変更 | 6/26、盗難車の不正な名義変更に関与したとして稲川会の暴力団員ら4人が逮捕された。 | [NHK](https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-0001538) |
+| 10 | 岡本和真、2試合連続ノーヒットでチーム6連敗 | MLB ブルージェイズの岡本和真が2試合連続ノーヒットに終わり、チームも6連敗を喫した。 | [NHK](https://news.web.nhk/newsweb) |
+
 ## Deep Dive
 
 - [IBM、世界初のサブ1nmチップ技術 — ナノスタックでムーアの法則を延命](./ibm-sub-1nm-chip.md)
 - [Colorado AI法の施行延期と縮小 — 米国の州AI規制はどこへ向かうか](./colorado-ai-act-delay.md)
 - [AI株調整とデータセンター投資 — バブルか健全な調整か](./ai-stocks-selloff-datacenter-capex.md)
+- [ラピダス、GAAトランジスタ試作成功 — 日本の2nm国産化戦略の現在地](./jp-rapidus-gaa-2nm.md)
+- [福岡・田川の陥没 — 旧産炭地に潜む空洞リスクと豪雨](./jp-tagawa-sinkhole.md)
